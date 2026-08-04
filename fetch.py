@@ -36,10 +36,10 @@ MAX_NEW_SUMMARIES_PER_RUN = 15       # safety cap so one run stays comfortably i
 SECONDS_BETWEEN_AI_CALLS = 4         # small pause so requests don't burst past the free tier's requests-per-minute limit
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 GEMINI_MODEL_FALLBACKS = [
-    "gemini-3-flash-preview",   # currently featured/default model in Google AI Studio as of Aug 2026
+    "gemini-2.5-flash",          # stable, fast, reliable - tried first
     "gemini-flash-latest",
-    "gemini-2.5-flash",
     "gemini-2.5-flash-lite",
+    "gemini-3-flash-preview",    # preview model - powerful but sometimes overloaded/slow, kept as last resort
 ]  # tried in this order, first one that works wins
 
 # ---------------------------------------------------------------------------
@@ -115,7 +115,7 @@ def summarize_with_ai(title, source_text, source_name):
                 url,
                 headers={"Content-Type": "application/json"},
                 json={"contents": [{"parts": [{"text": prompt}]}]},
-                timeout=30,
+                timeout=15,
             )
             if response.status_code != 200:
                 # Capture Google's actual explanation, not just the status code -
