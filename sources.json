@@ -1,0 +1,31 @@
+{
+  "site_name": "Global Pulse — Multi-Niche News",
+  "site_description": "Automatically updated summaries across 10 topics, refreshed around the clock.",
+  "sources": [
+    { "name": "TechCrunch", "rss_url": "https://techcrunch.com/feed/", "category": "AI & Tech" },
+    { "name": "The Verge", "rss_url": "https://www.theverge.com/rss/index.xml", "category": "AI & Tech" },
+    { "name": "Hacker News (Front Page)", "rss_url": "https://hnrss.org/frontpage", "category": "AI & Tech" },
+
+    { "name": "TechCrunch Startups", "rss_url": "https://techcrunch.com/category/startups/feed/", "category": "Startups" },
+    { "name": "Hacker News (Best)", "rss_url": "https://hnrss.org/best", "category": "Startups" },
+
+    { "name": "CoinDesk", "rss_url": "https://www.coindesk.com/arc/outboundfeeds/rss/", "category": "Crypto" },
+    { "name": "Cointelegraph", "rss_url": "https://cointelegraph.com/rss", "category": "Crypto" },
+
+    { "name": "We Work Remotely", "rss_url": "https://weworkremotely.com/remote-jobs.rss", "category": "Remote Work" },
+    { "name": "Remote OK", "rss_url": "https://remoteok.com/remote-jobs.rss", "category": "Remote Work" },
+
+    { "name": "Grist", "rss_url": "https://grist.org/feed/", "category": "Climate" },
+
+    { "name": "The Daily Star", "rss_url": "https://www.thedailystar.net/rss.xml", "category": "Bangladesh News" },
+    { "name": "bdnews24", "rss_url": "https://bdnews24.com/rss.xml", "category": "Bangladesh News" },
+
+    { "name": "Polygon", "rss_url": "https://www.polygon.com/rss/index.xml", "category": "Gaming" },
+
+    { "name": "MarketWatch Top Stories", "rss_url": "https://feeds.marketwatch.com/marketwatch/topstories/", "category": "Finance" },
+
+    { "name": "Reddit r/freelance", "rss_url": "https://www.reddit.com/r/freelance/.rss", "category": "Freelance" },
+
+    { "name": "ScienceDaily Health", "rss_url": "https://www.sciencedaily.com/rss/health_medicine.xml", "category": "Health" }
+  ]
+}
