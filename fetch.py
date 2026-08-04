@@ -208,10 +208,24 @@ def main():
         log(f"  {source.get('name')}: found {len(fetched)} items")
         all_new_items.extend(fetched)
 
+    # Group by category and interleave (round-robin) so that if there are more
+    # new items than we can AI-summarize in one run, every category still gets
+    # a fair share instead of the first-listed category (e.g. AI & Tech) using
+    # up the entire budget before other categories are ever reached.
+    by_category = {}
+    for item in all_new_items:
+        by_category.setdefault(item["category"], []).append(item)
+
+    interleaved_items = []
+    while any(by_category.values()):
+        for cat in list(by_category.keys()):
+            if by_category[cat]:
+                interleaved_items.append(by_category[cat].pop(0))
+
     new_articles = []
     summarized_count = 0
 
-    for item in all_new_items:
+    for item in interleaved_items:
         article_id = make_id(item["url"], item["title"])
         if article_id in seen_ids:
             continue  # already processed before - skip (this IS the deduplication step)
@@ -223,8 +237,11 @@ def main():
             if summarized_count < MAX_NEW_SUMMARIES_PER_RUN:
                 time.sleep(SECONDS_BETWEEN_AI_CALLS)
         else:
-            # safety cap reached this run - it will simply be picked up next run
-            continue
+            # AI summary budget used up for this run - still publish the article
+            # (using the original snippet) instead of dropping it. It will simply
+            # look like a direct excerpt rather than an AI-rewritten summary.
+            # This guarantees every category still appears on the site every run.
+            summary = (item["raw_snippet"][:220] + "...") if len(item["raw_snippet"]) > 220 else item["raw_snippet"]
 
         new_articles.append({
             "id": article_id,
