@@ -1,0 +1,46 @@
+bash
+
+cat /home/claude/news-aggregator/.github/workflows/update.yml
+Output
+
+name: Update News Data
+
+# This workflow runs automatically - you never need to click anything for it to work.
+on:
+  schedule:
+    # Runs every hour, at minute 0. GitHub uses UTC time.
+    - cron: '0 * * * *'
+  workflow_dispatch:
+    # This adds a manual "Run workflow" button on the Actions tab,
+    # useful the first time you want to test it immediately instead of waiting an hour.
+
+permissions:
+  contents: write   # allows the workflow to save updated data back into the repository
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch and summarize news
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python fetch.py
+
+      - name: Save updated data back to the repository
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add data/articles.json
+          git diff --quiet --cached || git commit -m "Auto-update: fetch latest news $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
