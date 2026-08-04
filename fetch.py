@@ -35,7 +35,12 @@ MAX_STORED_ARTICLES = 300          # keeps the JSON file (and site) from growing
 MAX_NEW_SUMMARIES_PER_RUN = 15       # safety cap so one run stays comfortably inside the free tier's per-minute limit
 SECONDS_BETWEEN_AI_CALLS = 4         # small pause so requests don't burst past the free tier's requests-per-minute limit
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
-GEMINI_MODEL = "gemini-2.5-flash"   # covered by Google's free tier (no credit card required)
+GEMINI_MODEL_FALLBACKS = [
+    "gemini-3-flash-preview",   # currently featured/default model in Google AI Studio as of Aug 2026
+    "gemini-flash-latest",
+    "gemini-2.5-flash",
+    "gemini-2.5-flash-lite",
+]  # tried in this order, first one that works wins
 
 # ---------------------------------------------------------------------------
 # HELPERS
@@ -82,6 +87,9 @@ def summarize_with_ai(title, source_text, source_name):
     Returns a plain string. Falls back to a trimmed original snippet if the
     API call fails for any reason (so the pipeline never crashes because of this) -
     e.g. if the free daily quota is temporarily used up.
+
+    Tries a short list of model names in order, in case one is unavailable
+    for this particular API key/account (this varies more than it should).
     """
     fallback = (source_text[:220] + "...") if len(source_text) > 220 else source_text
 
@@ -99,33 +107,39 @@ def summarize_with_ai(title, source_text, source_name):
         "Write only the summary, nothing else."
     )
 
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+    last_error_detail = ""
+    for model_name in GEMINI_MODEL_FALLBACKS:
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={GEMINI_API_KEY}"
+        try:
+            response = requests.post(
+                url,
+                headers={"Content-Type": "application/json"},
+                json={"contents": [{"parts": [{"text": prompt}]}]},
+                timeout=30,
+            )
+            if response.status_code != 200:
+                # Capture Google's actual explanation, not just the status code -
+                # this is what tells us WHY it failed (bad model name, quota, permissions, etc.)
+                last_error_detail = f"{response.status_code} - {response.text[:300]}"
+                log(f"WARNING: Gemini model '{model_name}' failed for '{title}': {last_error_detail}")
+                continue  # try the next model name in the fallback list
 
-    try:
-        response = requests.post(
-            url,
-            headers={
-                "x-goog-api-key": GEMINI_API_KEY,
-                "Content-Type": "application/json",
-            },
-            json={
-                "contents": [{"parts": [{"text": prompt}]}]
-            },
-            timeout=30,
-        )
-        response.raise_for_status()
-        result = response.json()
-        candidates = result.get("candidates", [])
-        if not candidates:
-            return fallback
-        parts = candidates[0].get("content", {}).get("parts", [])
-        summary = " ".join(p.get("text", "") for p in parts).strip()
-        return summary if summary else fallback
-    except Exception as e:
-        # This also catches 429 "quota exceeded" errors if the free daily limit is hit -
-        # the site keeps working with fallback snippets until the quota resets.
-        log(f"WARNING: AI summary failed for '{title}': {e} - using fallback snippet")
-        return fallback
+            result = response.json()
+            candidates = result.get("candidates", [])
+            if not candidates:
+                last_error_detail = f"200 OK but no candidates returned: {response.text[:300]}"
+                continue
+            parts = candidates[0].get("content", {}).get("parts", [])
+            summary = " ".join(p.get("text", "") for p in parts).strip()
+            if summary:
+                return summary
+        except Exception as e:
+            last_error_detail = str(e)
+            log(f"WARNING: Gemini model '{model_name}' raised an exception for '{title}': {e}")
+            continue
+
+    log(f"WARNING: AI summary failed for '{title}' on all models tried ({last_error_detail}) - using fallback snippet")
+    return fallback
 
 
 def fetch_source(source):
@@ -135,9 +149,18 @@ def fetch_source(source):
     category = source.get("category", "General")
     items = []
     try:
-        feed = feedparser.parse(url)
+        # Many sites (Reddit, some news sites with bot protection) block requests
+        # that don't look like a real browser/RSS reader. Sending a normal User-Agent
+        # fixes most of these silently-failing feeds.
+        feed = feedparser.parse(
+            url,
+            request_headers={
+                "User-Agent": "Mozilla/5.0 (compatible; NewsAggregatorBot/1.0; +https://github.com/)"
+            },
+        )
         if feed.bozo and not feed.entries:
-            log(f"WARNING: could not parse feed for '{name}' ({url})")
+            status = getattr(feed, "status", "unknown")
+            log(f"WARNING: could not parse feed for '{name}' ({url}) - HTTP status: {status}")
             return items
         for entry in feed.entries[:15]:  # only look at the 15 newest items per source per run
             title = entry.get("title", "").strip()
