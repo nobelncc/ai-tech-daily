@@ -1,8 +1,350 @@
 {
   "site_name": "Global Pulse — Multi-Niche News",
   "site_description": "Automatically updated summaries across 10 topics, refreshed around the clock.",
-  "last_updated": "2026-08-15T15:42:30.699850+00:00",
+  "last_updated": "2026-08-15T16:55:31.888447+00:00",
   "articles": [
+    {
+      "id": "7b29fa0c207b6c226e53ebf0",
+      "source": "TechCrunch",
+      "category": "AI & Tech",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "summary": "SpaceX has finalized its acquisition of Cursor, an artificial intelligence startup focused on automated coding tools. The transaction officially brings the software development platform under the aerospace company's umbrella.",
+      "fetched_at": "2026-08-15T16:53:51.616831+00:00"
+    },
+    {
+      "id": "a8a4af945d821c95499aef45",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
+      "url": "https://www.coindesk.com/markets/2026/08/15/robot-maker-unitree-is-going-public-hyperliquid-traders-see-4x-upside-from-ipo-price",
+      "summary": "Robotics manufacturer Unitree is preparing to go public through an initial public offering. In response to the planned listing, traders on the decentralized platform Hyperliquid are forecasting a potential fourfold increase in the company's valuation compared to its IPO price.",
+      "fetched_at": "2026-08-15T16:54:01.429718+00:00"
+    },
+    {
+      "id": "b7f308535e4e21544d115b4c",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "'Epic Mickey' Fans Vindicated With 2027 'Oswald' Series Announcement",
+      "url": "https://www.polygon.com/oswald-disney-plus-epic-mickey-d23/",
+      "summary": "Disney has announced a new Disney+ series centered on Oswald the Lucky Rabbit, scheduled to debut in 2027. This development comes twenty years after the company reacquired the vintage character to include him in the video game *Epic Mickey*.",
+      "fetched_at": "2026-08-15T16:54:19.237276+00:00"
+    },
+    {
+      "id": "c4e5d27a33940a23b2f630a5",
+      "source": "MarketWatch Top Stories",
+      "category": "Finance",
+      "title": "Health insurers are dumping Medicare Advantage plans. Here’s how many seniors could be affected.",
+      "url": "https://www.marketwatch.com/story/health-insurers-are-dumping-medicare-advantage-plans-heres-how-many-seniors-could-be-affected-646b4e99?mod=mw_rss_topstories",
+      "summary": "Insurance providers are withdrawing various Medicare Advantage options, requiring many seniors to secure new coverage for the upcoming year. This shift is expected to most significantly impact individuals in rural areas where alternative health insurance choices are already limited.",
+      "fetched_at": "2026-08-15T16:54:26.099429+00:00"
+    },
+    {
+      "id": "01be1cf891f83c47b8e3ff5c",
+      "source": "TechCrunch",
+      "category": "AI & Tech",
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+      "fetched_at": "2026-08-15T16:54:30.568454+00:00"
+    },
+    {
+      "id": "be2e1b2e086a7381d80b368a",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Swiss mega-bank UBS ramps up its Bitcoin exposure with a massive 24-fold surge in ETF call options",
+      "url": "https://www.coindesk.com/business/2026/08/15/swiss-mega-bank-ubs-ramps-up-its-bitcoin-exposure-with-a-massive-24-fold-surge-in-etf-call-options",
+      "summary": "Swiss banking giant UBS has significantly increased its indirect exposure to Bitcoin through a major expansion of its derivative positions. Recent regulatory filings reveal a 24-fold increase in the firm's holdings of call options linked to Bitcoin exchange-traded funds. This shift marks a substantial rise in the institution's use of regulated financial products to gain leverage in the digital asset market.",
+      "fetched_at": "2026-08-15T16:54:38.298257+00:00"
+    },
+    {
+      "id": "1fdf923ca299f76a98f76ba1",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "The 10 Best Classic Video Games That Need Modern Remakes",
+      "url": "https://www.polygon.com/10-games-need-modern-remakes/",
+      "summary": "A recent compilation highlights ten influential titles from various retro consoles and PC platforms that are prime candidates for modern updates. These suggested remakes aim to make classic gaming experiences more accessible to today's audience.",
+      "fetched_at": "2026-08-15T16:55:00.229532+00:00"
+    },
+    {
+      "id": "26fa719ddb69c67fa59d064e",
+      "source": "MarketWatch Top Stories",
+      "category": "Finance",
+      "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
+      "url": "https://www.marketwatch.com/story/is-1-million-enough-for-a-household-to-retire-the-answer-keeps-changing-aee84a83?mod=mw_rss_topstories",
+      "summary": "“Some readers — and couples — would be grateful to retire on half that amount.”",
+      "fetched_at": "2026-08-15T16:55:04.787360+00:00"
+    },
+    {
+      "id": "50d9138121705843b91304d9",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "নারী অ্যাথলেট পুরুষ প্রমাণিত: সব পদক বাতিল ও আজীবন নিষেধাজ্ঞা",
+      "url": "https://www.prothomalo.com/sports/other-sports/863y021jyt",
+      "summary": "বাংলাদেশ অ্যাথলেটিকস ফেডারেশনের নতুন অ্যাডহক কমিটি দুজনকেই পুরুষ হিসেবে বিবেচনা করে তাঁদের সব পদক বাতিল ও আজীবন নিষেধাজ্ঞা দিয়েছে",
+      "fetched_at": "2026-08-15T16:55:09.211213+00:00"
+    },
+    {
+      "id": "0c34eab605b7f1709f30e45f",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "রায়গঞ্জে বিএনপির এমপির গাড়িতে হামলা",
+      "url": "https://www.prothomalo.com/bangladesh/district/g5ey79rttk",
+      "summary": "সিরাজগঞ্জ জেলা বিএনপি এ ঘটনার জন্য জামায়াতে ইসলামী ও এনসিপিকে দায়ী করেছে। হামলার প্রতিবাদ ও জড়িতদের বিচার চেয়ে মিছিল করেছেন বিএনপির নেতা-কর্মীরা।",
+      "fetched_at": "2026-08-15T16:55:13.614191+00:00"
+    },
+    {
+      "id": "363ad803c79a94c793d79403",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "স্বপ্নের পথে এগিয়ে যাওয়ার গল্প ‘দ্য অ্যালকেমিস্ট’",
+      "url": "https://www.bondhushava.com/activities/3uagkwzvll",
+      "summary": "পাঠচক্রে বইটির ঘটনাপ্রবাহ, চরিত্র ও জীবনদর্শন নিয়ে আলোচনা হয়। স্বপ্ন অনুসরণের সাহস, ব্যর্থতা থেকে শিক্ষা, প্রতিকূলতার মধ্যেও লক্ষ্যে অবিচল থাকা এবং জীবনের ছোট ছোট সংকেত উপলব্ধির বিষয়গুলো উঠে আসে। আলোচক আনোয়ার হোসেনের প্র...",
+      "fetched_at": "2026-08-15T16:55:18.027661+00:00"
+    },
+    {
+      "id": "953d9daac9939f8e30b48a1a",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "উত্তরায় পেট্রলপাম্পের টাকা লুটের ঘটনায় অস্ত্র মামলায় দুজন কারাগারে",
+      "url": "https://www.prothomalo.com/bangladesh/crime/lbhk530ss4",
+      "summary": "উত্তরার ডিএল ফিলিং স্টেশনের টাকা লুটের ঘটনায় গতকাল শুক্রবার রাতে রাজধানীর বিভিন্ন এলাকায় অভিযান চালিয়ে পাঁচজনকে গ্রেপ্তার করে পুলিশ।",
+      "fetched_at": "2026-08-15T16:55:22.446433+00:00"
+    },
+    {
+      "id": "d038dc455eaf2a9d4cea046e",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "খালেদা জিয়ার জন্মদিনে ঢাকা বিশ্ববিদ্যালয়ে ছাত্রদলের দোয়া মাহফিল",
+      "url": "https://www.prothomalo.com/bangladesh/i45wqmeqq9",
+      "summary": "দোয়া মাহফিলে খালেদা জিয়ার রাজনৈতিক আদর্শ ধারণ করে ছাত্রদলের নেতা-কর্মীদের দেশের মানুষের জন্য কাজ করার আহ্বান জানিয়েছেন ছাত্রদলের কেন্দ্রীয় সাধারণ সম্পাদক নাসির উদ্দিন নাসির।",
+      "fetched_at": "2026-08-15T16:55:26.891403+00:00"
+    },
+    {
+      "id": "b567d97fb300a2ede3de20de",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "স্বামীকে ‘কুপথে’ নেওয়া \nব্যক্তিদের বিচার দাবি",
+      "url": "https://www.prothomalo.com/bangladesh/district/shudgwgr3d",
+      "summary": "‘যারা আমার স্বামীকে কুপথে নিছে, আল্লাহ তুমি তাদের বিচার করিও এবং তাদের হেদায়েত করিও। আমার মতো কষ্ট যেন কেউ না পায়।’",
+      "fetched_at": "2026-08-15T16:55:31.289359+00:00"
+    },
+    {
+      "id": "41ce36605452ffb7be532bb8",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "আইন মেনে ব্যবসায়িক স্বচ্ছতা: ‘রিভার ফিশ’-এর কর্মীদের ভোক্তা আইনবিষয়ক প্রশিক্ষণ",
+      "url": "https://nagorik.prothomalo.com/reader/lrsn5piuzy",
+      "summary": "‘রিভার ফিশ’ ভোক্তা-অধিকার সুরক্ষায় কর্মীদের প্রশিক্ষণ দিয়েছে।",
+      "fetched_at": "2026-08-15T16:55:31.888193+00:00"
+    },
+    {
+      "id": "798f962121772af011feb58f",
+      "source": "ScienceDaily Health",
+      "category": "Health",
+      "title": "The adult brain can repair itself better than scientists thought",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260812015158.htm",
+      "summary": "The adult brain may be far better at repairing itself than scientists once believed. In mice, researchers discovered a special group of support cells called astrocytes that respond to damaged brain tissue by rebuilding l...",
+      "fetched_at": "2026-08-15T16:55:31.888219+00:00"
+    },
+    {
+      "id": "b7d4c2ee8f5fc8216c20fbc8",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "fetched_at": "2026-08-15T16:55:31.888233+00:00"
+    },
+    {
+      "id": "78b4dc1b6192c1a6da9018c4",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "ইঁদুরের মতো ছোট ডাইনোসর কখনো ছিল না কেন",
+      "url": "https://www.kishoralo.com/feature/g5hqqy1gwa",
+      "summary": "বিশাল আকারের ডাইনোসর দেখতে সবাই পছন্দ করে। তবে আমরা ভাবনাটা একটু ঘুরিয়ে এর উল্টো দিকটা নিয়ে কাজ করার সিদ্ধান্ত নিই। ছোট ডাইনোসর কেন দেখা যেত না—এই প্রশ্নের উত্তর খুঁজে বের করাটাও কিন্তু বিশাল ডাইনোসরদের জানার মতোই রোমাঞ্...",
+      "fetched_at": "2026-08-15T16:55:31.888241+00:00"
+    },
+    {
+      "id": "9bbb171473b92b4b349bfd8a",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "The other Sean Byrne doesn't exist",
+      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+      "summary": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 308 # Comments: 148",
+      "fetched_at": "2026-08-15T16:55:31.888250+00:00"
+    },
+    {
+      "id": "f10dcf58a1a89cfdc7997d3c",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "সকাল সকাল বাসে উঠে পড়ল দুই ছাগল, এরপর যা হলো",
+      "url": "https://www.prothomalo.com/video/international/ej3lfh2o04",
+      "summary": "যাত্রীদের সঙ্গে তাল মিলিয়ে হঠাৎই সিটি বাসে উঠে পড়ে দুটি ছাগল। যুক্তরাষ্ট্রের পোর্টল্যান্ডে সকালের ব্যস্ত সময়ে ঘটে এই মজার ঘটনা",
+      "fetched_at": "2026-08-15T16:55:31.888260+00:00"
+    },
+    {
+      "id": "0169178cf52ddf893afdca7a",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "৯ শ্রমিকের মৃত্যুর পর সীতাকুণ্ডের সেই\nজাহাজভাঙা কারখানার কার্যক্রম স্থগিত",
+      "url": "https://www.prothomalo.com/bangladesh/district/tp7swez638",
+      "summary": "ফেরদৌস স্টিলের ইয়ার্ডে ‘এমটি রাসি’ নামের ৩০ হাজার ৭৭০ টন ওজনের একটি স্ক্র্যাপ জাহাজে কাজ করার সময় বিষাক্ত গ্যাসে আক্রান্ত হন শ্রমিকেরা।",
+      "fetched_at": "2026-08-15T16:55:31.888274+00:00"
+    },
+    {
+      "id": "736151e017ad4d65fcc5eac7",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "বাবার স্মৃতিতে ফয়েজ আহমেদ ফয়েজ, আমার স্মৃতিতে সালিমা হাশমি",
+      "url": "https://www.prothomalo.com/onnoalo/prose/qpdz0ggeft",
+      "summary": "বাবার বাসায় বাবার এত সেলফ পোর্ট্রেট দেখে সালিমা আপা বেশ নস্টালজিক হয়ে পড়েছিলেন। আমাদের সঙ্গে ছিলেন বেঙ্গল ফাউন্ডেশনের মহাপরিচালক লুভা নাহিদ চৌধুরী।",
+      "fetched_at": "2026-08-15T16:55:31.888288+00:00"
+    },
+    {
+      "id": "8c2a4dcd601262737d0a27c3",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "নিরাপত্তা পরিস্থিতি উন্নত হলে ৩ লাখ রোহিঙ্গাকে ফেরত নেবে মিয়ানমার",
+      "url": "https://www.prothomalo.com/video/bangladesh/kq9otuvfjb",
+      "summary": "মিয়ানমার নিরাপত্তা পরিস্থিতি সাপেক্ষে ৩ লাখ রোহিঙ্গা ফিরিয়ে নিতে ইচ্ছুক",
+      "fetched_at": "2026-08-15T16:55:31.888300+00:00"
+    },
+    {
+      "id": "0f0690c54674a9e1030d9b33",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "ফেসবুক রিল, চ্যাটজিপিটি আর অ্যালগরিদম আমাদের যেভাবে ঘিরে রেখেছে",
+      "url": "https://www.prothomalo.com/bangladesh/district/0s9wcgff38",
+      "summary": "দৃশ্যশিল্প, আলোকচিত্র, স্থাপত্য, সংগীত, গবেষণা ও ডিজিটাল প্রযুক্তির সমন্বয়ে আয়োজিত এ প্রদর্শনীতে অংশ নিয়েছেন আটজন শিল্পী।",
+      "fetched_at": "2026-08-15T16:55:31.888316+00:00"
+    },
+    {
+      "id": "7c2fd0e95ee0ca028c13c943",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "ইওয়ার মেহবুব ও ‘আরোগ্য’র এগিয়ে চলার গল্প | লিগ্যাসি উইথ এমআরএইচ : সিজন–৩ | পর্ব: ০১",
+      "url": "https://www.prothomalo.com/video/bangladesh/ulf7zgz8l5",
+      "summary": "",
+      "fetched_at": "2026-08-15T16:55:31.888325+00:00"
+    },
+    {
+      "id": "d44f1a2adda36d65f6147918",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "France's top court blocks social media ban for under-15s",
+      "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
+      "summary": "Article URL: https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/ Comments URL: https://news.ycombinator.com/item?id=49300671 Points: 226 # Comments: 166",
+      "fetched_at": "2026-08-15T16:55:31.888330+00:00"
+    },
+    {
+      "id": "81e76baff56d8c3b26dfc08f",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "ভূমিকম্পের পর সুনামি, ইন্দোনেশিয়ায় নিহত বেড়ে ৪০",
+      "url": "https://www.prothomalo.com/video/international/pxjptt3lsr",
+      "summary": "ইন্দোনেশিয়ায় ভূমিকম্পে নিহতের সংখ্যা বেড়ে ৪০ হয়েছে। ভূমিকম্পের পর দেশটির বিভিন্ন এলাকায় সুনামিও রেকর্ড করা হয়েছে",
+      "fetched_at": "2026-08-15T16:55:31.888337+00:00"
+    },
+    {
+      "id": "582a2037efbc6bb56ccd6750",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "The price of a Costco hot dog has gone up",
+      "url": "https://sina.bio/posts/costco-hotdog.html",
+      "summary": "Article URL: https://sina.bio/posts/costco-hotdog.html Comments URL: https://news.ycombinator.com/item?id=49311685 Points: 28 # Comments: 9",
+      "fetched_at": "2026-08-15T16:55:31.888351+00:00"
+    },
+    {
+      "id": "03c1f8503eaeec1df78f47fd",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "Qwen3.8-27B",
+      "url": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
+      "summary": "Article URL: https://twitter.com/alibaba_qwen/status/2088280182356611304 Comments URL: https://news.ycombinator.com/item?id=49299684 Points: 297 # Comments: 3",
+      "fetched_at": "2026-08-15T16:55:31.888355+00:00"
+    },
+    {
+      "id": "54bce22c0eff1fedb7cfe8f2",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+      "url": "https://spectrum.ieee.org/ai-designed-virus",
+      "summary": "Article URL: https://spectrum.ieee.org/ai-designed-virus Comments URL: https://news.ycombinator.com/item?id=49311445 Points: 42 # Comments: 46",
+      "fetched_at": "2026-08-15T16:55:31.888360+00:00"
+    },
+    {
+      "id": "40bc288a8d855bc8cc268d46",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "Seven books I keep close because I love them",
+      "url": "https://blog.plover.com/2026/08/02/",
+      "summary": "Article URL: https://blog.plover.com/2026/08/02/ Comments URL: https://news.ycombinator.com/item?id=49299675 Points: 360 # Comments: 164",
+      "fetched_at": "2026-08-15T16:55:31.888364+00:00"
+    },
+    {
+      "id": "7bc0a09bb8c386d9a63f273c",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "Crypto Biz: Bitcoin’s $116M self-custody wake-up call",
+      "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-self-custody-etf-inflows-strategy-riot-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "A $116 million Bitcoin wallet exploit puts self-custody under scrutiny as ETF inflows rebound, Strategy eyes more BTC and miners chase billions in AI deals.",
+      "fetched_at": "2026-08-15T16:55:31.888368+00:00"
+    },
+    {
+      "id": "e72db1559edfd6650800496c",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "A Spectre Is Haunting Unicode",
+      "url": "https://www.dampfkraft.com/ghost-characters.html",
+      "summary": "Article URL: https://www.dampfkraft.com/ghost-characters.html Comments URL: https://news.ycombinator.com/item?id=49310926 Points: 10 # Comments: 0",
+      "fetched_at": "2026-08-15T16:55:31.888371+00:00"
+    },
+    {
+      "id": "057e65da9c4eda6ec31984d6",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "Bitcoin price drops to $62.5K as trader warns weekly close may spark more losses",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-drops-trader-warns-weekly-close-may-spark-more-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Bitcoin falls further toward new August lows, ignoring positive US inflation trends while US stocks continue to circle all-time highs.",
+      "fetched_at": "2026-08-15T16:55:31.888377+00:00"
+    },
+    {
+      "id": "d4fd78c9a978b93ea11d1dc7",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "The AI Situation in Software Development",
+      "url": "https://srikanth.ch/posts/the-ai-situation/",
+      "summary": "Article URL: https://srikanth.ch/posts/the-ai-situation/ Comments URL: https://news.ycombinator.com/item?id=49310755 Points: 30 # Comments: 39",
+      "fetched_at": "2026-08-15T16:55:31.888380+00:00"
+    },
+    {
+      "id": "a13f7731470d77da43c337ee",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "Morgan Stanley’s BlackRock Bitcoin ETF holdings rise 23% in Q2",
+      "url": "https://cointelegraph.com/news/morgan-stanley-buys-blackrock-bitcoin-etf-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Morgan Stanley’s reported IBIT holdings rose to 16.5 million shares in Q2, while Ether ETF positions and several crypto-linked stocks also increased.",
+      "fetched_at": "2026-08-15T16:55:31.888386+00:00"
+    },
+    {
+      "id": "d3239b5c37efdf766aa8fdd0",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
+      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
+      "summary": "Article URL: https://heyjonny.dev/posts/rss-to-eink-newspaper/ Comments URL: https://news.ycombinator.com/item?id=49299081 Points: 213 # Comments: 93",
+      "fetched_at": "2026-08-15T16:55:31.888391+00:00"
+    },
+    {
+      "id": "2e9a43f8018d4ca66d67c0be",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "JPMorgan boosts Bitcoin, Ether ETF positions in Q2 filing",
+      "url": "https://cointelegraph.com/markets/jpmorgan-crypto-etf-moves-risk-not-bullish-bet-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "JPMorgan reported a 25% increase in its Bitcoin ETF position and more than quadrupled its Ether ETF position in the second quarter.",
+      "fetched_at": "2026-08-15T16:55:31.888395+00:00"
+    },
     {
       "id": "5b1e7876f46e437c44b341f3",
       "source": "CoinDesk",
@@ -2360,348 +2702,6 @@
       "url": "https://weworkremotely.com/remote-jobs/temporal-technologies-director-gtm-strategy-analytics",
       "summary": "Temporal Technologies is recruiting for a remote Director of GTM Strategy and Analytics based in the United States. The open-source software firm provides tools aimed at simplifying coding and enhancing the reliability of applications for developers. This role is part of a strategic effort to grow the company's internal team and expand its influence in the tech industry.",
       "fetched_at": "2026-08-15T09:00:17.025628+00:00"
-    },
-    {
-      "id": "0938833e1ff2a24aa358f2f7",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "A stress hormone may help the brain repair itself",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm",
-      "summary": "Researchers have discovered that a stress-related hormone called CRH aids brain recovery by regulating the restoration of protective nerve insulation. This signaling process also plays a key role in normal brain development and the long-term maintenance of these neural coatings. The findings may provide new insights into the link between childhood stress and the eventual development of psychiatric disorders.",
-      "fetched_at": "2026-08-15T09:00:27.480708+00:00"
-    },
-    {
-      "id": "85ce8bba434a270000f63f38",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "OKX: Affiliate BD Manager (Taiwan)",
-      "url": "https://weworkremotely.com/remote-jobs/okx-affiliate-bd-manager-taiwan",
-      "summary": "Cryptocurrency exchange OKX is seeking a remote Affiliate Business Development Manager to be based in Taiwan. The position focuses on expanding the platform's reach among both individual and institutional clients within the digital asset market. As a developer of trading tools and decentralized applications, the company aims to strengthen its regional presence through this new role.",
-      "fetched_at": "2026-08-15T09:00:49.493081+00:00"
-    },
-    {
-      "id": "514d8c9187307bc80da0fbfe",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "Immune cells flood into the aging brain, Stanford scientists discover",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
-      "summary": "Stanford University researchers have found that immune cells from the bloodstream begin migrating into the human brain as people reach middle age. Once inside, these cells develop into microglia, challenging the previous scientific consensus that the brain remains isolated from the body's broader immune system.",
-      "fetched_at": "2026-08-15T09:00:59.367268+00:00"
-    },
-    {
-      "id": "16f39227e37c75d3f8f173a8",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "ZoomInfo Technologies LLC: Principal Business Intelligence Analyst",
-      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-principal-business-intelligence-analyst",
-      "summary": "ZoomInfo is seeking a remote Principal Business Intelligence Analyst to lead the development and management of the company's product-led growth measurement framework. This strategic role involves defining metrics for customer adoption, retention, and monetization across the organization’s entire product portfolio. The position focuses on identifying key behavioral drivers of growth rather than performing standard reporting or dashboarding tasks.",
-      "fetched_at": "2026-08-15T09:01:22.898412+00:00"
-    },
-    {
-      "id": "08eeb773af15b5796adad247",
-      "source": "Reddit r/freelance",
-      "category": "Freelance",
-      "title": "raised my rate for the first time in two years, client said yes instantly, now i feel weird about it",
-      "url": "https://www.reddit.com/r/freelance/comments/1vojfyi/raised_my_rate_for_the_first_time_in_two_years/",
-      "summary": "A freelancer recently reported that a long-term client immediately accepted their first rate increase in two years without any negotiation. While successful, the lack of resistance led the professional to conclude they had been significantly undercharging for their services for an extended period. The experience has highlighted the common difficulty independent workers face when trying to establish objective pricing strategies rather than relying on intuition.",
-      "fetched_at": "2026-08-15T09:01:35.092971+00:00"
-    },
-    {
-      "id": "dbd6fb63ecadbcddbcf171ff",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "Taking the stairs could protect your heart and help you live longer",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011029.htm",
-      "summary": "An extensive study of over 480,000 individuals suggests that regularly using the stairs is associated with a notable decrease in the risk of cardiovascular-related and all-cause mortality. Furthermore, those who frequently climb stairs exhibit lower rates of heart attacks, strokes, and heart failure compared to those who do not.",
-      "fetched_at": "2026-08-15T09:01:44.675321+00:00"
-    },
-    {
-      "id": "2cbdb70032826a4832ebf490",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "Strategy says MSCI should measure markets, not dictate corporate assets",
-      "url": "https://www.coindesk.com/markets/2026/08/14/strategy-says-msci-should-measure-markets-not-dictate-corporate-assets",
-      "summary": "MicroStrategy has argued that index provider MSCI should focus strictly on measuring market performance rather than attempting to influence corporate treasury strategies. The company asserted that decisions regarding corporate balance sheets, including digital asset allocations, should remain separate from index inclusion criteria. This perspective addresses ongoing discussions about how major benchmark providers evaluate firms that hold non-traditional corporate assets.",
-      "fetched_at": "2026-08-15T09:01:51.528957+00:00"
-    },
-    {
-      "id": "6ca3aa398a18b1d37e0b0237",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Temporal Technologies: Director, Global Developer Success",
-      "url": "https://weworkremotely.com/remote-jobs/temporal-technologies-director-global-developer-success",
-      "summary": "Temporal Technologies is recruiting for a remote, US-based Director of Global Developer Success to support its open-source programming platform. The company specializes in tools designed to simplify code and improve application reliability for software engineers. This leadership role will focus on enhancing the developer experience and expanding the organization's professional team.",
-      "fetched_at": "2026-08-15T09:01:59.521248+00:00"
-    },
-    {
-      "id": "5f9259ab3211b6ce9f10d12e",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "Women taking estrogen had fewer signs of Alzheimer’s in their brains",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011028.htm",
-      "summary": "A large-scale study involving over 21,000 participants suggests that women who use estrogen-only hormone therapy in later life have a significantly lower risk of developing dementia. Analysis of brain tissue and biomarker tests revealed that these individuals also showed fewer physical signs of Alzheimer’s disease, including lower levels of protein plaques and tangles.",
-      "fetched_at": "2026-08-15T09:02:07.649590+00:00"
-    },
-    {
-      "id": "47a0d1c138d17d9ebc573a49",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "Israel’s largest bank to offer crypto trading with Galaxy",
-      "url": "https://www.coindesk.com/markets/2026/08/14/israel-s-largest-bank-partners-with-galaxy-for-crypto-trading",
-      "summary": "Israel’s largest financial institution, Bank Leumi, has partnered with Galaxy Digital to introduce cryptocurrency trading services for its clients. This collaboration will allow the bank's customers to buy, sell, and hold major digital assets like Bitcoin and Ethereum through its digital investment platform.",
-      "fetched_at": "2026-08-15T09:02:14.596698+00:00"
-    },
-    {
-      "id": "7db5a598204720a8241b9c3c",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "ZoomInfo Technologies LLC: Director, FinOps",
-      "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-finops",
-      "summary": "ZoomInfo Technologies is seeking a remote Director of FinOps to oversee its global multi-cloud strategy and cost optimization efforts. The role involves developing financial frameworks for cloud resource allocation and managing the economic impact of the company's AI initiatives.",
-      "fetched_at": "2026-08-15T09:02:21.467354+00:00"
-    },
-    {
-      "id": "e31a0c4e307f5f594418ab7e",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "Congress changed the rules around charitable giving. You’ll now save more money if you donate earlier in the year.",
-      "url": "https://www.marketwatch.com/story/congress-changed-the-rules-around-charitable-giving-do-it-earlier-in-the-year-to-save-money-392e5de3?mod=mw_rss_topstories",
-      "summary": "Recent legislative updates to charitable deduction rules suggest that individuals may secure greater tax benefits by donating earlier in the year. The changes indicate that traditional, late-year contribution methods have become less cost-effective under the revised regulations.",
-      "fetched_at": "2026-08-15T09:02:32.150239+00:00"
-    },
-    {
-      "id": "39279bf0487821e7c0944265",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "This common vitamin deficiency becomes far more dangerous when paired with belly fat",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260813045554.htm",
-      "summary": "A large study of more than 5,500 adults over 50 found a striking combination of risk factors: abdominal obesity paired with vitamin D deficiency was linked to a 123% higher risk of death over six years. Each condition wa...",
-      "fetched_at": "2026-08-15T09:02:51.615903+00:00"
-    },
-    {
-      "id": "a6bf8b518e2134b70ed3b3c4",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "Drinking orange juice every day may change thousands of genes",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260813045548.htm",
-      "summary": "Orange juice may have a much bigger effect on the body than scientists once realized. Drinking it regularly appears to influence genes tied to inflammation, blood pressure, metabolism, and blood sugar control, while stud...",
-      "fetched_at": "2026-08-15T09:02:52.309498+00:00"
-    },
-    {
-      "id": "a086eeae90401bc0b7727bcd",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-      "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
-      "fetched_at": "2026-08-15T09:02:52.309523+00:00"
-    },
-    {
-      "id": "044d9701259f15f516a1c45a",
-      "source": "Reddit r/freelance",
-      "category": "Freelance",
-      "title": "Why do some freelance interviewers ignore personal boundaries?",
-      "url": "https://www.reddit.com/r/freelance/comments/1vgdcvi/why_do_some_freelance_interviewers_ignore/",
-      "summary": "I had a freelance interview where the interviewer asked if I was married. I politely said that I wasn't comfortable answering because I didn't think we knew each other well enough for personal questions like that. I also...",
-      "fetched_at": "2026-08-15T09:02:52.309552+00:00"
-    },
-    {
-      "id": "baa38f2824a918cc5634a776",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "A surprising brain discovery could help explain why we overeat fatty foods",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260813045531.htm",
-      "summary": "A protein inside appetite-controlling brain cells may play an important role in preventing overeating and obesity, particularly when high-fat foods are readily available. Unexpected differences between males and females ...",
-      "fetched_at": "2026-08-15T09:02:52.309561+00:00"
-    },
-    {
-      "id": "60575c38ea6c81e77c8a40b0",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-      "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-      "summary": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
-      "fetched_at": "2026-08-15T09:02:52.309571+00:00"
-    },
-    {
-      "id": "b7eca913765758ac21b282cf",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "I have a 9-to-5 job and started dating a bartender. Can I have a future with someone who works nights?",
-      "url": "https://www.marketwatch.com/story/i-have-a-9-to-5-job-and-started-dating-a-bartender-can-i-have-a-future-with-someone-who-works-nights-500d4320?mod=mw_rss_topstories",
-      "summary": "“He usually doesn’t get off work until 4 a.m.”",
-      "fetched_at": "2026-08-15T09:02:52.309592+00:00"
-    },
-    {
-      "id": "7f0330a66028cf0a4f37ccc7",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "One faulty gene copy can make the heart’s DNA fold the wrong way",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260812015214.htm",
-      "summary": "Researchers have discovered that a gene linked to congenital heart disease acts like an architect for the heart cell’s DNA. Losing just one copy of TBX5 can cause the genome’s carefully folded 3D structure to unravel, di...",
-      "fetched_at": "2026-08-15T09:02:52.309603+00:00"
-    },
-    {
-      "id": "3c58da727256a4ab2e36caac",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "title": "Silkroad Innovation Hub’s Road to Battlefield competition continues",
-      "url": "https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/",
-      "summary": "The Road to Battlefield competition is now in its second year, and its purpose is to give founders across Central Eurasia a direct route to Startup Battlefield",
-      "fetched_at": "2026-08-15T09:02:52.309612+00:00"
-    },
-    {
-      "id": "3c388388cbfc2cafafb63e96",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "পদায়ন–পদোন্নতিতে রাজনৈতিক বিবেচনার কারণে প্রশাসনে গতি আসছে না: গোলটেবিলে বক্তারা",
-      "url": "https://www.prothomalo.com/bangladesh/3rflzf3akx",
-      "summary": "আমলাতন্ত্রে রাজনৈতিক পাটাতন ভাঙার পদক্ষেপ নেওয়ার ওপর জোর দিয়েছেন বক্তারা। নিয়োগ, পদায়ন ও পদোন্নতিতে গোয়েন্দা প্রতিবেদন বাদ দিলে আমলাতন্ত্রের প্রায় সিংহভাগ রাজনীতিকরণ ঠেকানো যাবে বলে মনে করেন তাঁরা।",
-      "fetched_at": "2026-08-15T09:02:52.309626+00:00"
-    },
-    {
-      "id": "91b9d6c3829a13733e6bfb5a",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "ইন্দোনেশিয়ায় ভূমিকম্পে নিহত বেড়ে ২০, কোথাও কোথাও সড়ক যোগাযোগ বিচ্ছিন্ন",
-      "url": "https://www.prothomalo.com/world/asia/4sdpcw4iwf",
-      "summary": "ভূমিকম্পের কেন্দ্রের কাছের এলাকা নাগেকেওতে উদ্ধারকারীরা এখনো পৌঁছাতে পারেননি। ভূমিধসে সড়ক যোগাযোগ বাধাগ্রস্ত হচ্ছে। উদ্ধারকারীরা ফেরিতে করে সেখানে যাওয়ার চেষ্টা করছেন।",
-      "fetched_at": "2026-08-15T09:02:52.309655+00:00"
-    },
-    {
-      "id": "777a7b6c8eccf14deb02bda6",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "A surprising triple treatment completely clears hiv in newborn primates",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260812015200.htm",
-      "summary": "Researchers have found a striking new way to potentially eliminate HIV soon after infection using a one-time combination of three therapies. In newborn nonhuman primates treated within three days of exposure, the regimen...",
-      "fetched_at": "2026-08-15T09:02:52.309669+00:00"
-    },
-    {
-      "id": "4ea15fa5e62df0ff1bd74f72",
-      "source": "TechCrunch",
-      "category": "AI & Tech",
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-      "fetched_at": "2026-08-15T09:02:52.309676+00:00"
-    },
-    {
-      "id": "6a9a12d9f42b45bf4c7eb502",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "‘বাকশাল’ নামে গরু জবাই, আম্মারের নেতৃত্বে ‘জুলাই জিয়াফত’",
-      "url": "https://www.prothomalo.com/bangladesh/district/z1rcneeegh",
-      "summary": "রাজশাহী বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্র সংসদের (রাকসু) সাধারণ সম্পাদক (জিএস) সালাহউদ্দিন আম্মারের নেতৃত্বে ‘বাকশাল’ নামে একটি গরু জবাই করে জুলাই জিয়াফতের আয়োজন করা হয়েছে।",
-      "fetched_at": "2026-08-15T09:02:52.309693+00:00"
-    },
-    {
-      "id": "1551057e2cd542e5a5d4532e",
-      "source": "TechCrunch",
-      "category": "AI & Tech",
-      "title": "US courts will start publishing how often the government uses spyware",
-      "url": "https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/",
-      "summary": "The Administrative Office of the U.S. Courts told TechCrunch that it will start disclosing how many times judges authorized the use of spyware to wiretap suspected criminals.",
-      "fetched_at": "2026-08-15T09:02:52.309700+00:00"
-    },
-    {
-      "id": "6f4e32cb32fc262d127a0f7a",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "জাহাজ কেন ভাঙা হয়, বাংলাদেশ কেন জাহাজভাঙা শিল্পের বড় কেন্দ্র",
-      "url": "https://www.prothomalo.com/bangladesh/district/vr0pp05q12",
-      "summary": "বাংলাদেশে জাহাজভাঙা শিল্পের প্রায় পুরোটাই গড়ে উঠেছে চট্টগ্রামের সীতাকুণ্ড উপকূলে। এরও কারণ আছে। প্রথম কারণ প্রকৃতি। সীতাকুণ্ডের সৈকত দীর্ঘ এবং ঢাল কম।",
-      "fetched_at": "2026-08-15T09:02:52.309712+00:00"
-    },
-    {
-      "id": "48b513f087555346783c80c6",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "ইন্দোনেশিয়ার ভূমিকম্পের পর চলছে উদ্ধারকাজ, নিহত বেড়ে ২০",
-      "url": "https://www.prothomalo.com/video/international/mq4dggoh9p",
-      "summary": "",
-      "fetched_at": "2026-08-15T09:02:52.309727+00:00"
-    },
-    {
-      "id": "7d060b5a680f03062b7523fa",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "চীনের শুল্ক ফাঁকিতে সহায়তা করেছে ৪০টির বেশি দেশ: হোয়াইট হাউস",
-      "url": "https://www.prothomalo.com/business/world-business/c8dise82f4",
-      "summary": "হোয়াইট হাউসের প্রতিবেদনে বলা হয়েছে, তৃতীয় দেশের মাধ্যমে পণ্য পাঠিয়ে চীন যুক্তরাষ্ট্রের শুল্ক এড়িয়ে যাচ্ছে। এ কাজে ৪০টির বেশি দেশ সহায়তা করেছে।",
-      "fetched_at": "2026-08-15T09:02:52.309743+00:00"
-    },
-    {
-      "id": "304cbb5b1fc22ef0de5e9f7e",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "২৪ বছর আগে এসএসসি অকৃতকার্য নাসিমুল এবার পেলেন জিপিএ ৪.৬২",
-      "url": "https://www.prothomalo.com/lifestyle/5mh79yrv85",
-      "summary": "",
-      "fetched_at": "2026-08-15T09:02:52.309757+00:00"
-    },
-    {
-      "id": "e84649945e70276154ca5b2d",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "title": "Galaxy lowers CLARITY Act odds to 10%",
-      "url": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Galaxy cited unresolved ethics, stablecoin yield and developer protection issues, along with a narrow Senate window when lawmakers return in September.",
-      "fetched_at": "2026-08-15T09:02:52.309767+00:00"
-    },
-    {
-      "id": "ca1aedac96c7cd514186756a",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "প্রাথমিক বৃত্তি পরীক্ষা ২০২৬। বিজ্ঞান (অধ্যায়–২): সংক্ষিপ্ত ও বর্ণনামূলক প্রশ্ন উত্তর",
-      "url": "https://www.prothomalo.com/education/examination/9xp4x7om3p",
-      "summary": "প্রাথমিক বিজ্ঞান: অধ্যায়–২",
-      "fetched_at": "2026-08-15T09:02:52.309771+00:00"
-    },
-    {
-      "id": "fac0c8f3f27d2334fe2978a1",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "৪ উইকেটে ১৬১ রান নিয়ে দিন শেষ করল অস্ট্রেলিয়া, ৬৭ রানে এগিয়ে বাংলাদেশ",
-      "url": "https://www.prothomalo.com/sports/cricket/8fdqj2xuxp",
-      "summary": "ডারউইনের মারারা স্টেডিয়ামে সিরিজের প্রথম টেস্টে অস্ট্রেলিয়ার মুখোমুখি বাংলাদেশ। এই ম্যাচের লাইভ বিবরণী ও বিশ্লেষণ জানতে চোখ রাখুন এখানে।",
-      "fetched_at": "2026-08-15T09:02:52.309779+00:00"
-    },
-    {
-      "id": "69f0b3ce277c1dfb4c7f2221",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "শেষ পর্যন্ত জিপিএ-ই কি শিক্ষার্থীর মেধার মানদণ্ড হবে",
-      "url": "https://www.prothomalo.com/opinion/column/h7sgyxhlwl",
-      "summary": "৯টি সাধারণ শিক্ষা বোর্ডে এ বছর এসএসসি পরীক্ষায় গড় পাসের হার ৬৪ শতাংশের মতো। গত দুই দশকের মধ্যে এত কম পাসের হার কখনোই ছিল না। ২০০৭ সালের পর থেকেই পাসের হার ছিল তুলনামূলকভাবে উচ্চ এবং ঊর্ধ্বমুখী।",
-      "fetched_at": "2026-08-15T09:02:52.309788+00:00"
-    },
-    {
-      "id": "ac30d5ccf38ea4fdd895e7b3",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "ঘনিষ্ঠ দৃশ্যের শুটিংয়ের পর নায়িকাকে আমির বললেন, ‘দাবা খেলবে’",
-      "url": "https://www.prothomalo.com/entertainment/bollywood/ls1lor9zrt",
-      "summary": "পূজা কিছুটা অস্বস্তি ও দুশ্চিন্তায় পড়ে গিয়েছিলেন। কিন্তু আমিরের একটি প্রশ্নই মুহূর্তে বদলে দেয় পরিস্থিতি, ‘দাবা খেলবে?’",
-      "fetched_at": "2026-08-15T09:02:52.309797+00:00"
-    },
-    {
-      "id": "5be3d1796a3be03c9f34214b",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "একঝলক (১৫ আগস্ট ২০২৬)",
-      "url": "https://www.prothomalo.com/photo/glimpse/wyj5xmegco",
-      "summary": "",
-      "fetched_at": "2026-08-15T09:02:52.309805+00:00"
-    },
-    {
-      "id": "a97df56e33734c91305103e4",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "হেডকে দুঃখের পঞ্চম স্তরে নামালেন হাসান মাহমুদ",
-      "url": "https://www.prothomalo.com/sports/cricket/br39kp9lih",
-      "summary": "অস্ট্রেলিয়ার দ্বিতীয় ইনিংসে ট্রাভিস হেডকে বোল্ড আউট করেন হাসান মাহমুদ। এরপর অদ্ভুত এক কাজ করে বসেন অস্ট্রেলিয়ান ওপেনার।",
-      "fetched_at": "2026-08-15T09:02:52.309814+00:00"
     }
   ]
 }
