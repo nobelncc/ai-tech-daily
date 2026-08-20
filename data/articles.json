@@ -1,8 +1,413 @@
 {
   "site_name": "Global Pulse — Multi-Niche News",
   "site_description": "Automatically updated summaries across 10 topics, refreshed around the clock.",
-  "last_updated": "2026-08-20T10:21:01.262838+00:00",
+  "last_updated": "2026-08-20T11:19:17.319809+00:00",
   "articles": [
+    {
+      "id": "c10bdad12f9ccf293836404c",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Bitcoin rally sparks debate whether Clarity Act is already priced in",
+      "url": "https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says",
+      "summary": "The recent surge in Bitcoin's value has led market analysts to question if the potential passage of the Clarity for Payment Stablecoins Act is already reflected in current prices. Experts are currently divided on whether the legislative outlook has been fully accounted for or if the rally could continue as regulatory certainty improves.",
+      "fetched_at": "2026-08-20T11:17:50.270533+00:00"
+    },
+    {
+      "id": "6bd4b9314992359b9351ffea",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Bitcoin breaks out of six-week range, tops $71,000 as $3 billion in shorts get wiped out",
+      "url": "https://www.coindesk.com/markets/2026/08/20/bitcoin-breaks-out-of-six-week-range-tops-usd71-000-as-usd3-billion-in-shorts-get-wiped-out",
+      "summary": "Bitcoin has climbed above $71,000, marking an exit from a price range that persisted for the past six weeks. This significant upward movement triggered the liquidation of approximately $3 billion in short positions held by traders.",
+      "fetched_at": "2026-08-20T11:18:13.833363+00:00"
+    },
+    {
+      "id": "ed290ad112e75458297d7b26",
+      "source": "MarketWatch Top Stories",
+      "category": "Finance",
+      "title": "Treasury’s bond buyback blitz may end up driving yields higher, warns JPMorgan. Here’s their investment advice.",
+      "url": "https://www.marketwatch.com/story/treasurys-bond-buyback-blitz-may-end-up-driving-yields-higher-warns-jpmorgan-heres-their-investment-advice-b8f507be?mod=mw_rss_topstories",
+      "summary": "JPMorgan strategists caution that the U.S. Treasury's bond buyback initiative could unintentionally push yields higher. The analysts suggest the program is unnecessary and may lead to unfavorable market outcomes.",
+      "fetched_at": "2026-08-20T11:18:21.644684+00:00"
+    },
+    {
+      "id": "5c70e81457d4839f2d4937ae",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "State of the Subreddit (May 2026)",
+      "url": "https://www.reddit.com/r/freelance/comments/1tpkx2j/state_of_the_subreddit_may_2026/",
+      "summary": "Moderators of the r/freelance subreddit reported that over 90% of incoming submissions currently violate community rules. The team attributed the influx largely to users following advice from artificial intelligence tools to conduct product validation and market research on the platform. Consequently, identifying and removing these non-compliant posts has become increasingly time-consuming for the moderators.",
+      "fetched_at": "2026-08-20T11:18:31.750026+00:00"
+    },
+    {
+      "id": "bbb3df6fb05f54c21bff974c",
+      "source": "MarketWatch Top Stories",
+      "category": "Finance",
+      "title": "Oil prices jump after Trump declares economic war on Iran",
+      "url": "https://www.marketwatch.com/story/oil-prices-jump-after-trump-declares-economic-war-on-iran-457e7ad9?mod=mw_rss_topstories",
+      "summary": "President Donald Trump said in a post on Truth Social that any country supporting Iran’s economy would face “tremendous economic consequences.”",
+      "fetched_at": "2026-08-20T11:18:36.208527+00:00"
+    },
+    {
+      "id": "c196a1abd43cf77528d01a4f",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "Did anyone actually start out caring about users when they started their career?",
+      "url": "https://www.reddit.com/r/freelance/comments/1vrg5vb/did_anyone_actually_start_out_caring_about_users/",
+      "summary": "When I started money was the whole thing. I was scared honestly. My cousin told me to only think about billing. Are you getting billed or not. That was the advice and it was the right advice at the time. Went freelance a...",
+      "fetched_at": "2026-08-20T11:18:40.731856+00:00"
+    },
+    {
+      "id": "6f8e84f32d44394e1b9125c0",
+      "source": "Grist",
+      "category": "Climate",
+      "title": "All aboard Amtrak’s sleeker, cleaner new trains",
+      "url": "https://grist.org/transportation/all-aboard-amtraks-sleeker-cleaner-new-trains/",
+      "summary": "",
+      "fetched_at": "2026-08-20T11:18:45.173483+00:00"
+    },
+    {
+      "id": "42f8847b2c496ce617a8db9b",
+      "source": "MarketWatch Top Stories",
+      "category": "Finance",
+      "title": "AMD is betting on dirt-cheap AI chips, but financing them is a major question mark",
+      "url": "https://www.marketwatch.com/story/amd-is-betting-on-dirt-cheap-ai-chips-but-financing-them-is-a-major-question-mark-986afa99?mod=mw_rss_topstories",
+      "summary": "AMD just acquired a company whose chip is fast, inexpensive and a total mystery for lenders.",
+      "fetched_at": "2026-08-20T11:18:49.639916+00:00"
+    },
+    {
+      "id": "440ac906e68382e667c901ac",
+      "source": "Grist",
+      "category": "Climate",
+      "title": "US Army Corps approves a pipeline project it knows harms Indigenous lands",
+      "url": "https://grist.org/energy/us-army-corps-approves-line-5-tunnel-project-harms-indigenous-lands/",
+      "summary": "",
+      "fetched_at": "2026-08-20T11:18:54.056312+00:00"
+    },
+    {
+      "id": "6de7d71a2a92dbf5773a39c0",
+      "source": "MarketWatch Top Stories",
+      "category": "Finance",
+      "title": "Why Bessent’s Treasury operations have breathed life back into the gold trade",
+      "url": "https://www.marketwatch.com/story/why-bessents-treasury-operations-have-breathed-life-back-into-the-gold-trade-d0a8419e?mod=mw_rss_topstories",
+      "summary": "Gold is the reciprocal of the dollar and consensus among strategists is that Bessent’s yield curve control will have a detrimental impact on the U.S. currency",
+      "fetched_at": "2026-08-20T11:18:58.493781+00:00"
+    },
+    {
+      "id": "e997590d53687acdd7f2c98a",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "Anyone else dealing with extremely rude/demanding clients lately?",
+      "url": "https://www.reddit.com/r/freelance/comments/1vlkwpx/anyone_else_dealing_with_extremely_rudedemanding/",
+      "summary": "Hi! I was wondering if anyone else has had a similar experience. I’ve been dealing with some very, very rude clients recently , and honestly, it’s getting exhausting. I work in real estate, and I understand that dealing ...",
+      "fetched_at": "2026-08-20T11:19:02.913458+00:00"
+    },
+    {
+      "id": "29086a34586ec2a893ef77be",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Live updates: Bitcoin jumps above $72,000, ETFs draw $700 million in biggest inflows in months",
+      "url": "https://www.coindesk.com/tech/2026/08/20/live-updates-bitcoin-etfs-draw-usd517-million-ether-pulls-usd189-million-in-biggest-inflows-in-months",
+      "summary": "",
+      "fetched_at": "2026-08-20T11:19:07.622043+00:00"
+    },
+    {
+      "id": "ff28b2b50ae3faa95b91c821",
+      "source": "Grist",
+      "category": "Climate",
+      "title": "Why Egyptian farmers are growing crops under solar panels",
+      "url": "https://grist.org/energy/why-egyptian-farmers-are-growing-crops-under-solar-panels/",
+      "summary": "",
+      "fetched_at": "2026-08-20T11:19:12.247274+00:00"
+    },
+    {
+      "id": "875ebc5066b6dd0c9f94f251",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "পিংক বাসে উঠে যা দেখলাম",
+      "url": "https://www.prothomalo.com/lifestyle/759uxh4k4g",
+      "summary": "",
+      "fetched_at": "2026-08-20T11:19:16.912330+00:00"
+    },
+    {
+      "id": "84c4bd08b3409d4692ebfd48",
+      "source": "TechCrunch",
+      "category": "AI & Tech",
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+      "fetched_at": "2026-08-20T11:19:17.319611+00:00"
+    },
+    {
+      "id": "9a8d2fb8ba8091903f6f1755",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "রবিউল আউয়াল মাসের ৫ আমল",
+      "url": "https://www.prothomalo.com/religion/islam/ryn8u49rxo",
+      "summary": "এই মাসকে কীভাবে ইবাদত, জিকির ও মানবকল্যাণমূলক আমলের মাধ্যমে বরকতময় ও সার্থক করে তোলা যায়, তারই ৫টি সহজ দিকনির্দেশনা দেওয়া হলো।",
+      "fetched_at": "2026-08-20T11:19:17.319627+00:00"
+    },
+    {
+      "id": "bf1f3bd266ad09ddbd7e3603",
+      "source": "TechCrunch",
+      "category": "AI & Tech",
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+      "fetched_at": "2026-08-20T11:19:17.319635+00:00"
+    },
+    {
+      "id": "4a29081c1864eecfa9c360e1",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "রাষ্ট্রপতি নির্বাচনে ভোটগ্রহণ শেষ, গণনা শুরু",
+      "url": "https://www.prothomalo.com/politics/t1dkflwmk1",
+      "summary": "বেলা দুইটা থেকে বিকেল পাঁচটা পর্যন্ত জাতীয় সংসদের সংসদকক্ষে ভোট গ্রহণ চলবে।",
+      "fetched_at": "2026-08-20T11:19:17.319644+00:00"
+    },
+    {
+      "id": "572a94fbf88e342b77202773",
+      "source": "TechCrunch",
+      "category": "AI & Tech",
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster.",
+      "fetched_at": "2026-08-20T11:19:17.319648+00:00"
+    },
+    {
+      "id": "65763f2744915f96e127c207",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "রাষ্ট্রপতির হাতে কত ক্ষমতা, কী কী সুবিধা পান?",
+      "url": "https://www.prothomalo.com/video/bangladesh/n5o9jny6ze",
+      "summary": "রাষ্ট্রপতির ক্ষমতা কতটুকু, মাসিক বেতন কত, আপ্যায়নসহ কী কী সুযোগ-সুবিধা পান",
+      "fetched_at": "2026-08-20T11:19:17.319655+00:00"
+    },
+    {
+      "id": "740efcf68516606c4f643ca8",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Crypto campaign fund Fairshake faces $2 million setback in Florida primaries",
+      "url": "https://www.coindesk.com/policy/2026/08/19/crypto-campaign-fund-fairshake-faces-usd2-million-setback-in-florida-primaries",
+      "summary": "",
+      "fetched_at": "2026-08-20T11:19:17.319662+00:00"
+    },
+    {
+      "id": "50a6f79b7fa70776fdce55c5",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "‘কতটা বাজে’ দেখতে গিয়েই বক্স অফিসে হিট সিনেমাটি",
+      "url": "https://www.prothomalo.com/entertainment/world-cinema/ffl0yugs0c",
+      "summary": "",
+      "fetched_at": "2026-08-20T11:19:17.319668+00:00"
+    },
+    {
+      "id": "838ed0db6e4283174c54c9c1",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "ব্যবসায়ী ওয়াদুদ হত্যা মামলায় যুব মহিলা লীগের মোনালিসা রিমান্ডে",
+      "url": "https://www.prothomalo.com/bangladesh/tm8acbhezj",
+      "summary": "আদালত ১২ আগস্ট মোনালিসা ইসলামকে এ মামলায় গ্রেপ্তার দেখান। পরদিন এ মামলায় তাঁকে রিমান্ডে নেওয়ার আবেদন করলে আদালত আদেশের জন্য আজকের দিন ধার্য করেছিলেন।",
+      "fetched_at": "2026-08-20T11:19:17.319678+00:00"
+    },
+    {
+      "id": "ae9d1504c5baf4ece4c14b4d",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "Client asked for partial refund",
+      "url": "https://www.reddit.com/r/freelance/comments/1v1yq4e/client_asked_for_partial_refund/",
+      "summary": "I wrote website copy for a client and they want a refund for revisions since they don't need them and plan to go in a different direction. I removed all em dashes per their request and had to rework those sentences. Then...",
+      "fetched_at": "2026-08-20T11:19:17.319680+00:00"
+    },
+    {
+      "id": "1d1ea4fb8bdc0035231a1dfe",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "অস্ট্রেলিয়ার ভিসা নিয়ে প্রতারণা, কে শুনে কার কথা…",
+      "url": "https://www.prothomalo.com/opinion/column/1rswmz2yf2",
+      "summary": "প্রতারকেরা প্রায় একই নামে ডট কম বা ডট নেট ঠিকানার নকল ওয়েবসাইট বানিয়ে সেখানে ‘ভিসা যাচাইয়ের’ ভুয়া ব্যবস্থা দেখায়।",
+      "fetched_at": "2026-08-20T11:19:17.319690+00:00"
+    },
+    {
+      "id": "0156acac6a4a0d70de9caae4",
+      "source": "The Verge",
+      "category": "AI & Tech",
+      "title": "The piano that taught my cat to play for her supper",
+      "url": "https://www.theverge.com/entertainment/980552/pet-piano-cat-autofeeder",
+      "summary": "The pianist sits before her instrument. She carefully extends a front paw, pressing gingerly on a key. She presses again, and again. She is composing some soul music, because something terrible has happened to her: The v...",
+      "fetched_at": "2026-08-20T11:19:17.319694+00:00"
+    },
+    {
+      "id": "4b06169b0bcfa21394ff5aef",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "Crypto generated about 1% of Webull’s record $198M Q2 revenue",
+      "url": "https://cointelegraph.com/news/crypto-generated-1-webulls-record-q2-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "While Webull reported a record $198 million in second-quarter revenue, cryptocurrency trading only generated about $2.25 million of the quarter’s revenue stream.",
+      "fetched_at": "2026-08-20T11:19:17.319698+00:00"
+    },
+    {
+      "id": "9dc887c2053a6cef7e4398e6",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "গার্ড অব অনারে বঙ্গভবন থেকে বিদায় নিলেন ভারপ্রাপ্ত রাষ্ট্রপতি হাফিজ উদ্দিন",
+      "url": "https://www.prothomalo.com/video/bangladesh/oe6tx3xhlc",
+      "summary": "বঙ্গভবন থেকে আনুষ্ঠানিকভাবে বিদায় নিয়েছেন ভারপ্রাপ্ত রাষ্ট্রপতি ও জাতীয় সংসদের স্পিকার হাফিজ উদ্দিন আহমদ",
+      "fetched_at": "2026-08-20T11:19:17.319701+00:00"
+    },
+    {
+      "id": "3b225be5ad826734744d2753",
+      "source": "The Verge",
+      "category": "AI & Tech",
+      "title": "The Audi S6 Sportback E-tron proves that sedans still matter",
+      "url": "https://www.theverge.com/transportation/982464/audi-s6-sportback-etron-sedan-ev-review",
+      "summary": "Last year, Audi announced that it gave its all-EV-by-2033 plan the boot, and instead will offer a mix of gasoline, hybrid, and electrified propulsion. There's no doubt still some uncertainty among bigger automakers - esp...",
+      "fetched_at": "2026-08-20T11:19:17.319703+00:00"
+    },
+    {
+      "id": "7ef156fd9fe0c028c2e564b7",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "Go 1.27",
+      "url": "https://go.dev/blog/go1.27",
+      "summary": "Article URL: https://go.dev/blog/go1.27 Comments URL: https://news.ycombinator.com/item?id=49365405 Points: 657 # Comments: 196",
+      "fetched_at": "2026-08-20T11:19:17.319705+00:00"
+    },
+    {
+      "id": "475b1caa8edabc2e171034f4",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "ব্যক্তিগত সম্পত্তি, তবু প্রবেশে বাধা নেই",
+      "url": "https://nagorik.prothomalo.com/durporobash/aqgwjt19rg",
+      "summary": "সুইডেনে ‘আলেমানসরেত্তেন’ নামের এক বিশেষ অধিকার রয়েছে, যেখানে ব্যক্তিগত মালিকানাধীন বনেও মানুষ অবাধে হাঁটতে, বুনো বেরি বা মাশরুম সংগ্রহ করতে এবং দূরবর্তী স্থানে তাঁবু ফেলতে পারে।",
+      "fetched_at": "2026-08-20T11:19:17.319709+00:00"
+    },
+    {
+      "id": "809aa3a0816a259949bf8561",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "রাষ্ট্রপতি নির্বাচনে ভোট দিচ্ছেন না ইসলামী আন্দোলনের একমাত্র এমপি, কারণ কী",
+      "url": "https://www.prothomalo.com/politics/bxxtck6e2t",
+      "summary": "আজ বেলা দুইটার দিকে জাতীয় সংসদের সংসদকক্ষে রাষ্ট্রপতি নির্বাচনের ভোট গ্রহণ শুরু হয়। ভোট গ্রহণ চলবে বিকেল পাঁচটা পর্যন্ত।",
+      "fetched_at": "2026-08-20T11:19:17.319715+00:00"
+    },
+    {
+      "id": "05ea0144f860130f9ae1fdf6",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "OpenRouter is joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "summary": "Previously: Stripe will reportedly acquire OpenRouter for $7B+ https://news.ycombinator.com/item?id=49323381 Comments URL: https://news.ycombinator.com/item?id=49364559 Points: 852 # Comments: 444",
+      "fetched_at": "2026-08-20T11:19:17.319719+00:00"
+    },
+    {
+      "id": "0a48eb58acfb7ee6e167a0fc",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "পাঠকের রুচি কীভাবে গড়ে উঠছে, এই প্রশ্ন নিয়ে ভাবা জরুরি",
+      "url": "https://www.bondhushava.com/activities/6n2yy0lxx1",
+      "summary": "বিশ্ববিদ্যালয় ক্যাম্পাসে অনুষ্ঠিত পাঠচক্রে আলোচনার কেন্দ্রে ছিল বর্তমান প্রজন্ম কী পড়ছে, কেন পড়ছে এবং পাঠের মাধ্যমে তার চিন্তা ও রুচি কতটা সমৃদ্ধ হচ্ছে। আলোচনায় বিশেষভাবে উঠে আসে ইলমা বেহরোজের আলোচিত উপন্যাস ‘পদ্মজা’...",
+      "fetched_at": "2026-08-20T11:19:17.319723+00:00"
+    },
+    {
+      "id": "aee74a330d032fb24a824488",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "প্রয়োজনে রাজনৈতিক ঐকমত্য করে জামায়াত-শিবিরকে নিষিদ্ধ করতে হবে: নুরুল হক",
+      "url": "https://www.prothomalo.com/politics/d397brv14y",
+      "summary": "নুরুল হক বলেছেন, আওয়ামী লীগ জামায়াত-শিবিরকে নিষিদ্ধ করেছিল। অন্তর্বর্তী সরকার সেই নিষেধাজ্ঞা তুলে নেয়। এখন নির্বাচিত সরকারকে বিষয়টি নিয়ে ভাবতে হবে।",
+      "fetched_at": "2026-08-20T11:19:17.319730+00:00"
+    },
+    {
+      "id": "7dee5fa3863f1914ce74d4bf",
+      "source": "The Verge",
+      "category": "AI & Tech",
+      "title": "Nielsen is leaning more on wearables to hear what people are watching",
+      "url": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
+      "summary": "In order to beef up its ability to accurately measure viewership data in the streaming era, Nielsen is moving forward with a plan to use more information gathered from its partners' wearable devices. Today, Nielsen annou...",
+      "fetched_at": "2026-08-20T11:19:17.319732+00:00"
+    },
+    {
+      "id": "5bcdf20a3e66018631482f51",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "টাকা দিয়ে বাড়ি-গাড়ি কেনা গেলেও ঢাকার ‘জ্যাম নেই’ কেনা যায় না কেন",
+      "url": "https://nagorik.prothomalo.com/ayojon/j22hkac1ox",
+      "summary": "ঢাকার যানজটে ধনী-গরিব সবাই সমান—এমনটাই তুলে ধরেছেন এক শিক্ষার্থী।",
+      "fetched_at": "2026-08-20T11:19:17.319736+00:00"
+    },
+    {
+      "id": "e371faf592f215786e72892a",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "প্রশ্ন শুনে আকাশের দিকে তাকালেন ফিল সিমন্স",
+      "url": "https://www.prothomalo.com/sports/cricket/6fqyxkqqsh",
+      "summary": "ডারউইনের তুলনায় ম্যাকাইয়ের কন্ডিশন একটু ভিন্ন হবে। এখানে উইকেট সবুজ, বাউন্সি আর গতিময়।",
+      "fetched_at": "2026-08-20T11:19:17.319742+00:00"
+    },
+    {
+      "id": "008750967d630f45c62d3c77",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "Bitcoin.com integrates UAE-registered US dollar stablecoin into self-custodial wallet",
+      "url": "https://cointelegraph.com/news/bitcoincom-integrates-uae-registered-usdu-stablecoin-into-self-custodial-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The integration expands access to USDU, the UAE’s first central bank-registered US dollar stablecoin, as it builds distribution beyond institutional channels.",
+      "fetched_at": "2026-08-20T11:19:17.319746+00:00"
+    },
+    {
+      "id": "7802bc18cbb03fb566ad4738",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "যে হোটেল রুম নিয়ে অভিযোগ, সেখানে ছিলেনই না জেমস, দাবি ম্যানেজারের",
+      "url": "https://www.prothomalo.com/entertainment/song/l01lq5qqfh",
+      "summary": "",
+      "fetched_at": "2026-08-20T11:19:17.319748+00:00"
+    },
+    {
+      "id": "cafec03cdfc518f8becb7477",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "Trump pushes for CLARITY Act passage alongside crypto leaders",
+      "url": "https://cointelegraph.com/news/donald-trump-clarity-act-passage-crypto-leaders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Donald Trump spoke from the White House on Wednesday, urging the Senate to pass a crypto market structure bill to keep the country “ahead of China.”",
+      "fetched_at": "2026-08-20T11:19:17.319753+00:00"
+    },
+    {
+      "id": "898d3d0a54d41f2924916bc8",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "summary": "Article URL: https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html Comments URL: https://news.ycombinator.com/item?id=49372583 Points: 61 # Comments: 21",
+      "fetched_at": "2026-08-20T11:19:17.319758+00:00"
+    },
+    {
+      "id": "219ea19ebb85837705fa00d1",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "summary": "Article URL: https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/ Comments URL: https://news.ycombinator.com/item?id=49365841 Points: 218 # Comments: 55",
+      "fetched_at": "2026-08-20T11:19:17.319777+00:00"
+    },
+    {
+      "id": "38208d528942f1b18335856e",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "summary": "Article URL: https://unsloth.ai/docs/basics/dynamic-3.0-ggufs Comments URL: https://news.ycombinator.com/item?id=49365443 Points: 282 # Comments: 99",
+      "fetched_at": "2026-08-20T11:19:17.319779+00:00"
+    },
+    {
+      "id": "6a9b9e452cf224677c15a39d",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Extensible Software in the age of LLMs",
+      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+      "summary": "Article URL: https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/ Comments URL: https://news.ycombinator.com/item?id=49363668 Points: 154 # Comments: 64",
+      "fetched_at": "2026-08-20T11:19:17.319786+00:00"
+    },
     {
       "id": "02265e369b35bd1f21389c40",
       "source": "TechCrunch",
@@ -2297,411 +2702,6 @@
       "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
       "summary": "AI accounting startup Rillet has reached a $1 billion valuation after securing $100 million in a Series C funding round led by ICONIQ. The milestone comes just two years after the company launched publicly, driven by doubling its annual recurring revenue over the past three months.",
       "fetched_at": "2026-08-19T20:58:20.023557+00:00"
-    },
-    {
-      "id": "1cbe2618869030370bd28971",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "HYPE jumps 11% as Trump says CFTC is working to bring Hyperliquid to U.S.",
-      "url": "https://www.coindesk.com/markets/2026/08/19/hype-jumps-11-as-trump-says-cftc-is-working-to-bring-hyperliquid-to-u-s",
-      "summary": "The HYPE cryptocurrency experienced an 11% price increase following statements from Donald Trump regarding the platform's potential expansion into the American market. Trump stated that the Commodity Futures Trading Commission is actively coordinating efforts to establish Hyperliquid's availability in the United States.",
-      "fetched_at": "2026-08-19T20:58:26.657051+00:00"
-    },
-    {
-      "id": "2c27b46869e81bed8200e717",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Veriswap: Customer Support Representative",
-      "url": "https://weworkremotely.com/remote-jobs/veriswap-customer-support-representative",
-      "summary": "Veriswap, a sports card trading platform based in the Philippines, is seeking a Customer Support Representative to join its international team. The role involves assisting a large community of collectors and ensuring efficient marketplace operations under the direction of a team lead. This position is designed for individuals dedicated to maintaining high satisfaction levels through rapid and reliable service.",
-      "fetched_at": "2026-08-19T20:58:49.006999+00:00"
-    },
-    {
-      "id": "6d58d1634cfaaa2e140abb4b",
-      "source": "The Daily Star",
-      "category": "Bangladesh News",
-      "title": "Ramisa rape and murder: Sohel Rana mentions new name as charges framed",
-      "url": "https://www.thedailystar.net/news/crime-justice/news/ramisa-rape-and-murder-sohel-rana-mentions-new-name-charges-framed-4187931",
-      "summary": "A tribunal has formally framed charges in the Ramisa rape and murder case, scheduling the trial to begin the following day. During the proceedings, the accused, Sohel Rana, introduced a new allegation claiming an individual named \"Dollar\" was also involved in the crime.",
-      "fetched_at": "2026-08-19T20:58:55.390285+00:00"
-    },
-    {
-      "id": "4980877cb458f5eca11c7b2e",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "Magic’s Leaked Secret Lair Commander Deck Includes an Overpowered $60 Cyborg",
-      "url": "https://www.polygon.com/mtg-secret-lair-odds-and-ends-commander-decklist-leak/",
-      "summary": "Details of a new Magic: The Gathering Secret Lair Commander deck titled \"Odds and Ends\" recently surfaced, revealing a theme focused on cards with odd-numbered mana costs. The leaked product features several high-value reprints, including the Esper Sentinel, an artifact creature that currently retails for approximately $60.",
-      "fetched_at": "2026-08-19T20:59:07.968621+00:00"
-    },
-    {
-      "id": "a0a2323fc124ad1d654a46fc",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "The national debt just hit $40 trillion. Here’s how it can hurt Americans.",
-      "url": "https://www.marketwatch.com/story/the-national-debt-is-about-to-hit-40-trillion-heres-how-it-can-hurt-americans-b4f252b9?mod=mw_rss_topstories",
-      "summary": "The United States national debt has reached a new milestone of $40 trillion. Recent research suggests this rising deficit could negatively impact various demographics, including students seeking loans, prospective homeowners, and Social Security beneficiaries.",
-      "fetched_at": "2026-08-19T20:59:18.534938+00:00"
-    },
-    {
-      "id": "b5080cf1ad7fb7c72bea4aae",
-      "source": "Reddit r/freelance",
-      "category": "Freelance",
-      "title": "Please Read This Before Posting or Commenting",
-      "url": "https://www.reddit.com/r/freelance/comments/9imfv9/please_read_this_before_posting_or_commenting/",
-      "summary": "Violating the rules of this subreddit will cause your post/comment will be removed and you will be banned PERMANENTLY. This is your only warning! If you are unsure about whether a potential post or comment is suitable, c...",
-      "fetched_at": "2026-08-19T20:59:37.951714+00:00"
-    },
-    {
-      "id": "016115aacf32fc1b109a93df",
-      "source": "TechCrunch",
-      "category": "AI & Tech",
-      "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
-      "url": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/",
-      "summary": "The actress' firm Kinship Ventures is an investor in the company.",
-      "fetched_at": "2026-08-19T20:59:42.488861+00:00"
-    },
-    {
-      "id": "ce19ce3312f14dc4b89a1b54",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "Trump pushes Congress to move on Clarity Act during White House crypto event",
-      "url": "https://www.coindesk.com/policy/2026/08/19/trump-pushes-congress-to-move-on-clarity-act-during-white-house-crypto-event",
-      "summary": "President Donald Trump urged Congress to advance the Clarity Act during a cryptocurrency event held at the White House. The proposed legislation seeks to establish a formal regulatory framework for stablecoins and other digital assets. This initiative reflects the administration’s priority of creating legal certainty for the financial technology sector.",
-      "fetched_at": "2026-08-19T20:59:52.629067+00:00"
-    },
-    {
-      "id": "8d4c2bbd5b4af01d0ff71b5b",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Toast: Senior Product Manager, Consumer Payments",
-      "url": "https://weworkremotely.com/remote-jobs/toast-senior-product-manager-consumer-payments",
-      "summary": "Headquarters: Remote, US Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy. We are l...",
-      "fetched_at": "2026-08-19T20:59:57.145833+00:00"
-    },
-    {
-      "id": "b1ff6892233e69ccfa6ca98b",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "MrBeast Meets 'Battle Royale' In New Thriller From GenZ's Next Great Director",
-      "url": "https://www.polygon.com/alex-ullom-4-x-4-the-event-movie-plot-cast/",
-      "summary": "An emerging director has wrapped production on a new thriller compared conceptually to a mix between online creator MrBeast and the survival classic *Battle Royale*. The project follows the filmmaker's recent success in the youth-oriented horror genre.",
-      "fetched_at": "2026-08-19T21:00:03.507232+00:00"
-    },
-    {
-      "id": "140d3315e075941032032bf4",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "Moderna’s cancer-vaccine breakthrough drives broad biopharma stock rally",
-      "url": "https://www.marketwatch.com/story/modernas-cancer-vaccine-breakthrough-drives-broad-biopharma-stock-rally-ff2816aa?mod=mw_rss_topstories",
-      "summary": "The biopharmaceutical sector has struggled with a prolonged downturn in recent years but has been on an upswing of late.",
-      "fetched_at": "2026-08-19T21:00:08.089691+00:00"
-    },
-    {
-      "id": "f23907411a3686ceb3512c3b",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "Tiny robots powered by light can hunt down and collect bacteria",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260816044850.htm",
-      "summary": "Researchers have built microscopic, light-driven robots that can rapidly navigate through liquid, collect bacteria, and deposit them in chosen locations. These tiny “cleaners” could open new possibilities for manipulatin...",
-      "fetched_at": "2026-08-19T21:00:12.823585+00:00"
-    },
-    {
-      "id": "cb9c6fa83aefc30757491933",
-      "source": "TechCrunch",
-      "category": "AI & Tech",
-      "title": "Gambling on the Little League World Series? Sports bettors have gone too far",
-      "url": "https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/",
-      "summary": "Have we tried turning off society and turning it back on again?",
-      "fetched_at": "2026-08-19T21:00:17.319940+00:00"
-    },
-    {
-      "id": "3b159f4417c87ac880b11efe",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Tractian: Product Content Specialist",
-      "url": "https://weworkremotely.com/remote-jobs/tractian-product-content-specialist",
-      "summary": "Headquarters: São Paulo, SP Marketing at TRACTIAN The Marketing team at Tractian crafts the narrative, defines messaging and positioning, and translates our groundbreaking products and features into tangible customer ben...",
-      "fetched_at": "2026-08-19T21:00:17.811434+00:00"
-    },
-    {
-      "id": "4a40d5c6a7a9e1b12dbd2cd2",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "10 Best Dark Fantasy Books for Fans of the Witcher and Game of Thrones",
-      "url": "https://www.polygon.com/best-dark-fantasy-books-like-the-witcher-game-of-thrones/",
-      "summary": "Read stories of heists, magic, monsters, and morally gray characters.",
-      "fetched_at": "2026-08-19T21:00:17.811463+00:00"
-    },
-    {
-      "id": "b9c3b6ce430976594996d26d",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?",
-      "url": "https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories",
-      "summary": "“I would like to offer a piece of advice for women who are or have been married.”",
-      "fetched_at": "2026-08-19T21:00:17.811473+00:00"
-    },
-    {
-      "id": "2dd6d8d60603027e7ad2ef16",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "The bacteria that make cheese taste so good may also benefit your gut",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260816044847.htm",
-      "summary": "Scientists studying three artisan British cheeses found that the microbes responsible for their distinctive flavors may also offer surprising benefits for gut health. As the cheeses matured, helpful bacteria transformed ...",
-      "fetched_at": "2026-08-19T21:00:17.811484+00:00"
-    },
-    {
-      "id": "13b08348cc34afff00322303",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Mercury: Senior Product Designer  Mobile",
-      "url": "https://weworkremotely.com/remote-jobs/mercury-senior-product-designer-mobile",
-      "summary": "Headquarters: San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States The Memphis Group burst onto the scene in the early 1980s with a belief that design could be more than purely function...",
-      "fetched_at": "2026-08-19T21:00:17.811501+00:00"
-    },
-    {
-      "id": "9e800956ebedc7a36e8e7682",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "BG3 meets Fire Emblem in a Brand-New Steam RPG",
-      "url": "https://www.polygon.com/ledgerbound-tactical-rpg-insurance-dating-sim/",
-      "summary": "Ledgerbound casts you as an insurance adjuster proving dead heroes had it coming, with Fire Emblem-style tactics and a cast worth falling for.",
-      "fetched_at": "2026-08-19T21:00:17.811514+00:00"
-    },
-    {
-      "id": "158f769b2dec293edb1a460e",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "Moderna’s experimental vaccine prevents cancer recurrence, in ‘historic’ win for personalized medicine. Its stock soared.",
-      "url": "https://www.marketwatch.com/story/modernas-stock-doubles-on-promising-cancer-vaccine-results-896b1f2c?mod=mw_rss_topstories",
-      "summary": "The candidate is a combination of an mRNA therapeutic vaccine and Merck’s cancer drug Keytruda.",
-      "fetched_at": "2026-08-19T21:00:17.811521+00:00"
-    },
-    {
-      "id": "093f2933c84e2fba123bf888",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "Widely prescribed blood pressure drugs linked to 33% higher kidney risk in type 2 diabetes",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260816044844.htm",
-      "summary": "A widely prescribed blood pressure drug was associated with a 33% higher risk of serious kidney problems in people with type 2 diabetes, even when they were already taking kidney-protective medications. The surprising fi...",
-      "fetched_at": "2026-08-19T21:00:17.811528+00:00"
-    },
-    {
-      "id": "034694a793230692a2eca01d",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Blue Whale Lending Llc.: Graphic Design Assistant",
-      "url": "https://weworkremotely.com/remote-jobs/blue-whale-lending-llc-graphic-design-assistant",
-      "summary": "Headquarters: Baltimore US Join our dynamic team at Blue Whale Lending LLC. as a creative force behind our visual communications. This position offers an exciting opportunity to assist in the design and production of eng...",
-      "fetched_at": "2026-08-19T21:00:17.811537+00:00"
-    },
-    {
-      "id": "f3a700eeca6da94c1df57c51",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "Avengers: Doomsday Star Might Have Just Spoiled a Doctor Doom Reveal",
-      "url": "https://www.polygon.com/avengers-doomsday-doctor-doom-robert-downey-jr-david-harbour/",
-      "summary": "MCU star David Harbour reveals one of his lines from Avengers: Doomsday. Does it give away too much about Doctor Doom's identity?",
-      "fetched_at": "2026-08-19T21:00:17.811545+00:00"
-    },
-    {
-      "id": "fba8db473831be3f10eb6452",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "Hidden Valley Ranch dressing may be a victim of this summer’s salad scare",
-      "url": "https://www.marketwatch.com/story/hidden-valley-ranch-dressing-may-be-a-victim-of-this-summers-salad-scare-f8537cd5?mod=mw_rss_topstories",
-      "summary": "As the cyclospora outbreak has made consumers more cautious about salad purchases, one analyst points to sales declines for Clorox’s Hidden Valley brand.",
-      "fetched_at": "2026-08-19T21:00:17.811549+00:00"
-    },
-    {
-      "id": "0469f9f75f57fac800bd265d",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "Japanese scientists use tiny silver particles to make DNA assembly up to 5x more efficient",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260816044842.htm",
-      "summary": "Silver nanoparticles can precisely slice DNA and create longer “sticky ends,” helping genetic fragments join up to five times more efficiently than conventional methods. The breakthrough could eventually simplify the con...",
-      "fetched_at": "2026-08-19T21:00:17.811555+00:00"
-    },
-    {
-      "id": "9a3fe633d1ba82ac9056db31",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Tiger Analytics Inc.: Manager/ Sr. Manager - Data Product Manager",
-      "url": "https://weworkremotely.com/remote-jobs/tiger-analytics-inc-manager-sr-manager-data-product-manager",
-      "summary": "Headquarters: Toronto, Ontario, Canada Tiger Analytics is an advanced analytics consulting firm. We are the trusted analytics partner for several Fortune 100 companies, enabling them to generate business value from data....",
-      "fetched_at": "2026-08-19T21:00:17.811565+00:00"
-    },
-    {
-      "id": "5f5b5c0af9bd28c66f485b63",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "Marvel Tokon: Fighting Souls Review: A Worthy Fighting Game That Can't Overcome Tech Problems",
-      "url": "https://www.polygon.com/marvel-tokon-fighting-souls-review/",
-      "summary": "Marvel Tokon: Fighting Souls is a creative new take on tag games, but the PC port needs major work.",
-      "fetched_at": "2026-08-19T21:00:17.811573+00:00"
-    },
-    {
-      "id": "725c4575dcc8b5f6eae1ce32",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "You can now Venmo your kid’s college tuition. But should you?",
-      "url": "https://www.marketwatch.com/story/should-you-venmo-your-tuition-heres-what-to-know-as-colleges-add-new-payment-options-1a70ae96?mod=mw_rss_topstories",
-      "summary": "Some universities will begin accepting the nontraditional payment method as consumers seek flexible spending options.",
-      "fetched_at": "2026-08-19T21:00:17.811577+00:00"
-    },
-    {
-      "id": "8e43130cc6fbcaa849e19362",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "fetched_at": "2026-08-19T21:00:17.811586+00:00"
-    },
-    {
-      "id": "d0f9d61aa47a7352b842d48c",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Sharegate Migrate Chezworkleap: Senior Product Designer - ShareGate Migrate",
-      "url": "https://weworkremotely.com/remote-jobs/sharegate-migrate-chezworkleap-senior-product-designer-sharegate-migrate",
-      "summary": "Headquarters: Canada - Remote Description de l'entreprise Workleap est une entreprise tech basée à Montréal avec comme mission de rendre le travail plus simple. Depuis 2006, on bâtit des produits innovants qui aident les...",
-      "fetched_at": "2026-08-19T21:00:17.811592+00:00"
-    },
-    {
-      "id": "5dad0db83c9a7143bf481021",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "Trump calls for passage of a key cryptocurrency bill as it falters in the Senate: ‘We need Congress to take the next step’",
-      "url": "https://www.marketwatch.com/story/trump-calls-for-passage-of-a-key-cryptocurrency-bill-as-it-falters-in-the-senate-we-need-congress-to-take-the-next-step-ce9aa046?mod=mw_rss_topstories",
-      "summary": "The Clarity Act is running into resistance because it doesn’t limit the president’s lucrative crypto ventures.",
-      "fetched_at": "2026-08-19T21:00:17.811602+00:00"
-    },
-    {
-      "id": "fb53e562b27d24872de4b953",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Duel.com: Product Owner",
-      "url": "https://weworkremotely.com/remote-jobs/duel-com-product-owner",
-      "summary": "Headquarters: Malta Duel is a protest against everything wrong in gambling. The purest, fairest casino ever built. The Vatican of gamba. We're waging war on scammers, fake bets, and dark patterns — and we need a Product ...",
-      "fetched_at": "2026-08-19T21:00:17.811614+00:00"
-    },
-    {
-      "id": "d93d602598cb8d002ffdf9f3",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "We’re in our 50s and have $1.5 million in traditional 401(k)s. Is it too early to start Roth conversions?",
-      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-have-1-5-million-in-traditional-401-k-s-is-it-too-early-to-start-roth-conversions-2d0f9287?mod=mw_rss_topstories",
-      "summary": "“The last adviser we worked with lost a significant portion of our portfolio.”",
-      "fetched_at": "2026-08-19T21:00:17.811623+00:00"
-    },
-    {
-      "id": "81a7b243cde9dafc0155847f",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "Breast cancer is surging among Asian American women — and scientists don’t know why",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260815064829.htm",
-      "summary": "Breast cancer is rising rapidly among Asian American women, with some of the most alarming increases occurring in younger women and in aggressive or advanced cancers. Researchers say screening alone can't explain the sur...",
-      "fetched_at": "2026-08-19T21:00:17.811628+00:00"
-    },
-    {
-      "id": "ca1aee4e945178a03cac1f7e",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Workleap: Senior Product Designer - ShareGate Migrate",
-      "url": "https://weworkremotely.com/remote-jobs/workleap-senior-product-designer-sharegate-migrate",
-      "summary": "Headquarters: Canada - Remote Company Description Workleap is a Montreal-based tech company on a mission to make work simpler. Since 2006, we’ve been building game-changing products that tackle HR and IT’s biggest challe...",
-      "fetched_at": "2026-08-19T21:00:17.811638+00:00"
-    },
-    {
-      "id": "8a3903cd4f8772c9ebe8c40c",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "‘This is very stressful’: My son’s roof was damaged in a storm, but his insurance won’t pay. Can he fight this?",
-      "url": "https://www.marketwatch.com/story/this-is-very-stressful-my-sons-insurance-company-wont-pay-for-his-damaged-roof-how-can-he-fight-this-22f3a821?mod=mw_rss_topstories",
-      "summary": "“They’re saying the roof now needs to be completely replaced.”",
-      "fetched_at": "2026-08-19T21:00:17.811646+00:00"
-    },
-    {
-      "id": "99576e20322695600ec6db4d",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Pindrop: Senior Platform Product Manager (Contract Position)",
-      "url": "https://weworkremotely.com/remote-jobs/pindrop-senior-platform-product-manager-contract-position",
-      "summary": "Headquarters: Ukraine - Remote Who We Are Pindrop is the Real Human + Right Human® Identity Trust Platform for the AI era. As AI-driven fraud and deepfakes erode trust in digital communication, Pindrop delivers continuou...",
-      "fetched_at": "2026-08-19T21:00:17.811665+00:00"
-    },
-    {
-      "id": "16f1c690862d9d519ef9f415",
-      "source": "Reddit r/freelance",
-      "category": "Freelance",
-      "title": "We built a full 3D website for a client, sent the invoice, and got scammed...",
-      "url": "https://www.reddit.com/r/freelance/comments/1va9vtx/we_built_a_full_3d_website_for_a_client_sent_the/",
-      "summary": "This is probably the weirdest client story we've had, sharing it because it still doesn't feel real even now. Back in 2024 we met a guy through, of all things, an Uber driver. Random small talk in the car, driver mention...",
-      "fetched_at": "2026-08-19T21:00:17.811685+00:00"
-    },
-    {
-      "id": "8a313d177a4ae85aa6bbf476",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Brightwheel: Staff Product Manager",
-      "url": "https://weworkremotely.com/remote-jobs/brightwheel-staff-product-manager",
-      "summary": "Headquarters: United States Our Mission and Opportunity Early education is one of the most important determinants of childhood outcomes, a critical support for working families, and a $175B market that remains underserve...",
-      "fetched_at": "2026-08-19T21:00:17.811702+00:00"
-    },
-    {
-      "id": "00a914f747f634c2f20753d8",
-      "source": "Reddit r/freelance",
-      "category": "Freelance",
-      "title": "is it normal for agencies to ask their editor for payment",
-      "url": "https://www.reddit.com/r/freelance/comments/1v96bca/is_it_normal_for_agencies_to_ask_their_editor_for/",
-      "summary": "this &quot;agency&quot; told me that they officially found a client and assigned me to edit these videos for them. after finishing it, i immediately sent it to them and waited a week looking for an update. after asking 2...",
-      "fetched_at": "2026-08-19T21:00:17.811713+00:00"
-    },
-    {
-      "id": "98e94d5c50511be6bf5a609a",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Simprints: Senior Technical Product Manager",
-      "url": "https://weworkremotely.com/remote-jobs/simprints-senior-technical-product-manager",
-      "summary": "Headquarters: United Kingdom About Us Simprints is a nonprofit tech company with a mission to radically increase transparency and effectiveness in global development. We build ethical, inclusive digital ID powered by bio...",
-      "fetched_at": "2026-08-19T21:00:17.811732+00:00"
-    },
-    {
-      "id": "9087dd2794b3c035c3c5e9ea",
-      "source": "Reddit r/freelance",
-      "category": "Freelance",
-      "title": "My top 5 rules for long term client relationships (8 years freelancing)",
-      "url": "https://www.reddit.com/r/freelance/comments/1v3j8w7/my_top_5_rules_for_long_term_client_relationships/",
-      "summary": "Good relationships mean repeat business. Repeat business means room to grow. My top 5: 1. Be flexible when the client asks for more and you didn't see it coming. If it's not in the scope, it's an opportunity to improve y...",
-      "fetched_at": "2026-08-19T21:00:17.811745+00:00"
-    },
-    {
-      "id": "da7ce215eebe8184073c29ac",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Mirantis: Technical Product Marketer - K0rdent AI",
-      "url": "https://weworkremotely.com/remote-jobs/mirantis-technical-product-marketer-k0rdent-ai",
-      "summary": "Headquarters: Austin, TX, USA Company Description Mirantis is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, mac...",
-      "fetched_at": "2026-08-19T21:00:17.811797+00:00"
-    },
-    {
-      "id": "76de4a36a7f62898e0b3f451",
-      "source": "Reddit r/freelance",
-      "category": "Freelance",
-      "title": "Guys finally some progress!",
-      "url": "https://www.reddit.com/r/freelance/comments/1v3xo2b/guys_finally_some_progress/",
-      "summary": "I got a message from a human but he asked me to go to car dealership for 40€ when I'm a video editor... &#32; submitted by &#32; /u/Special-Print4716 [link] &#32; [comments]",
-      "fetched_at": "2026-08-19T21:00:17.811809+00:00"
-    },
-    {
-      "id": "b197d1b23091782303544c0b",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Kiss My Apps: Data Analyst (Wellbeing product)",
-      "url": "https://weworkremotely.com/remote-jobs/kiss-my-apps-data-analyst-wellbeing-product",
-      "summary": "Headquarters: Ukraine Kiss My Apps — компанія-платформа, що об’єднує 7 продуктових вертикалей та 30+ AI-first продуктів, 100+ мільйонів користувачів, власну екосистему аналітичних, пеймент та маркетингових розробок. Прод...",
-      "fetched_at": "2026-08-19T21:00:17.811827+00:00"
     }
   ]
 }
