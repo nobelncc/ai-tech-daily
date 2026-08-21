@@ -1,8 +1,125 @@
 {
   "site_name": "Global Pulse — Multi-Niche News",
   "site_description": "Automatically updated summaries across 10 topics, refreshed around the clock.",
-  "last_updated": "2026-08-21T22:14:08.819776+00:00",
+  "last_updated": "2026-08-21T23:16:19.208085+00:00",
   "articles": [
+    {
+      "id": "9a4dfbd59558585046a79767",
+      "source": "TechCrunch",
+      "category": "AI & Tech",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "summary": "Recent testing by TechCrunch revealed that Anthropic's Claude AI models can be induced to bypass internal safety protocols regarding sexually explicit content. While the developer officially prohibits the generation of such material, researchers found that these restrictions could be circumvented with minimal effort.",
+      "fetched_at": "2026-08-21T23:14:48.409900+00:00"
+    },
+    {
+      "id": "05c33a459e4d6bb66ea21c97",
+      "source": "TechCrunch Startups",
+      "category": "Startups",
+      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+      "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+      "summary": "AI accounting platform Rillet recently secured $100 million in new funding, elevating the company to unicorn status within a two-day window. The investment round was triggered after the company's CEO presented strong growth data to board members, drawing rapid interest from major venture capital firms including Sequoia and Iconiq.",
+      "fetched_at": "2026-08-21T23:14:59.201860+00:00"
+    },
+    {
+      "id": "ed27dc5e8f39fcfa7d41a84d",
+      "source": "TechCrunch",
+      "category": "AI & Tech",
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "fetched_at": "2026-08-21T23:15:08.404879+00:00"
+    },
+    {
+      "id": "52a79036a3d91ec9ff72c8b7",
+      "source": "TechCrunch Startups",
+      "category": "Startups",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "summary": "There's about to be a big fight to secure access to space.",
+      "fetched_at": "2026-08-21T23:15:20.186317+00:00"
+    },
+    {
+      "id": "ff28b2b50ae3faa95b91c821",
+      "source": "Grist",
+      "category": "Climate",
+      "title": "Why Egyptian farmers are growing crops under solar panels",
+      "url": "https://grist.org/energy/why-egyptian-farmers-are-growing-crops-under-solar-panels/",
+      "summary": "",
+      "fetched_at": "2026-08-21T23:15:24.767344+00:00"
+    },
+    {
+      "id": "603686a289da63ef4619bd4d",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "ডান হাতে আমলনামা মিলবে যে ৬ আমলে",
+      "url": "https://www.prothomalo.com/religion/islam/ovsz4m1zdt",
+      "summary": "বিচার দিবসের নির্ণায়ক মুহূর্ত হলো বান্দার আমলনামা হস্তান্তর। যেসব আমলে সরাসরি ডান হাতে আমলনামা প্রাপ্তির সুস্পষ্ট প্রমাণ রয়েছে, তা উল্লেখ করা হলো।",
+      "fetched_at": "2026-08-21T23:15:29.248659+00:00"
+    },
+    {
+      "id": "7c8442ae8a4a49e26b778580",
+      "source": "TechCrunch Startups",
+      "category": "Startups",
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI prod...",
+      "fetched_at": "2026-08-21T23:15:37.383685+00:00"
+    },
+    {
+      "id": "7686bfd56f2ec6b830c0bd5d",
+      "source": "The Verge",
+      "category": "AI & Tech",
+      "title": "HoverAir’s transforming modular drone has already been halted in the US",
+      "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+      "summary": "I am so sorry, fellow US gadget fans: the FCC's drone ban appears to have struck again. The HoverAir Versa - a baby steadycam with snap-on propeller wings that transform it into a drone - has already stopped taking US or...",
+      "fetched_at": "2026-08-21T23:15:41.893467+00:00"
+    },
+    {
+      "id": "c1209789c26a834579efbb98",
+      "source": "The Verge",
+      "category": "AI & Tech",
+      "title": "TikTok will pay $400 million to settle DOJ child privacy lawsuit",
+      "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
+      "summary": "TikTok has agreed to pay $400 million to resolve a Department of Justice lawsuit regarding violations of the Children’s Online Privacy Protection Act. Federal officials alleged the company gathered data from underage users without parental permission and failed to comply with requests to delete those accounts.",
+      "fetched_at": "2026-08-21T23:15:54.284162+00:00"
+    },
+    {
+      "id": "6c8a6a23c65682af38618479",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "summary": "Article URL: https://cymerys.com/w/im-becoming-ai-blind Comments URL: https://news.ycombinator.com/item?id=49386699 Points: 224 # Comments: 231",
+      "fetched_at": "2026-08-21T23:15:58.740060+00:00"
+    },
+    {
+      "id": "82e9064f2ff9c3561e1f9a3d",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "I own 28,000 books – here's what I've learned",
+      "url": "https://www.shelvd.org/blog/28000-books",
+      "summary": "Article URL: https://www.shelvd.org/blog/28000-books Comments URL: https://news.ycombinator.com/item?id=49394759 Points: 11 # Comments: 1",
+      "fetched_at": "2026-08-21T23:16:03.179911+00:00"
+    },
+    {
+      "id": "d894be65902b4d4776ceb066",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "'Ghost Job' Ads Are Getting So Bad That Lawmakers Want to Ban Them",
+      "url": "https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e",
+      "summary": "Article URL: https://www.wsj.com/lifestyle/careers/ghost-job-ads-are-getting-so-bad-that-lawmakers-want-to-ban-them-2580bc3e Comments URL: https://news.ycombinator.com/item?id=49394373 Points: 16 # Comments: 0",
+      "fetched_at": "2026-08-21T23:16:07.652201+00:00"
+    },
+    {
+      "id": "71e395a7e24cf3316ea58b2e",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Remotely Unlocking Electric Scooters",
+      "url": "https://henriemategui.com/post/remotely-unlocking-electric-scooters",
+      "summary": "A technical report explores vulnerabilities that allow for the remote bypassing of locking mechanisms on electric scooters. By analyzing communication protocols between the vehicles and their management systems, the author demonstrates how unauthorized access can be achieved through software manipulation. These findings highlight significant security challenges facing modern micro-mobility infrastructure.",
+      "fetched_at": "2026-08-21T23:16:19.207857+00:00"
+    },
     {
       "id": "f244ab52a8c0a1f40511a1f4",
       "source": "TechCrunch",
@@ -2585,123 +2702,6 @@
       "url": "https://www.reddit.com/r/freelance/comments/1v96bca/is_it_normal_for_agencies_to_ask_their_editor_for/",
       "summary": "this &quot;agency&quot; told me that they officially found a client and assigned me to edit these videos for them. after finishing it, i immediately sent it to them and waited a week looking for an update. after asking 2...",
       "fetched_at": "2026-08-21T15:25:42.963334+00:00"
-    },
-    {
-      "id": "e0855b751cca45ec34290be8",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "শপথ গ্রহণ করলেন রাষ্ট্রপতি মির্জা ফখরুল ইসলাম আলমগীর",
-      "url": "https://www.prothomalo.com/video/bangladesh/p8d70345hu",
-      "summary": "দেশের ২৩তম রাষ্ট্রপতি হিসেবে শপথ নিলেন মির্জা ফখরুল ইসলাম আলমগীর",
-      "fetched_at": "2026-08-21T15:25:42.963346+00:00"
-    },
-    {
-      "id": "9087dd2794b3c035c3c5e9ea",
-      "source": "Reddit r/freelance",
-      "category": "Freelance",
-      "title": "My top 5 rules for long term client relationships (8 years freelancing)",
-      "url": "https://www.reddit.com/r/freelance/comments/1v3j8w7/my_top_5_rules_for_long_term_client_relationships/",
-      "summary": "Good relationships mean repeat business. Repeat business means room to grow. My top 5: 1. Be flexible when the client asks for more and you didn't see it coming. If it's not in the scope, it's an opportunity to improve y...",
-      "fetched_at": "2026-08-21T15:25:42.963349+00:00"
-    },
-    {
-      "id": "100c5c4ed011aaa7c4deedf0",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "সৃজনশীলতাবিরোধী বিভিন্ন শক্তির দাপট দেখতে পাচ্ছি: আনু মুহাম্মদ",
-      "url": "https://www.prothomalo.com/bangladesh/capital/usg6kzyw6t",
-      "summary": "এ প্রদর্শনী চলবে সোমবার পর্যন্ত। প্রতিদিন বেলা ৩টা থেকে রাত ৮টা পর্যন্ত সবার জন্য প্রদর্শনীটি উন্মুক্ত থাকবে।",
-      "fetched_at": "2026-08-21T15:25:42.963361+00:00"
-    },
-    {
-      "id": "76de4a36a7f62898e0b3f451",
-      "source": "Reddit r/freelance",
-      "category": "Freelance",
-      "title": "Guys finally some progress!",
-      "url": "https://www.reddit.com/r/freelance/comments/1v3xo2b/guys_finally_some_progress/",
-      "summary": "I got a message from a human but he asked me to go to car dealership for 40€ when I'm a video editor... &#32; submitted by &#32; /u/Special-Print4716 [link] &#32; [comments]",
-      "fetched_at": "2026-08-21T15:25:42.963364+00:00"
-    },
-    {
-      "id": "064959a18333955aa740afb9",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "সিনারের ইউএস ওপেন শেষ",
-      "url": "https://www.prothomalo.com/sports/other-sports/ewabolj4ze",
-      "summary": "ইতালির এই তারকা টুর্নামেন্ট থেকে ছিটকে যাওয়ায় কার্লোস আলকারাজ, আলেক্সান্ডার জভেরভ ও নোভাক জোকোভিচদের সামনে শিরোপা লড়াই বেশ উন্মুক্ত হয়ে গেল।",
-      "fetched_at": "2026-08-21T15:25:42.963374+00:00"
-    },
-    {
-      "id": "3a1f460be6630bb9dfc00941",
-      "source": "The Verge",
-      "category": "AI & Tech",
-      "title": "Why does it seem like food recalls are out of control this year?",
-      "url": "https://www.theverge.com/science/983241/food-recalls-bigger-out-of-control",
-      "summary": "Just weeks after Taylor Farms issued a recall of its iceberg lettuce amid a massive cyclospora outbreak, the Food and Drug Administration recalled more than one million eggs that may be contaminated with salmonella. The ...",
-      "fetched_at": "2026-08-21T15:25:42.963379+00:00"
-    },
-    {
-      "id": "6e2235b1b0c2df4cd7f2a8d9",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "পাকিস্তানকে তিন দিনেই হারিয়ে দিল ইংল্যান্ড",
-      "url": "https://www.prothomalo.com/sports/cricket/aoq7j4x74z",
-      "summary": "হেডিংলিতে ইংল্যান্ডের বিপক্ষে প্রথম টেস্টে তারা হেরে গেছে ইনিংস ও ১০৩ রানে। এমন হারের পর ‘সবচেয়ে বাজের’ আলোচনাটা আরও জোরালই হবে হয়তো।",
-      "fetched_at": "2026-08-21T15:25:42.963385+00:00"
-    },
-    {
-      "id": "b76689591f22265650a17115",
-      "source": "The Verge",
-      "category": "AI & Tech",
-      "title": "Google’s Pixel 10A is a great deal at 15 percent off",
-      "url": "https://www.theverge.com/gadgets/983171/google-pixel-10a-steelseries-gaming-headset-soldering-4k-bluray-deal-sale",
-      "summary": "This week, all of Google’s Pixel 11 phones launched, including the $899 Pixel 11, the $1,099 Pixel 11 Pro (with the same processor and starting 12GB RAM as the standard model, but with better cameras), and the $1,899 Pix...",
-      "fetched_at": "2026-08-21T15:25:42.963389+00:00"
-    },
-    {
-      "id": "23e3b7f52a679c84c3f83570",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "পশ্চিম তীরে ইসরায়েলের নতুন বসতির কারণে ‘কবর’ হতে পারে ফিলিস্তিন রাষ্ট্রের আকাঙ্ক্ষার",
-      "url": "https://www.prothomalo.com/world/middle-east/ygobczlc45",
-      "summary": "ইসরায়েলের আবাসন মন্ত্রণালয় জেরুজালেমের কাছে ই–ওয়ানে ১ হাজার ২০০টির বেশি আবাসন নির্মাণে দরপত্র আহ্বান করেছে। উদ্দেশ্য, পূর্ব জেরুজালেম থেকে পশ্চিম তীর পর্যন্ত ইহুদি বসতি বিস্তার।",
-      "fetched_at": "2026-08-21T15:25:42.963396+00:00"
-    },
-    {
-      "id": "130393bac39b0422d052816b",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "মস্তিষ্কের অ্যানিউরিজমের চিকিৎসা",
-      "url": "https://www.prothomalo.com/lifestyle/health/qeytxf7pbr",
-      "summary": "বেশির ভাগ ক্ষেত্রে মস্তিষ্কের অ্যানিউরিজমগুলো না ফাটা পর্যন্ত কোনো লক্ষণ বোঝা যায় না। তাই আগেভাগে শনাক্ত করা সহজ নয়।",
-      "fetched_at": "2026-08-21T15:25:42.963402+00:00"
-    },
-    {
-      "id": "53b865bee8d5ff26b07f04c8",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "ন্যাশনাল ডিফেন্স কলেজ পরিচালিত ‘ক্যাপস্টোন কোর্স ২০২৬/২ সম্পন্ন’",
-      "url": "https://www.prothomalo.com/bangladesh/capital/5ojvapsd9g",
-      "summary": "ন্যাশনাল ডিফেন্স কলেজে (এনডিসি) শেষ হলো তিন সপ্তাহব্যাপী ক্যাপস্টোন কোর্স। সমাপনী অনুষ্ঠানে ৩৯ জন ফেলোর হাতে সনদ তুলে দেন সেনাপ্রধান জেনারেল ওয়াকার-উজ-জামান।",
-      "fetched_at": "2026-08-21T15:25:42.963411+00:00"
-    },
-    {
-      "id": "39686c4430c1bbffe2ea78cf",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "স্মিথকে ছাড়িয়ে ক্যাচের বিশ্ব রেকর্ড এখন রুটের",
-      "url": "https://www.prothomalo.com/sports/cricket/n2elot6lnn",
-      "summary": "আর্চারের বলটা ওয়াইসের ব্যাটে লেগে জমা হলো স্লিপে থাকা ইংল্যান্ড অধিনায়ক জো রুটের হাতে। ব্যস, তাতেই ইতিহাস।",
-      "fetched_at": "2026-08-21T15:25:42.963418+00:00"
-    },
-    {
-      "id": "a0b24afd2489d37e2f9cb2b4",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "দেখুন এই লাস্যময়ী টালি সুন্দরীর ১৭ টি লুক",
-      "url": "https://www.haal.fashion/celeb/look/sxjqg4esmw",
-      "summary": "ইনস্টাগ্রামে নিয়মিতই নিজের স্টাইলিশ ছবি ও নানা মুহূর্তের ঝলক ভাগ করে নেন অনুরাগীদের সঙ্গে। তাঁর ফ্যাশনেবল উপস্থিতি নজর কাড়ে অসংখ্য ফ্যাশনপ্রেমীরও। চলুন, অভিনেত্রীর ইনস্টাগ্রামের ছবিতে ঢুঁ মেরে দেখে নেওয়া যাক তাঁর কিছু স্...",
-      "fetched_at": "2026-08-21T15:25:42.963426+00:00"
     }
   ]
 }
