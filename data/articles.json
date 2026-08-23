@@ -1,8 +1,35 @@
 {
   "site_name": "Global Pulse — Multi-Niche News",
   "site_description": "Automatically updated summaries across 10 topics, refreshed around the clock.",
-  "last_updated": "2026-08-23T22:11:55.767713+00:00",
+  "last_updated": "2026-08-23T23:11:31.577838+00:00",
   "articles": [
+    {
+      "id": "d2dfd970b61f5b45e225721a",
+      "source": "MarketWatch Top Stories",
+      "category": "Finance",
+      "title": "Stock futures flat as U.S. and Canada appear headed for trade war",
+      "url": "https://www.marketwatch.com/story/stock-futures-slip-as-u-s-and-canada-appear-headed-for-trade-war-a9814b24?mod=mw_rss_topstories",
+      "summary": "U.S. equity futures remained largely unchanged on Sunday as trade tensions intensified between the United States and Canada. The prospect of a major trade dispute between the two key economic partners has introduced fresh uncertainty across financial markets.",
+      "fetched_at": "2026-08-23T23:11:16.857620+00:00"
+    },
+    {
+      "id": "d932f6d8264c63d84a972283",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "A client ghosted me after approving the work and I don't know what to do",
+      "url": "https://www.reddit.com/r/freelance/comments/1vkxkv9/a_client_ghosted_me_after_approving_the_work_and/",
+      "summary": "A freelancer turned to Reddit for guidance after a client stopped communicating and withheld payment despite previously approving the completed project. The poster asked the community for advice on whether to pursue formal or legal action to recover the money or simply move on from the loss.",
+      "fetched_at": "2026-08-23T23:11:23.349647+00:00"
+    },
+    {
+      "id": "ccc05a8bf7a918d617abaa89",
+      "source": "ScienceDaily Health",
+      "category": "Health",
+      "title": "3 minutes of sprinting does something 90 minutes of exercise does not",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260821012208.htm",
+      "summary": "Brief intervals of high-intensity sprinting may trigger more significant changes in blood proteins and metabolites than much longer periods of moderate exercise. Research indicates these rapid molecular shifts are linked to a lower risk of developing metabolic conditions such as obesity and type 2 diabetes.",
+      "fetched_at": "2026-08-23T23:11:31.577571+00:00"
+    },
     {
       "id": "9f619affdf2a3d6db9da0728",
       "source": "CoinDesk",
@@ -2675,33 +2702,6 @@
       "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
       "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 114 # Comments: 28",
       "fetched_at": "2026-08-23T12:20:39.742400+00:00"
-    },
-    {
-      "id": "ef5d637155cb71a60106111a",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "NetBSD and my life (2005)",
-      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-      "summary": "Article URL: https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html Comments URL: https://news.ycombinator.com/item?id=49402781 Points: 131 # Comments: 29",
-      "fetched_at": "2026-08-23T12:20:39.742407+00:00"
-    },
-    {
-      "id": "f3480509d486361beb1a04dd",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "HBO Max's New 9/10 Hardcore Thriller Is an Unforgettable Modern Cult Classic",
-      "url": "https://www.polygon.com/eli-roth-thanksgiving-hbo-max-streaming-august-2026/",
-      "summary": "Director Eli Roth’s horror film *Thanksgiving* has recently been added to the Max streaming platform. The production features graphic content and is being highlighted by critics as a significant new entry in the modern slasher genre.",
-      "fetched_at": "2026-08-23T11:12:44.504064+00:00"
-    },
-    {
-      "id": "5ad6f4e4940f4225736ed523",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "The Best Dog Game You’ve Never Played Is Waiting Patiently for You on PS Plus",
-      "url": "https://www.polygon.com/playstation-plus-game-catalog-neva-nomada-studio-gris/",
-      "summary": "Nomada Studio's adventure title *Neva* is now available to PlayStation Plus subscribers. The game incorporates platforming mechanics into a story centered on a journey with a canine companion.",
-      "fetched_at": "2026-08-23T11:12:52.427594+00:00"
     }
   ]
 }
