@@ -1,8 +1,44 @@
 {
   "site_name": "Global Pulse — Multi-Niche News",
   "site_description": "Automatically updated summaries across 10 topics, refreshed around the clock.",
-  "last_updated": "2026-08-23T23:11:31.577838+00:00",
+  "last_updated": "2026-08-24T00:40:57.272113+00:00",
   "articles": [
+    {
+      "id": "8ac12e036340e9d7c65c0ab9",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "5 Years Ago, Double Fine Boldly Tried to Reimagine the AAA Machine",
+      "url": "https://www.polygon.com/psychonauts-2-retrospective-double-fine-games/",
+      "summary": "Polygon recently analyzed how *Psychonauts 2* attempted to redefine the standard approach to high-budget game development on the title's fifth anniversary. The retrospective highlights Double Fine Productions' efforts to create a major release while challenging established industry norms and production structures.",
+      "fetched_at": "2026-08-24T00:40:33.330661+00:00"
+    },
+    {
+      "id": "30e79996dd2d67232efb095e",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "আপত্তির মুখে কনসার্ট বন্ধ, কী বলছেন শিল্পীরা",
+      "url": "https://www.prothomalo.com/entertainment/song/5xd316ft7n",
+      "summary": "ব্রাহ্মণবাড়িয়া ও কিশোরগঞ্জে সংগীতানুষ্ঠান স্থগিতের ঘটনায় দেশের সাংস্কৃতিক কর্মীদের মধ্যে উদ্বেগ দেখা দিয়েছে। এ ধরনের বাধার কারণে শিল্পীদের কাজের স্বাধীনতা ও সার্বিক নিরাপত্তা নিয়ে নতুন করে সংশয় তৈরি হয়েছে।",
+      "fetched_at": "2026-08-24T00:40:45.160805+00:00"
+    },
+    {
+      "id": "a8dc825e3aa57aeff54ffa8c",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "We are so back! Bitcoin’s 23% rally on US debt policy: Hodler’s Digest",
+      "url": "https://cointelegraph.com/magazine/we-are-back-bitcoins-23-rally-on-us-debt-policy-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The US may face a debt crisis within three years according to Ray Dalio, and debt-related issues helped fuel a rally in Bitcoin that could mark the beginning of a new cycle.",
+      "fetched_at": "2026-08-24T00:40:49.632076+00:00"
+    },
+    {
+      "id": "ef5d637155cb71a60106111a",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "NetBSD and my life (2005)",
+      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "summary": "A 2005 archival post documenting a developer's personal and professional history with the NetBSD operating system recently gained traction online. The author examines the project’s technical architecture and documentation standards while detailing its long-term influence on his career. This retrospective provides insight into the enduring appeal of the BSD ecosystem and its specific design philosophy.",
+      "fetched_at": "2026-08-24T00:40:57.271906+00:00"
+    },
     {
       "id": "d2dfd970b61f5b45e225721a",
       "source": "MarketWatch Top Stories",
@@ -2666,42 +2702,6 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a mil...",
       "fetched_at": "2026-08-23T12:20:39.742312+00:00"
-    },
-    {
-      "id": "11377bc7e5d96f303d06b5e6",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-      "url": "https://www.bbc.com/news/articles/cvg92y1wzn8o",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cvg92y1wzn8o Comments URL: https://news.ycombinator.com/item?id=49407576 Points: 10 # Comments: 3",
-      "fetched_at": "2026-08-23T12:20:39.742333+00:00"
-    },
-    {
-      "id": "cad7235be3e89628c9367a06",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
-      "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-      "summary": "Article URL: https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/ Comments URL: https://news.ycombinator.com/item?id=49407507 Points: 33 # Comments: 3",
-      "fetched_at": "2026-08-23T12:20:39.742347+00:00"
-    },
-    {
-      "id": "0d37d3fe8efb9cc0c8aa2a4b",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
-      "url": "https://skylens.yantraai.app/",
-      "summary": "Article URL: https://skylens.yantraai.app/ Comments URL: https://news.ycombinator.com/item?id=49407309 Points: 14 # Comments: 0",
-      "fetched_at": "2026-08-23T12:20:39.742368+00:00"
-    },
-    {
-      "id": "e8853b02e78cc847f37c2379",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "NanoGPT Speedrun Frontier",
-      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "summary": "Article URL: https://www.primeintellect.ai/research/nanogpt-speedrun Comments URL: https://news.ycombinator.com/item?id=49404380 Points: 114 # Comments: 28",
-      "fetched_at": "2026-08-23T12:20:39.742400+00:00"
     }
   ]
 }
