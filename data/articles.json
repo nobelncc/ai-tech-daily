@@ -1,8 +1,116 @@
 {
   "site_name": "Global Pulse — Multi-Niche News",
   "site_description": "Automatically updated summaries across 10 topics, refreshed around the clock.",
-  "last_updated": "2026-08-25T22:17:12.947965+00:00",
+  "last_updated": "2026-08-25T23:18:23.404284+00:00",
   "articles": [
+    {
+      "id": "9ff2205c6f5cb4d23ed30ea6",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "Steam's Most Intriguing Slow-Burn Adventure Game Takes 400 Real-World Days to Finish",
+      "url": "https://www.polygon.com/the-longing-steam/",
+      "summary": "*The Longing* is an adventure game that requires 400 real-world days to complete, with its internal clock advancing continuously even when the player is offline. Throughout this extended duration, players can pass the time by furnishing an underground space and reading classic literature.",
+      "fetched_at": "2026-08-25T23:16:51.016543+00:00"
+    },
+    {
+      "id": "6ba7cb5245b1006c0837fe22",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "The 5 Most Unforgettable Moments of Critical Role Campaign 4 So Far",
+      "url": "https://www.polygon.com/critical-role-campaign-4-5-best-moments/",
+      "summary": "With the second story arc of *Critical Role*'s fourth campaign approaching, Polygon has compiled a list of the five most significant moments from the series so far. The retrospective provides viewers with a recap of major highlights ahead of the upcoming narrative continuation.",
+      "fetched_at": "2026-08-25T23:16:58.920551+00:00"
+    },
+    {
+      "id": "63a8d6b22d6c51afbd0ce9d8",
+      "source": "ScienceDaily Health",
+      "category": "Health",
+      "title": "A hidden “on switch” in human DNA has finally been decoded",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260823014943.htm",
+      "summary": "Scientists have used artificial intelligence to decode a primary genetic sequence responsible for activating roughly 60% of human genes. By analyzing approximately 500,000 DNA segments, the model pinpointed the specific molecular switch that initiates gene expression. The finding is expected to help researchers better predict the impact of harmful mutations and understand how the body regulates genetic activity.",
+      "fetched_at": "2026-08-25T23:17:06.437165+00:00"
+    },
+    {
+      "id": "f1be3d690b4aca8829a34efa",
+      "source": "ScienceDaily Health",
+      "category": "Health",
+      "title": "The dental crown of the future could be 3D-printed while you wait",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260822015217.htm",
+      "summary": "Researchers have developed a method to significantly speed up the 3D-printing process for zirconia dental crowns. By reducing production time from several days to less than half an hour, this technology may soon allow dental professionals to create and fit permanent restorations during a single visit.",
+      "fetched_at": "2026-08-25T23:17:21.172844+00:00"
+    },
+    {
+      "id": "f2fb12d2efc32422bda48cd4",
+      "source": "ScienceDaily Health",
+      "category": "Health",
+      "title": "Cannabis use linked to 37% higher stroke risk in massive study",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260822015215.htm",
+      "summary": "A massive analysis involving more than 100 million people has found strong links between recreational drug use and stroke, including among younger adults. Cocaine was associated with nearly double the risk of stroke, amp...",
+      "fetched_at": "2026-08-25T23:17:25.664977+00:00"
+    },
+    {
+      "id": "3f9f9ec33809248492b79dd6",
+      "source": "ScienceDaily Health",
+      "category": "Health",
+      "title": "Quitting alcohol may prime the brain for relapse",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260822015148.htm",
+      "summary": "Research indicates that abstaining from alcohol can lead to increased activity in brain areas linked to addiction and stress. A study involving mice found that this neurological signal manifests before drinking resumes, potentially offering a way to predict which individuals are most susceptible to relapse.",
+      "fetched_at": "2026-08-25T23:17:44.356972+00:00"
+    },
+    {
+      "id": "8eefb901abd265ea3722d6db",
+      "source": "ScienceDaily Health",
+      "category": "Health",
+      "title": "This common vitamin was linked to 13% better cognitive scores",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260822015138.htm",
+      "summary": "Older adults with mild cognitive impairment and sleep problems who took at least 5,000 IU of vitamin D daily scored more than 13% higher on a cognitive test than those taking none. The preliminary findings suggest vitami...",
+      "fetched_at": "2026-08-25T23:17:48.845859+00:00"
+    },
+    {
+      "id": "6d507580a55e794e37c1c969",
+      "source": "The Verge",
+      "category": "AI & Tech",
+      "title": "Garmin’s new Fenix 9 adds brighter screens and smoother map panning",
+      "url": "https://www.theverge.com/gadgets/984753/garmin-fenix-9-smartwatch-launch",
+      "summary": "Garmin has introduced the Fenix 9 series of rugged smartwatches, featuring OLED displays that offer double the brightness of previous models. The updated devices include hardware enhancements like increased memory for smoother map navigation and more responsive performance. The new lineup is priced starting at $999.99 for the smallest case size.",
+      "fetched_at": "2026-08-25T23:18:05.621001+00:00"
+    },
+    {
+      "id": "1b3c4f982342d2dcf41d1a09",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "Hugging Face hack exposes the open-weight AI cybersecurity paradox",
+      "url": "https://cointelegraph.com/magazine/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Hugging Face relies on open weight Chinese models to defend itself from rogue AI agents. But a lack of safety guardrails makes those models potentially dangerous too.",
+      "fetched_at": "2026-08-25T23:18:10.088377+00:00"
+    },
+    {
+      "id": "30199ac0e48a533cb677be7f",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "url": "https://github.com/swimmingbrain/texbrain",
+      "summary": "I'm a master's engineering student and a big fan of LaTeX, which I used for my thesis and research articles. I have used Overleaf and that was fine until I wanted to git sync, which unfortunately sits behind a paywall. S...",
+      "fetched_at": "2026-08-25T23:18:14.490698+00:00"
+    },
+    {
+      "id": "66205612cc351c46dc8aec9f",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "XCancel also down, at least for time being",
+      "url": "https://news.ycombinator.com/item?id=49440786",
+      "summary": "Message on xcancel website: \"On Monday 24th August at 8PM EST, we received at letter from X Corp. asking to cease and desist the service XCancel. The service XCancel is stopped until further notice. We are seeking legal ...",
+      "fetched_at": "2026-08-25T23:18:18.933732+00:00"
+    },
+    {
+      "id": "7abf6c3c89b0fbc278b3ec3e",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "A brief history of federal lift ticket regulation",
+      "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
+      "summary": "Article URL: https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket Comments URL: https://news.ycombinator.com/item?id=49439296 Points: 11 # Comments: 0",
+      "fetched_at": "2026-08-25T23:18:23.404130+00:00"
+    },
     {
       "id": "91e720743a5eff0b835cc4f0",
       "source": "TechCrunch",
@@ -2594,114 +2702,6 @@
       "url": "https://www.polygon.com/signalis-review-play-station-plus/",
       "summary": "The retro-inspired survival horror gem Signalis proves that 'less is more' in games, and it's free on PlayStation Plus this month.",
       "fetched_at": "2026-08-25T15:34:36.253125+00:00"
-    },
-    {
-      "id": "aa08eb6afcc6ac8af5b161b6",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card",
-      "url": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
-      "summary": "An ongoing shortage of compute could provide Meta with the opportunity to sell its capacity for a big premium.",
-      "fetched_at": "2026-08-25T15:34:40.661087+00:00"
-    },
-    {
-      "id": "52257a02894fc8abb5fbc29d",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Customer.io: GTM AI Engineer",
-      "url": "https://weworkremotely.com/remote-jobs/customer-io-gtm-ai-engineer",
-      "summary": "Headquarters: Americas Remote About Customer.io Over 9,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Custome...",
-      "fetched_at": "2026-08-25T15:34:45.058336+00:00"
-    },
-    {
-      "id": "0a2ed160fe97aa957f39ad6c",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "GTA 6's Incredible Beach Leak Just Proved Rockstar's Doubters Wrong In Under Two Minutes",
-      "url": "https://www.polygon.com/gta-6-beach-leak-reddit-cyberleek-memes-npc-density/",
-      "summary": "Some Grand Theft Auto 6 fans have spent years doubting that Rockstar could really ship a game with NPC density that matched the trailers",
-      "fetched_at": "2026-08-25T15:34:45.400241+00:00"
-    },
-    {
-      "id": "569e42917ae8ef5f542c8df7",
-      "source": "Reddit r/freelance",
-      "category": "Freelance",
-      "title": "Client sent an updated contract agreement - best time to ask for more money?",
-      "url": "https://www.reddit.com/r/freelance/comments/1vtl3or/client_sent_an_updated_contract_agreement_best/",
-      "summary": "I'm working for a much larger company, and they sent an updated contractor agreement. A lot of the updated language is to protect them (I get it), but nothing really benefits me. In fact, I have to do more to list them a...",
-      "fetched_at": "2026-08-25T15:34:45.400271+00:00"
-    },
-    {
-      "id": "fe75e7ec8f49ce085c50b181",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Brex: Compliance Manager, Marketing",
-      "url": "https://weworkremotely.com/remote-jobs/brex-compliance-manager-marketing",
-      "summary": "Headquarters: Remote Why join us Brex is the intelligent finance platform that enables companies to spend smarter and move faster in more than 200 markets. By combining global corporate cards and banking with intuitive s...",
-      "fetched_at": "2026-08-25T15:34:45.400287+00:00"
-    },
-    {
-      "id": "03726b90e98a21788ddbd9d2",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "Exclusive: Magic Designers Reveal Why Secret Lair's New Zeta Set Had to Come in Booster Packs",
-      "url": "https://www.polygon.com/mtg-magic-secret-lair-booster-packs-mschf-zeta-set/",
-      "summary": "Magic’s MSCHF collaboration transforms its original playtest cards into Secret Lair’s first randomized booster packs.",
-      "fetched_at": "2026-08-25T15:34:45.400295+00:00"
-    },
-    {
-      "id": "d9cfb1ce8b10a608c4573dc7",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "What Nvidia says on Wednesday to address concerns about its competitiveness could be key for the stock",
-      "url": "https://www.marketwatch.com/story/what-nvidia-says-on-wednesday-to-address-concerns-about-its-competitiveness-could-be-key-for-the-stock-1f9ef8fd?mod=mw_rss_topstories",
-      "summary": "The company’s commentary on its competitiveness, business agreements and memory will be key to the stock, a J.P. Morgan analyst says.",
-      "fetched_at": "2026-08-25T15:34:45.400299+00:00"
-    },
-    {
-      "id": "c196a1abd43cf77528d01a4f",
-      "source": "Reddit r/freelance",
-      "category": "Freelance",
-      "title": "Did anyone actually start out caring about users when they started their career?",
-      "url": "https://www.reddit.com/r/freelance/comments/1vrg5vb/did_anyone_actually_start_out_caring_about_users/",
-      "summary": "When I started money was the whole thing. I was scared honestly. My cousin told me to only think about billing. Are you getting billed or not. That was the advice and it was the right advice at the time. Went freelance a...",
-      "fetched_at": "2026-08-25T15:34:45.400302+00:00"
-    },
-    {
-      "id": "2e36f1fe935e9f9ffef7a0ee",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "Dick’s Sporting Goods’ stock is having its worst day ever, as sneakers aren’t selling without deeper discounts",
-      "url": "https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories",
-      "summary": "Shares of the sporting-goods retailer suffering a record selloff as profit and sales missed expectations and the full-year outlook was slashed.",
-      "fetched_at": "2026-08-25T15:34:45.400321+00:00"
-    },
-    {
-      "id": "46a67fd6a4b2225ba8eb97bb",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "Experimental compound helps burn fat without muscle loss",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260823014953.htm",
-      "summary": "A decades-old compound may point to a new way of treating obesity by making the body burn more energy rather than simply reducing appetite. In mice, TOFA increased energy use by as much as 18%, reduced body fat without s...",
-      "fetched_at": "2026-08-25T15:34:45.400344+00:00"
-    },
-    {
-      "id": "7cdbcd4a303bb0a3e2fd4a99",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "পুলিশের ১৭ ঊর্ধ্বতন কর্মকর্তাকে বদলি ও সংযুক্তি",
-      "url": "https://www.prothomalo.com/bangladesh/brkkqm1q5t",
-      "summary": "",
-      "fetched_at": "2026-08-25T15:34:45.400373+00:00"
-    },
-    {
-      "id": "d133b4a0196b2c3c0ff51164",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "Rockstar Officially Responds to GTA 6 Leaks: 'Employees Are Angry'",
-      "url": "https://www.polygon.com/gta-6-leaks-rockstar-response/",
-      "summary": "After numerous Grand Theft Auto 6 gameplay video leaks, Rockstar is addressing the matter internally while Take-Two sics lawyers on the hacker.",
-      "fetched_at": "2026-08-25T15:34:45.400376+00:00"
     }
   ]
 }
