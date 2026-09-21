@@ -1,8 +1,359 @@
 {
   "site_name": "Global Pulse — Multi-Niche News",
   "site_description": "Automatically updated summaries across 10 topics, refreshed around the clock.",
-  "last_updated": "2026-09-21T00:40:26.013630+00:00",
+  "last_updated": "2026-09-21T05:40:40.644125+00:00",
   "articles": [
+    {
+      "id": "ce78eec503a818b35a1a7271",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Bitcoin rises above $81,000, while NEAR jumps 23% on Zcash swap traffic",
+      "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-rises-above-usd81-000-while-near-jumps-23-on-zcash-swap-traffic",
+      "summary": "Bitcoin has crossed the $81,000 threshold in recent trading. Meanwhile, the NEAR token recorded a 23% surge, driven by an influx of swap activity involving Zcash.",
+      "fetched_at": "2026-09-21T05:39:22.767257+00:00"
+    },
+    {
+      "id": "57268093da56b3dae5caa615",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "J.J. Abrams' Near-Perfect \"Lost Meets X-Files\" Sci-Fi Series Is Officially Free on Streaming",
+      "url": "https://www.polygon.com/j-j-abrams-cult-sci-fi-series-streaming-free/",
+      "summary": "A science fiction television series created by J.J. Abrams is now available to stream for free. The show blends elements of hard science fiction and fantasy, drawing thematic comparisons to programs such as *Lost* and *The X-Files*.",
+      "fetched_at": "2026-09-21T05:39:33.741386+00:00"
+    },
+    {
+      "id": "cad0d77f5be907254e483ba3",
+      "source": "MarketWatch Top Stories",
+      "category": "Finance",
+      "title": "‘My total balance should be $20 million’: I invested $1.1 million in a crypto platform. Have I lost it all?",
+      "url": "https://www.marketwatch.com/story/my-total-balance-should-be-worth-20-million-i-invested-1-1-million-in-a-crypto-platform-have-i-lost-it-all-d22da562?mod=mw_rss_topstories",
+      "summary": "An investor who placed $1.1 million into a cryptocurrency platform fears the total loss of their funds, which purportedly grew to a value of $20 million. The individual indicates that the investment was made following a recommendation from a senior executive at a prominent New York financial institution.",
+      "fetched_at": "2026-09-21T05:39:46.844766+00:00"
+    },
+    {
+      "id": "9be1b825e2bd292f8d7f19ea",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Bitcoin’s price has cleared a key hurdle that has historically preceded major bull runs",
+      "url": "https://www.coindesk.com/markets/2026/09/21/bitcoin-s-price-has-cleared-a-key-hurdle-that-has-historically-preceded-major-bull-runs",
+      "summary": "Bitcoin recently surpassed a technical price threshold that has historically signaled the start of significant market rallies. This movement beyond a key resistance level suggests a potential shift in market momentum based on patterns observed in previous cycles.",
+      "fetched_at": "2026-09-21T05:39:55.096935+00:00"
+    },
+    {
+      "id": "db4123bf939dba5dddae532b",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "25 Years Later, the GameCube’s 5 Best Launch Games Are Still As Good as Ever",
+      "url": "https://www.polygon.com/gamecube-launch-games-ranked/",
+      "summary": "To commemorate the 25th anniversary of the Nintendo GameCube, a retrospective analysis examined the console's initial software offerings. The review highlights several launch titles that have maintained their quality and relevance decades after their original release.",
+      "fetched_at": "2026-09-21T05:40:01.588228+00:00"
+    },
+    {
+      "id": "a68071b9d16177d4efa43987",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "Who Killed Hal Jordan on Lanterns? Ranking the 5 Prime Suspects",
+      "url": "https://www.polygon.com/lanterns-episode-6-who-killed-hal-theories/",
+      "summary": "Who killed Hal Jordan on Lanterns? We rank the five prime suspects after episode 6, including John Stewart, Kerry Kane, Billy Macon, Maggie, and Noah.",
+      "fetched_at": "2026-09-21T05:40:05.934832+00:00"
+    },
+    {
+      "id": "3192db8aa3b67cbfa05b49cc",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "'Lanterns' Episode 6 Explained: Who Is Carol Ferris and What Is Her Relationship to Hal Jordan?",
+      "url": "https://www.polygon.com/lanterns-carol-ferris-explainer/",
+      "summary": "During the latest Lanterns episode, someone from Hal's past emerges in Rushville. So who exactly is Carol Ferris? The comics have an answer.",
+      "fetched_at": "2026-09-21T05:40:10.229080+00:00"
+    },
+    {
+      "id": "1b4f6972b22d6a68b661fcc3",
+      "source": "TechCrunch Startups",
+      "category": "Startups",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "fetched_at": "2026-09-21T05:40:14.543673+00:00"
+    },
+    {
+      "id": "2eac7ca8ce5d0d5f45bdaee6",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "The Beekeeper Meets Ghost Recon in Jim Caviezel's New Action-Thriller Movie",
+      "url": "https://www.polygon.com/ghost-soldier-jim-caviezel-action-movie/",
+      "summary": "Ghost Soldier is an upcoming PG-13 revenge movie starring Sound of Freedom's Jim Caviezel going full Statham.",
+      "fetched_at": "2026-09-21T05:40:18.837434+00:00"
+    },
+    {
+      "id": "dffe4e28c2e04d8fa8e0f391",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "'Lanterns' Just Officially Settled a Major Question About the New DCU’s Canon",
+      "url": "https://www.polygon.com/lanterns-episode-6-starro-suicide-squad/",
+      "summary": "Lanterns episode 6 confirms that Starro’s attack from The Suicide Squad happened in the new DCU, clarifying James Gunn’s “imperfect memory” canon.",
+      "fetched_at": "2026-09-21T05:40:23.142332+00:00"
+    },
+    {
+      "id": "6e731489b65285f7296bdbac",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "Call of Duty Warzone Officially Shutting Down Next Month on PS4, Xbox One",
+      "url": "https://www.polygon.com/call-of-duty-warzone-shutting-down-ps4-xbox-one/",
+      "summary": "Call of Duty: Warzone will be unplayable soon on PlayStation 4 and Xbox One, as Modern Warfare 4 is about to launch.",
+      "fetched_at": "2026-09-21T05:40:27.459980+00:00"
+    },
+    {
+      "id": "a158b322f7cd9d0d663b4f6f",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "সুনীল গঙ্গোপাধ্যায়ের ‘অন্য আয়না’ আমাদের যা দেখায়",
+      "url": "https://www.bondhushava.com/activities/fejn6nzigz",
+      "summary": "আলোচনার পরিধি বিস্তৃত হয় তাঁর উপন্যাস সাহিত্যের দিকে। ‘সেই সময়’, ‘প্রথম আলো’, ‘পূর্ব-পশ্চিম’, ‘অরণ্যের দিনরাত্রি’সহ তাঁর উল্লেখযোগ্য রচনায় ইতিহাস, সমাজ, প্রেম, রাজনীতি, মানুষের সম্পর্ক ও সময়ের পরিবর্তন কীভাবে উঠে এসেছে, ...",
+      "fetched_at": "2026-09-21T05:40:31.777488+00:00"
+    },
+    {
+      "id": "fef3183c673c2280c69d5384",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "বদলে যাওয়া সময়ে শিক্ষকের ভূমিকাও অনেক বদলে গেছে",
+      "url": "https://trust.prothomalo.com/activities/drug-abuse/aa5clqpmjn",
+      "summary": "",
+      "fetched_at": "2026-09-21T05:40:36.061367+00:00"
+    },
+    {
+      "id": "2f4a66a1be2b05aa537d6487",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "জ্বালানি তেলের মূল্যবৃদ্ধি: কে বহন করবে এই বোঝা",
+      "url": "https://www.prothomalo.com/business/analysis/y07vpgzl6s",
+      "summary": "জ্বালানি তেলের মূল্যবৃদ্ধির চাপ শুধু পরিবহন খাতে সীমিত থাকবে না; খাদ্য, কৃষি, শিল্প ও সেবার খরচও বাড়বে। নিম্ন আয়ের মানুষের ওপর এর প্রভাব বেশি পড়তে পারে।",
+      "fetched_at": "2026-09-21T05:40:40.334842+00:00"
+    },
+    {
+      "id": "e277f3c486cd0e0f18d9feee",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "‘দুই-চার টাকা বাড়াইলেও হইতো, তাই বলে লিটারে ২০ টাকা!’",
+      "url": "https://www.prothomalo.com/bangladesh/district/ojiokm8j4x",
+      "summary": "জ্বালানি তেলের দাম লিটারপ্রতি ২০ টাকা বাড়ানোর খবরে রংপুর ও যশোরের পেট্রলপাম্পে ভিড়, রাত ১২টার পর কমে যায় যানবাহনের চাপ।",
+      "fetched_at": "2026-09-21T05:40:40.643776+00:00"
+    },
+    {
+      "id": "9b5c66de6a2dd82f0f0a031d",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "সংবাদ সম্মেলনে ছবি প্রিন্ট করে নিয়ে এলেন মরিনিও, রেফারিং নিয়ে অসন্তোষ",
+      "url": "https://www.prothomalo.com/sports/football/uk5scsur6x",
+      "summary": "আতলেতিকো মাদ্রিদের কাছে রিয়ালের হারের পর রেফারিং নিয়ে অসন্তোষ জানিয়েছেন জোসে মরিনিও। সংবাদ সম্মেলনে তুলে ধরেছেন ‘প্রমাণ’ও।",
+      "fetched_at": "2026-09-21T05:40:40.643814+00:00"
+    },
+    {
+      "id": "3af43d8a828eb973ee8b75bd",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "বুনো ভেষজ উদ্ভিদ আগমুখী",
+      "url": "https://www.prothomalo.com/bangladesh/environment/cejs79p7ub",
+      "summary": "আগমুখী লতার কাণ্ড খুবই সরু, কোমল ও নমনীয়। কাণ্ডের গা রুক্ষ এবং খসখসে ছোট ছোট কাঁটার মতো সূক্ষ্ম রোমে ঢাকা থাকে।",
+      "fetched_at": "2026-09-21T05:40:40.643839+00:00"
+    },
+    {
+      "id": "f5d6919e63c69ac421334fe8",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "তেজস্ক্রিয় আইসোটোপ থেকে বিকিরণ",
+      "url": "https://www.bigganchinta.com/physics/zspymi0zwh",
+      "summary": "",
+      "fetched_at": "2026-09-21T05:40:40.643862+00:00"
+    },
+    {
+      "id": "95dcea0bbbd5593a788ed899",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "নতুন প্রজাতির বিড়ালের সন্ধান",
+      "url": "https://www.prothomalo.com/technology/science/xjgtpvm2ly",
+      "summary": "স্থানীয়ভাবে তিলকায়ো নামে পরিচিত বিড়ালটি মূলত দক্ষিণ আমেরিকার টাইগার ক্যাট পরিবারের অন্তর্ভুক্ত। বিড়ালটির দৈর্ঘ্য প্রায় ১৮ ইঞ্চি এবং ওজন মাত্র ৩ পাউন্ড।",
+      "fetched_at": "2026-09-21T05:40:40.643881+00:00"
+    },
+    {
+      "id": "a8914763a3953941932bbdc9",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "AX – Google’s Open Agentic Orchestrator",
+      "url": "https://agentexecutor.io",
+      "summary": "Article URL: https://agentexecutor.io Comments URL: https://news.ycombinator.com/item?id=49780797 Points: 358 # Comments: 133",
+      "fetched_at": "2026-09-21T05:40:40.643890+00:00"
+    },
+    {
+      "id": "0dc52134c2c2290e5b6a374c",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "Bitcoin reclaims 50-week moving average: Is the bear market over?",
+      "url": "https://cointelegraph.com/markets/bitcoin-reclaims-50-week-moving-average-is-the-bear-market-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Bitcoin’s move above its 50-week moving average has historically marked the end of bear markets, but analysts say one weekly close isn’t enough to confirm a new bull run.",
+      "fetched_at": "2026-09-21T05:40:40.643895+00:00"
+    },
+    {
+      "id": "4f29825e1a9bccacb4159338",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "কুংফু থেকে আগুন নেভানো, সবই করছে রোবট",
+      "url": "https://www.prothomalo.com/video/international/wonl84pyvb",
+      "summary": "চীনের ঝেজিয়াং প্রদেশের হাংঝুতে ২০ সেপ্টেম্বর ৩০০টির বেশি রোবটের প্যারেড অনুষ্ঠিত হয়েছে",
+      "fetched_at": "2026-09-21T05:40:40.643901+00:00"
+    },
+    {
+      "id": "7e166fabc846bec261f3f01c",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "Hana Bank taps Euroclear blockchain for $100M bond issuance: Report",
+      "url": "https://cointelegraph.com/news/hana-bank-euroclear-blockchain-100m-bond?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The five-year digital bond reportedly shortened settlement from three to five business days to the same day using Euroclear’s blockchain infrastructure.",
+      "fetched_at": "2026-09-21T05:40:40.643911+00:00"
+    },
+    {
+      "id": "3563b2e0fd6cf896092e708c",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "ভবদহ অঞ্চলে লক্ষাধিক মানুষ পানিবন্দী",
+      "url": "https://www.prothomalo.com/bangladesh/district/rbsshm73jc",
+      "summary": "জুলাই মাসের অব্যাহত বৃষ্টিতে ভবদহ অঞ্চলের অভয়নগর, মনিরামপুর ও কেশবপুর উপজেলার ১০০টি গ্রাম প্লাবিত হয়।",
+      "fetched_at": "2026-09-21T05:40:40.643915+00:00"
+    },
+    {
+      "id": "a67f49ab7645950fd2690739",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
+      "url": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "North Korean cyber group WaterPlum targeted developers with fake jobs at crypto, AI and NFT companies, infecting at least 30,000 devices across more than 100 countries.",
+      "fetched_at": "2026-09-21T05:40:40.643925+00:00"
+    },
+    {
+      "id": "986641f58346987b0ad697f5",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "গাড়ির লাইসেন্স প্লেটের নম্বরে জিতলেন লাখ ডলারের লটারি",
+      "url": "https://www.prothomalo.com/world/usa/byzmcqzahc",
+      "summary": "ড্রয়ের রাতে দেখা যায়, তাঁর বেছে নেওয়া সংখ্যাগুলো হুবহু মিলে গেছে। দুটি টিকিটের প্রতিটিতে ৫০ হাজার ডলার করে মোট ১ লাখ ডলারের গ্র্যান্ড প্রাইজ জিতে নেন তিনি।",
+      "fetched_at": "2026-09-21T05:40:40.643930+00:00"
+    },
+    {
+      "id": "40ae9194fc6208185cc7414c",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "লংমার্চের মধ্যেই বিদেশ সফরে দলের ৩৪ এমপি, জামায়াত বলছে পরিকল্পনার ধারাবাহিকতা",
+      "url": "https://www.prothomalo.com/politics/gr5kq14lh4",
+      "summary": "১৩ ও ১৪ সেপ্টেম্বর মালয়েশিয়ায় পৌঁছানোর পর তাঁরা সিঙ্গাপুর ও ফিলিপাইন সফর করছেন। ২৪ সেপ্টেম্বর সৌদি আরবে গিয়ে ওমরাহ পালন শেষে ৩০ সেপ্টেম্বর তাঁদের দেশে ফেরার কথা।",
+      "fetched_at": "2026-09-21T05:40:40.643943+00:00"
+    },
+    {
+      "id": "fed511f03d1ee97e60c5a6c3",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "দুই ভবনের আয়তন কাছাকাছি, ক্ষতিপূরণে দ্বিগুণ ফারাক",
+      "url": "https://www.prothomalo.com/bangladesh/district/i6vhjow4wj",
+      "summary": "একই ধরনের দুটি ভবনের একটির মূল্য ১৮ কোটি টাকা, আরেকটির ৯ কোটি টাকা—এ রকম কেন হবে? দুটি ভবনের মূল্যায়নে এমন পার্থক্য কোনোভাবেই মানতে পারছি না।",
+      "fetched_at": "2026-09-21T05:40:40.643956+00:00"
+    },
+    {
+      "id": "c85c8ea9bf92fea457fc2fa9",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "অপ্রতিম হত্যার নেপথ্যে কী",
+      "url": "https://www.prothomalo.com/bangladesh/crime/aprtim-htyaar-nepthye-kii",
+      "summary": "অপ্রতিম হত্যার নেপথ্যে কী",
+      "fetched_at": "2026-09-21T05:40:40.643969+00:00"
+    },
+    {
+      "id": "cf0393beef31b895743d2fd3",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "জাতীয় বিশ্ববিদ্যালয়ে ১৫টি বিষয়ে পোস্টগ্র্যাজুয়েট ডিপ্লোমা, আবেদনের সময় বৃদ্ধি",
+      "url": "https://www.prothomalo.com/education/admission/9sosjkwbro",
+      "summary": "জাতীয় বিশ্ববিদ্যালয় ২০২৬-২০২৭ শিক্ষাবর্ষে ১৫টি স্কিল-বেজড পোস্টগ্র্যাজুয়েট ডিপ্লোমা (পিজিডি) প্রোগ্রামে আবেদনের সময় বৃদ্ধি করা হয়েছে।",
+      "fetched_at": "2026-09-21T05:40:40.643983+00:00"
+    },
+    {
+      "id": "1156b3e923d745837d3896d0",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "summary": "Article URL: https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666 Comments URL: https://news.ycombinator.com/item?id=49783062 Points: 23 # Comments: 4",
+      "fetched_at": "2026-09-21T05:40:40.644002+00:00"
+    },
+    {
+      "id": "b368bd7863945ec5f3b55586",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Winning the Visa Lottery",
+      "url": "https://www.aeaweb.org/research/immigration-restrictions-firms-workers",
+      "summary": "Article URL: https://www.aeaweb.org/research/immigration-restrictions-firms-workers Comments URL: https://news.ycombinator.com/item?id=49782775 Points: 13 # Comments: 2",
+      "fetched_at": "2026-09-21T05:40:40.644012+00:00"
+    },
+    {
+      "id": "3ca8ebb1dd3593574d12c560",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "The LLMentalist Effect (2023)",
+      "url": "https://softwarecrisis.dev/letters/llmentalist/",
+      "summary": "Article URL: https://softwarecrisis.dev/letters/llmentalist/ Comments URL: https://news.ycombinator.com/item?id=49775104 Points: 170 # Comments: 253",
+      "fetched_at": "2026-09-21T05:40:40.644018+00:00"
+    },
+    {
+      "id": "9f03982ab7cf0386191aaa92",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Deterministic Core, Non-Deterministic Shell",
+      "url": "https://outdata.net/blog/260803",
+      "summary": "Article URL: https://outdata.net/blog/260803 Comments URL: https://news.ycombinator.com/item?id=49782220 Points: 21 # Comments: 2",
+      "fetched_at": "2026-09-21T05:40:40.644025+00:00"
+    },
+    {
+      "id": "107912279b95f5a5c6c79c81",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Why back propagation goes backward",
+      "url": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
+      "summary": "Article URL: https://gregorygundersen.com/blog/2018/04/15/backprop/ Comments URL: https://news.ycombinator.com/item?id=49781693 Points: 22 # Comments: 4",
+      "fetched_at": "2026-09-21T05:40:40.644034+00:00"
+    },
+    {
+      "id": "49fd107229d64ecc30363e69",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "summary": "Article URL: https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors Comments URL: https://news.ycombinator.com/item?id=49772961 Points: 326 # Comments: 243",
+      "fetched_at": "2026-09-21T05:40:40.644039+00:00"
+    },
+    {
+      "id": "c6a76d33ba0a2defd637e2d9",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "RSA-896",
+      "url": "https://saweis.net/posts/rsa-896.html",
+      "summary": "Article URL: https://saweis.net/posts/rsa-896.html Comments URL: https://news.ycombinator.com/item?id=49771966 Points: 213 # Comments: 86",
+      "fetched_at": "2026-09-21T05:40:40.644049+00:00"
+    },
+    {
+      "id": "d1773998ccb5e2cdaf46134f",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Why MCP Was Always a Bad Idea?",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+      "summary": "Article URL: https://maharship.com/blog/why-mcp-was-always-a-bad-idea/ Comments URL: https://news.ycombinator.com/item?id=49779329 Points: 88 # Comments: 90",
+      "fetched_at": "2026-09-21T05:40:40.644061+00:00"
+    },
+    {
+      "id": "1e79cbfcd99b2c3c530c2f6e",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Software sandboxing: The basics (2025)",
+      "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+      "summary": "Article URL: https://blog.emilua.org/2025/01/12/software-sandboxing-basics/ Comments URL: https://news.ycombinator.com/item?id=49778670 Points: 81 # Comments: 13",
+      "fetched_at": "2026-09-21T05:40:40.644068+00:00"
+    },
     {
       "id": "6d58d1634cfaaa2e140abb4b",
       "source": "The Daily Star",
@@ -2351,357 +2702,6 @@
       "url": "https://www.polygon.com/21-jump-street-movie-sequel-spider-verse-creators/",
       "summary": "A new installment in the action-comedy series, titled *24 Jump Street*, is officially in development. The project arrives more than a decade after the release of *22 Jump Street*, which starred Jonah Hill and Channing Tatum. Producers Phil Lord and Christopher Miller are set to return for the upcoming sequel.",
       "fetched_at": "2026-09-20T08:03:17.229520+00:00"
-    },
-    {
-      "id": "e6213d8d5db21ca4a57e57f7",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "A deadly ebola relative is surging after years in the shadows",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260919031042.htm",
-      "summary": "An increase in Bundibugyo virus infections is drawing attention to the risks associated with rare Ebola relatives that lack established medical interventions. Health specialists caution that prioritizing only familiar pathogens leaves the world ill-prepared for the sudden resurgence of obscure but lethal diseases. This development emphasizes the necessity of expanding global health strategies to address a wider range of emerging viral threats.",
-      "fetched_at": "2026-09-20T08:03:30.411569+00:00"
-    },
-    {
-      "id": "cdfc7fa33a8ee0824fe31066",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Legion: Enterprise Account Executive, West",
-      "url": "https://weworkremotely.com/remote-jobs/legion-enterprise-account-executive-west",
-      "summary": "Legion is seeking a remote Enterprise Account Executive based in the Western United States to focus on driving regional revenue growth. The role involves identifying new business opportunities and securing large-scale contracts to meet consistent quarterly and annual financial targets. Candidates are expected to demonstrate strong professional expertise in managing complex enterprise sales cycles.",
-      "fetched_at": "2026-09-20T08:03:39.698430+00:00"
-    },
-    {
-      "id": "dd358fea02fe5ea13e1aa721",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "Persona is Coming to TV with a New Netflix Series",
-      "url": "https://www.polygon.com/persona-streaming-tv-series-netflix/",
-      "summary": "Atlus role-playing game series Persona is getting a live-action streaming series on Netflix thanks to Sonic the Hedgehog and Stranger Things producers",
-      "fetched_at": "2026-09-20T08:04:01.652103+00:00"
-    },
-    {
-      "id": "06017d6becca7aaeb4ff4f6c",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "Scientists solve a 50-year mystery and discover a new human blood group",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260918024828.htm",
-      "summary": "Researchers have uncovered the genetic foundation of the rare AnWj antigen, resolving a decades-old mystery and officially establishing a new system known as the MAL blood group. This finding will help healthcare providers more reliably identify compatible donors for rare patients, significantly reducing the risk of severe complications during blood transfusions.",
-      "fetched_at": "2026-09-20T08:04:08.986858+00:00"
-    },
-    {
-      "id": "041984da5d5d9bfe9e101c8d",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Datadog: Developer Advocate - Service Management EMEA",
-      "url": "https://weworkremotely.com/remote-jobs/datadog-developer-advocate-service-management-emea",
-      "summary": "Headquarters: France, Remote; Portugal, Remote; Spain, Remote; The Netherlands, Remote We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on serv...",
-      "fetched_at": "2026-09-20T08:04:35.867272+00:00"
-    },
-    {
-      "id": "c2b95be386bcd5030c02c9c0",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "The Legend of Zelda Movie cast: all confirmed roles and actors",
-      "url": "https://www.polygon.com/the-legend-of-zelda-movie-cast-confirmed/",
-      "summary": "Sony's upcoming film adaptation of The Legend of Zelda has begun announcing the actors selected for its primary roles. This list identifies the performers officially cast to portray iconic characters such as Link, Zelda, and Ganondorf.",
-      "fetched_at": "2026-09-20T08:04:46.299104+00:00"
-    },
-    {
-      "id": "6715e2a100e16c05465e13c2",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "Hidden gut defect that may explain why IBD keeps coming back",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260918024814.htm",
-      "summary": "Researchers have identified a persistent molecular vulnerability in the intestines that remains active even when inflammatory bowel disease (IBD) appears to be in remission. This defect keeps gut cells predisposed to cell death, potentially explaining why the condition often relapses after periods of stability.",
-      "fetched_at": "2026-09-20T08:04:57.884372+00:00"
-    },
-    {
-      "id": "049e284e04769821dbeb8a23",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Legion: Enterprise Account Executive, East",
-      "url": "https://weworkremotely.com/remote-jobs/legion-enterprise-account-executive-east",
-      "summary": "Legion is seeking a remote Enterprise Account Executive to manage a designated sales territory in the Eastern United States and North America. The role focuses on identifying and securing new business from large-scale enterprise clients through strategic prospecting and market development. Key responsibilities include managing the full sales cycle and implementing go-to-market strategies to expand the company’s market share.",
-      "fetched_at": "2026-09-20T08:05:06.837832+00:00"
-    },
-    {
-      "id": "d6d12740652fb1276b49552a",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "16 Years Later, the Best Kingdom Hearts Game Is More Essential Than Ever",
-      "url": "https://www.polygon.com/kingdom-hearts-birth-by-sleep-best-game/",
-      "summary": "Ahead of the release of *Kingdom Hearts 4*, *Kingdom Hearts Birth by Sleep* provides essential context for the franchise's overarching storyline. The prequel is particularly relevant for understanding the complex connections between key characters, including Sora, Ventus, Roxas, and Vanitas.",
-      "fetched_at": "2026-09-20T08:05:13.240215+00:00"
-    },
-    {
-      "id": "5cd50d00b42637d189250479",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Sezzle: Accountant",
-      "url": "https://weworkremotely.com/remote-jobs/sezzle-accountant",
-      "summary": "Fintech company Sezzle is seeking a remote accountant based in Argentina to join its expanding team. The organization focuses on providing interest-free installment plans designed to improve consumer purchasing power and increase merchant sales.",
-      "fetched_at": "2026-09-20T08:05:22.487500+00:00"
-    },
-    {
-      "id": "5cf392496da0369743fa800e",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "5 Near-Perfect Psychological Thriller Shows That are Streaming For Free",
-      "url": "https://www.polygon.com/best-psychological-thriller-shows-free-streaming/",
-      "summary": "Polygon has identified five critically acclaimed psychological thriller series that are currently available to stream at no cost. The list provides viewers with high-quality options within the genre that do not require a paid subscription.",
-      "fetched_at": "2026-09-20T08:05:30.781233+00:00"
-    },
-    {
-      "id": "08a4aeadc56fb067792c13e6",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "David Hasselhoff's Iconic 90-Episode Sci-Fi Action Series Is Officially Free on Streaming",
-      "url": "https://www.polygon.com/knight-rider-streaming-free/",
-      "summary": "The 1980s sci-fi action series *Knight Rider*, starring David Hasselhoff, has become available to watch for free on streaming platforms. The 90-episode production follows the adventures of crime fighter Michael Knight and his artificially intelligent car, KITT. Viewers can now access the full run of the show without a paid subscription.",
-      "fetched_at": "2026-09-20T08:05:38.345008+00:00"
-    },
-    {
-      "id": "661997d42668352ee476b79d",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "43 Years Ago, Peanuts' Best Schroeder Joke Broke the Comic Strip's Biggest Rule",
-      "url": "https://www.polygon.com/best-schroeder-bits-peanuts/",
-      "summary": "A retrospective from Polygon examines a 43-year-old *Peanuts* comic strip that broke one of the series' fundamental creative rules. The strip centered on Schroeder, typically depicted as an ardent Beethoven enthusiast, by featuring an unconventional joke involving Johann Sebastian Bach.",
-      "fetched_at": "2026-09-20T08:05:42.553790+00:00"
-    },
-    {
-      "id": "438c8e66b567b03045605632",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "The 5 Best 'Twilight Zone' Episodes of All Time, Ranked",
-      "url": "https://www.polygon.com/5-best-twilight-zone-episodes/",
-      "summary": "While The Twilight Zone is free on Tubi, its time to stream the best epsidoes, including “Nightmare at 20,000 Feet,” \"To Serve Man\" and more",
-      "fetched_at": "2026-09-20T08:05:42.553842+00:00"
-    },
-    {
-      "id": "f4650ff90c882cc3403b18f7",
-      "source": "Grist",
-      "category": "Climate",
-      "title": "Yes, this summer really was as hot as you think it was",
-      "url": "https://grist.org/extreme-heat/yes-this-summer-really-was-as-hot-as-you-think-it-was/",
-      "summary": "",
-      "fetched_at": "2026-09-20T08:05:42.553860+00:00"
-    },
-    {
-      "id": "e0a715662a03842efb15726c",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "বাংলাদেশকে ১১৪ রানে হারিয়ে ফাইনালে ভারত",
-      "url": "https://www.prothomalo.com/sports/cricket/e2wq1s9rtf",
-      "summary": "এশিয়ান গেমস ক্রিকেটের সেমিফাইনালে ভারত নারী ক্রিকেট দলের মুখোমুখি বাংলাদেশ নারী ক্রিকেট দল। খেলার সব আপডেট জানতে চোখ রাখুন এখানে।",
-      "fetched_at": "2026-09-20T08:05:42.553863+00:00"
-    },
-    {
-      "id": "292dc01360e586f64d994b39",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "21 Years Later, The Best Sci-fi Western of The Century Is Officially Free to Stream on YouTube",
-      "url": "https://www.polygon.com/joss-whedon-serenity-free-to-stream-youtube/",
-      "summary": "Whedon directed his first film in 2005, after a failed TV show. It's now free to stream on YouTube.",
-      "fetched_at": "2026-09-20T08:05:42.553866+00:00"
-    },
-    {
-      "id": "3b02591a0ffe1023a9092144",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "রূপায়ণ সিটি ঘুরে গেল আন্তর্জাতিক প্রতিনিধিদল",
-      "url": "https://www.prothomalo.com/business/corporate/8l5zpoyhb6",
-      "summary": "আন্তর্জাতিক রিয়েল এস্টেট বা আবাসন ও অবকাঠামো খাতের একটি উচ্চপর্যায়ের প্রতিনিধিদল দেশের প্রিমিয়াম মেগা গেটেড কমিউনিটি ‘রূপায়ণ সিটি উত্তরা’ পরিদর্শন করেছে।",
-      "fetched_at": "2026-09-20T08:05:42.553883+00:00"
-    },
-    {
-      "id": "aa93e69ddb84e281db35d34b",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "48 Years Later, Anime’s Most Beautiful Sci-Fi Space Epic Is Officially Making a Comeback",
-      "url": "https://www.polygon.com/galaxy-express-999-new-movie/",
-      "summary": "With the news of a new Galaxy Express 999 featured film in development, there's no better time to revisit the space opera masterpiece.",
-      "fetched_at": "2026-09-20T08:05:42.553887+00:00"
-    },
-    {
-      "id": "50703e27153dc184fb42e47b",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "ডিএমপির তত্ত্বাবধানে ফুলবাড়িয়া-যাত্রাবাড়ীতে নিরাময়ের স্বাস্থ্যসেবা",
-      "url": "https://www.haal.fashion/arrangement/haal-khobor/kuesgk55tk",
-      "summary": "ঢাকার সড়কে কর্মরত পরিবহনকর্মীদের স্বাস্থ্যসেবা নিশ্চিত করতে ডিএমপি ট্রাফিক বিভাগের তত্ত্বাবধানে ফুলবাড়িয়া ও যাত্রাবাড়ীতে বিনামূল্যে স্বাস্থ্যসেবা দিয়েছে নিরাময় ডিজিটাল সার্ভিসেস।",
-      "fetched_at": "2026-09-20T08:05:42.553902+00:00"
-    },
-    {
-      "id": "375092e901366afb52f06b19",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "আইইএলটিএসে ৯-এ ৯ পেয়েছেন রাইসা, কীভাবে",
-      "url": "https://www.prothomalo.com/lifestyle/aaiielttiese-9-e-9-peyyechen-raaisaa-kiibhaabe",
-      "summary": "আইইএলটিএসে ৯-এ ৯ পেয়েছেন রাইসা, কীভাবে",
-      "fetched_at": "2026-09-20T08:05:42.553915+00:00"
-    },
-    {
-      "id": "3b8d84e997a685d5a45b2e8f",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "মুক্তিযুদ্ধের গল্প থেকে মুড়ির আড্ডায়",
-      "url": "https://www.bondhushava.com/activities/baj4gg4bvl",
-      "summary": "আলোচনায় অংশ নেওয়া বন্ধুরা উপন্যাসটির বিভিন্ন দিক নিজেদের মতো করে তুলে ধরেন। বিশেষ করে মুক্তিযুদ্ধের সময়কার বাস্তবতা, একজন মায়ের সন্তানের প্রতি ভালোবাসা এবং দেশের জন্য আত্মত্যাগের বিষয়গুলো গুরুত্ব পায়।",
-      "fetched_at": "2026-09-20T08:05:42.553927+00:00"
-    },
-    {
-      "id": "4208324117b7c4b67c7514fb",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "টেস্টে এক নম্বর, টি–টুয়েন্টিতে শীর্ষ দশে—দুই দুনিয়ার এক ব্রুক",
-      "url": "https://www.prothomalo.com/sports/cricket/xjon1g44j0",
-      "summary": "একই সময়ে টেস্ট ও টি-টুয়েন্টি দুই র‍্যাঙ্কিংয়ের শীর্ষ দশে থাকা নজিরবিহীন কিছু নয়। তবে বিশেষত্বটা এখানে শুধু র‍্যাঙ্কিংয়ে নয়, বরং দুই ফরম্যাটে ধারাবাহিক পারফরম্যান্সেও।",
-      "fetched_at": "2026-09-20T08:05:42.553942+00:00"
-    },
-    {
-      "id": "5a4e559627d840b6184296d6",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "টমেটো ছাড়া যেভাবে প্রথম কেচাপ তৈরি হয়েছিল",
-      "url": "https://www.kishoralo.com/feature/frlb533cff",
-      "summary": "১৮ শতকে কেচাপের ছিল অসংখ্য রূপ। তখন ঝিনুক, সামুদ্রিক শামুক, মাশরুম, আখরোট, সেলারি, লেবু, পিচ, এমনকি এলডারবেরি ফল দিয়েও কেচাপ বানানো হতো।",
-      "fetched_at": "2026-09-20T08:05:42.553956+00:00"
-    },
-    {
-      "id": "54e12602c7890884b446477e",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "title": "Anthropic tabs Accenture as embedded evaluator to help with AI slowdown proposal",
-      "url": "https://cointelegraph.com/news/anthropic-tabs-accenture-as-embedded-evaluator-to-help-with-ai-slowdown-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "The partnership is non-exclusive, and Anthropic expects to announce other evaluators in forthcoming weeks with which it will also work.",
-      "fetched_at": "2026-09-20T08:05:42.553966+00:00"
-    },
-    {
-      "id": "9d457b702ee654d22ba4f7d0",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "বাংলাদেশ পল্লী উন্নয়ন বোর্ডে ২১ পদে চাকরির সুযোগ",
-      "url": "https://www.prothomalo.com/chakri/employment/hp6tc2etkq",
-      "summary": "বাংলাদেশ পল্লী উন্নয়ন বোর্ডের যুগ্ম পরিচালক কার্যালয়, বরিশাল বিভাগে ২১ পদে নিয়োগ বিজ্ঞপ্তি প্রকাশিত হয়েছে।",
-      "fetched_at": "2026-09-20T08:05:42.553970+00:00"
-    },
-    {
-      "id": "5f9de3bfe99150204a4c9402",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "দেশীদশের শারদীয় আয়োজন",
-      "url": "https://www.haal.fashion/arrangement/haal-khobor/jbj2hgb8mo",
-      "summary": "প্রকৃতিতেই এখন উৎসবের আগমনী সুর। সামনে শারদীয় দুর্গাপূজা। পূজার দিনগুলোতে নতুন পোশাকে সাজতে ইতিমধ্যে শুরু হয়ে গেছে প্রস্তুতি। উৎসবের এই আনন্দকে আরও রঙিন করতে বিশেষ শারদ সংগ্রহ নিয়ে হাজির হয়েছে দেশীয় ফ্যাশন ব্র্যান্ডগুলোর...",
-      "fetched_at": "2026-09-20T08:05:42.553979+00:00"
-    },
-    {
-      "id": "531f742baede95fe1be56b92",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "title": "Kalshi joins Coinbase with own filing for US stock perpetual futures",
-      "url": "https://cointelegraph.com/news/kalshi-joins-coinbase-with-filing-for-us-stock-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Kalshi’s proposal would bring perpetual futures tied to individual stocks to US traders, as Coinbase and Bitnomial pursue similar products.",
-      "fetched_at": "2026-09-20T08:05:42.553984+00:00"
-    },
-    {
-      "id": "4b01c28ea6c6010fe47e1648",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "রাতে শাহবাগ–হাজারীবাগ–মৌচাকে ককটেল বিস্ফোরণ",
-      "url": "https://www.prothomalo.com/bangladesh/capital/3k4gkij7ll",
-      "summary": "ঢাকা মহানগর পুলিশের ( ডিএমপি) রমনা বিভাগের উপকমিশনার শেখ জাহিদুল ইসলাম প্রথম আলোকে বলেন, পুলিশ ঘটনাগুলো তদন্ত করছে। জড়িত ব্যক্তিদের গ্রেপ্তার করার চেষ্টা চালাচ্ছে।",
-      "fetched_at": "2026-09-20T08:05:42.553987+00:00"
-    },
-    {
-      "id": "341b3cabc767b48bbea5ea79",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "সরকারি চাকরিতে সর্বনিম্ন বেতন ৩৩ হাজার টাকা, সর্বোচ্চ কত",
-      "url": "https://www.prothomalo.com/bangladesh/p68m7xcen1",
-      "summary": "নতুন বেতনকাঠামোয় এক নম্বর গ্রেডে মূল বেতন ১ লাখ ৫৬ হাজার টাকা। এই গ্রেডে একজন কর্মকর্তা সোয়া দুই লাখ টাকার মতো বেতন পাবেন।",
-      "fetched_at": "2026-09-20T08:05:42.553994+00:00"
-    },
-    {
-      "id": "e61dfc91bf9ccfc7f5e87f29",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "বসন্তে রঙিন মেলবোর্ন",
-      "url": "https://www.prothomalo.com/photo/international/qdfhtb0ec1",
-      "summary": "বসন্ত মানেই যেন রঙের সমাহার। চারপাশে ফুটে থাকে হাজারো রঙিন ফুল। তাতে ভ্রমরের আনাগোনা।",
-      "fetched_at": "2026-09-20T08:05:42.554001+00:00"
-    },
-    {
-      "id": "4de120a3f583df1c598f1a92",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "title": "Hong Kong jails ex-banker over $1.6B false credit, cryptocurrency bribes: Report",
-      "url": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Former banking official gets four years in prison over false letters of credit and accepting $470,000 in cryptocurrency bribes.",
-      "fetched_at": "2026-09-20T08:05:42.554007+00:00"
-    },
-    {
-      "id": "8c5d37b73864256faba00d1e",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "খুলনায় বিশ্ববিদ্যালয়ের শিক্ষার্থীকে পিটিয়ে হত্যা: চার ছাত্রসহ ২৫ জনের বিরুদ্ধে মামলা",
-      "url": "https://www.prothomalo.com/bangladesh/district/kp887sryi3",
-      "summary": "চুরির অভিযোগ তুলে খুলনায় বিশ্ববিদ্যালয় ছাত্র মো. আজমুল হোসেনকে পিটিয়ে হত্যার ঘটনায় মামলা হয়েছে। গতকাল শনিবার রাতে নিহত আজমুলের বাবা মো. কুতুব উদ্দিন খুলনার হরিণটানা থানায় হত্যা মামলাটি করেন।",
-      "fetched_at": "2026-09-20T08:05:42.554010+00:00"
-    },
-    {
-      "id": "f5b72fc8978f3104effdaae9",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "যে ভ্রমণ শেষ হয় না ফেরার পর: জাফলং থেকে মেঘের দেশে",
-      "url": "https://nagorik.prothomalo.com/travel/jrmg17a2zo",
-      "summary": "জাফলং থেকে মেঘালয়ের ভ্রমণে প্রাপ্ত অভিজ্ঞতা ও পরিকল্পনার বিবরণ তুলে ধরা হয়েছে এই নিবন্ধে।",
-      "fetched_at": "2026-09-20T08:05:42.554018+00:00"
-    },
-    {
-      "id": "4df28e92e6fe218ccb961bf6",
-      "source": "Hacker News (Best)",
-      "category": "Startups",
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "summary": "Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 380 # Comments: 173",
-      "fetched_at": "2026-09-20T08:05:42.554022+00:00"
-    },
-    {
-      "id": "1366f1fe8a1e3f97db1d88b4",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "আর কাউকে যেন আমার মতো সন্তান হারাতে না হয়, জানাজায় বাবা",
-      "url": "https://www.prothomalo.com/bangladesh/district/8khskh71rb",
-      "summary": "‘আমার ছেলের হত্যার সুষ্ঠু ও ন্যায়বিচার চাই। বর্তমান বিচার ব্যবস্থার প্রতি আমার পূর্ণ আস্থা আছে।’",
-      "fetched_at": "2026-09-20T08:05:42.554027+00:00"
-    },
-    {
-      "id": "d1c63539bfac08922e6efc35",
-      "source": "Hacker News (Best)",
-      "category": "Startups",
-      "title": "If math is more than proof, we need to better celebrate the rest of it",
-      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/ Comments URL: https://news.ycombinator.com/item?id=49763928 Points: 343 # Comments: 260",
-      "fetched_at": "2026-09-20T08:05:42.554031+00:00"
-    },
-    {
-      "id": "c3f90e9ba99c429ed4050f04",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-      "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-      "summary": "Article URL: https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282 Comments URL: https://news.ycombinator.com/item?id=49773439 Points: 5 # Comments: 0",
-      "fetched_at": "2026-09-20T08:05:42.554040+00:00"
-    },
-    {
-      "id": "e7267e764eb41e9e66bb4ce0",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Dropbox's Jan 1st 2027 terms of service",
-      "url": "https://www.dropbox.com/terms2026",
-      "summary": "Article URL: https://www.dropbox.com/terms2026 Comments URL: https://news.ycombinator.com/item?id=49773104 Points: 26 # Comments: 39",
-      "fetched_at": "2026-09-20T08:05:42.554047+00:00"
     }
   ]
 }
