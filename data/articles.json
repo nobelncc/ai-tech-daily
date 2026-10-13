@@ -1,8 +1,485 @@
 {
   "site_name": "Global Pulse — Multi-Niche News",
   "site_description": "Automatically updated summaries across 10 topics, refreshed around the clock.",
-  "last_updated": "2026-10-12T23:23:46.185602+00:00",
+  "last_updated": "2026-10-13T04:32:18.007081+00:00",
   "articles": [
+    {
+      "id": "90475a1c74fc106743722c2c",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
+      "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
+      "summary": "Bitcoin has climbed back above the $83,000 threshold, breaking away from recent downturns observed in traditional equity markets. The digital asset posted gains even as South Korean shares and U.S. Nasdaq futures faced notable declines.",
+      "fetched_at": "2026-10-13T04:30:58.875878+00:00"
+    },
+    {
+      "id": "71c0472cbc2efe67fd1f0979",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "Scarlett Johansson's Irresistible R-Rated Sci-Fi Thriller Is Now Free to Watch on Streaming",
+      "url": "https://www.polygon.com/under-the-skin-free-streaming-tubi-october-2026/",
+      "summary": "The R-rated science fiction thriller *Under the Skin*, starring Scarlett Johansson, is now available to stream for free. Viewers can access the full film on supported digital platforms without a paid subscription.",
+      "fetched_at": "2026-10-13T04:31:17.609645+00:00"
+    },
+    {
+      "id": "8ccdafea5d6c9fdbb68c9a18",
+      "source": "MarketWatch Top Stories",
+      "category": "Finance",
+      "title": "The global economy is starting to look K-shaped. Here are the winners and losers, and where the U.S. fits.",
+      "url": "https://www.marketwatch.com/story/the-global-economy-is-starting-to-look-k-shaped-here-are-the-winners-and-losers-and-where-the-u-s-fits-4ad93ea7?mod=mw_rss_topstories",
+      "summary": "According to the International Monetary Fund, the global economy is showing signs of a growing divide in performance across different regions. Nations that are insulated from energy price shocks and positioned to gain from the expansion of artificial intelligence are outperforming economies more vulnerable to oil market disruptions.",
+      "fetched_at": "2026-10-13T04:31:28.404860+00:00"
+    },
+    {
+      "id": "b5080cf1ad7fb7c72bea4aae",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "Please Read This Before Posting or Commenting",
+      "url": "https://www.reddit.com/r/freelance/comments/9imfv9/please_read_this_before_posting_or_commenting/",
+      "summary": "Violating the rules of this subreddit will cause your post/comment will be removed and you will be banned PERMANENTLY. This is your only warning! If you are unsure about whether a potential post or comment is suitable, c...",
+      "fetched_at": "2026-10-13T04:31:32.796960+00:00"
+    },
+    {
+      "id": "3ae3e8f9f70ea10ffa42a395",
+      "source": "Grist",
+      "category": "Climate",
+      "title": "In New Mexico, a river runs through ‘the middle of a hellscape’",
+      "url": "https://grist.org/accountability/new-mexico-oil-and-gas-wells-threaten-beautiful-river-in-the-middle-of-a-hellscape/",
+      "summary": "",
+      "fetched_at": "2026-10-13T04:31:38.853743+00:00"
+    },
+    {
+      "id": "cfe5458a5ebe08b155abd872",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "20 Years Ago, the Best Sci-Fi Show of the Century Delivered the Most Epic Space Battle in TV History",
+      "url": "https://www.polygon.com/battlestar-galactica-season-3-exodus-20th-anniversary/",
+      "summary": "Twenty years ago, Battlestar Galactica topped the Adama Maneuver by transforming the Pegasus into an enormous battering ram.",
+      "fetched_at": "2026-10-13T04:31:43.203647+00:00"
+    },
+    {
+      "id": "8d44852ef2eb9d52d547fc2c",
+      "source": "MarketWatch Top Stories",
+      "category": "Finance",
+      "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
+      "url": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+      "summary": "Bernstein analyst Laurent Yoon no longer recommends any of the major telecommunications stocks as he warns of more volatility ahead.",
+      "fetched_at": "2026-10-13T04:31:47.485268+00:00"
+    },
+    {
+      "id": "8f82d548d1595348892a59c3",
+      "source": "The Daily Star",
+      "category": "Bangladesh News",
+      "title": "The forgotten art of Bengali advertising",
+      "url": "https://www.thedailystar.net/slow-reads/focus/news/the-forgotten-art-bengali-advertising-4177626",
+      "summary": "The forgotten art of Bengali advertising miftahul@theda… Sun, 05/17/2026 - 14:05 Image The forgotten art of Bengali advertising I have never seen someone at a rustic village market, anklets jingling, shouting slogans for...",
+      "fetched_at": "2026-10-13T04:31:51.796262+00:00"
+    },
+    {
+      "id": "7d1dabe3210c22e84e138efa",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "6 darkly funny Far Side comics starring the devil",
+      "url": "https://www.polygon.com/6-best-far-side-comics-about-the-devil-hell/",
+      "summary": "Gary Larson’s comic strip loved to send people to Hell",
+      "fetched_at": "2026-10-13T04:31:56.099603+00:00"
+    },
+    {
+      "id": "22ce796e1adfb92c993f09e4",
+      "source": "The Daily Star",
+      "category": "Bangladesh News",
+      "title": "India’s top-heavy boom and the lesson for Bangladesh",
+      "url": "https://www.thedailystar.net/slow-reads/big-picture/news/indias-top-heavy-boom-and-the-lesson-bangladesh-4168031",
+      "summary": "India’s top-heavy boom and the lesson for Bangladesh khairul.jahin@… Tue, 05/05/2026 - 11:54 Image India’s top-heavy boom and the lesson for Bangladesh During my 14 months as Minister (Press) at the Bangladesh High Commi...",
+      "fetched_at": "2026-10-13T04:32:00.396819+00:00"
+    },
+    {
+      "id": "492a85532fc169216cbcaabd",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "One of 2026’s Goriest Horror Movies Is Dominating HBO Max",
+      "url": "https://www.polygon.com/evil-dead-burn-streaming-success-hbo-max-october-2026/",
+      "summary": "Evil Dead Burn has reached the top of HBO Max’s movie rankings, giving horror fans a bloody new pick for spooky season.",
+      "fetched_at": "2026-10-13T04:32:04.894176+00:00"
+    },
+    {
+      "id": "d188626ee82349c8c0bc1f62",
+      "source": "MarketWatch Top Stories",
+      "category": "Finance",
+      "title": "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+      "url": "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+      "summary": "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
+      "fetched_at": "2026-10-13T04:32:09.153614+00:00"
+    },
+    {
+      "id": "2fe88dd12a56e1d1bdd6d67b",
+      "source": "TechCrunch Startups",
+      "category": "Startups",
+      "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
+      "url": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+      "summary": "Richualist is one of TechCrunch's Battlefield 200 Companies!",
+      "fetched_at": "2026-10-13T04:32:13.439420+00:00"
+    },
+    {
+      "id": "ffcc8ee35b8149ff57cdb1cd",
+      "source": "TechCrunch Startups",
+      "category": "Startups",
+      "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
+      "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+      "summary": "This Battlefield 200 startup has developed blood-purification tech to save children.",
+      "fetched_at": "2026-10-13T04:32:17.731721+00:00"
+    },
+    {
+      "id": "12c6f50cad5b21aa96b825ce",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "Sent the wrong invoice to a MAJOR newspaper. They paid it. In full. $600. Anyone?",
+      "url": "https://www.reddit.com/r/freelance/comments/1wxvn3c/sent_the_wrong_invoice_to_a_major_newspaper_they/",
+      "summary": "This weekend I saw an envelope in my mailbox, which I knew would contain a check from a major publisher. I needed the $350, so I was glad the check had arrived quickly. I opened the envelope to find a check for $600. Tur...",
+      "fetched_at": "2026-10-13T04:32:18.006677+00:00"
+    },
+    {
+      "id": "3344a00124bc3faf91aaf7cd",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "আনসার ও গ্রাম প্রতিরক্ষা বাহিনীতে বড় নিয়োগ, পদ ২২৮",
+      "url": "https://www.prothomalo.com/chakri/employment/n1r0ukeq2y",
+      "summary": "বাংলাদেশ আনসার ও গ্রাম প্রতিরক্ষা বাহিনীর ২২৮ পদে নিয়োগ বিজ্ঞপ্তি প্রকাশ, আবেদনের শেষ তারিখ ২৯ অক্টোবর ২০২৬।",
+      "fetched_at": "2026-10-13T04:32:18.006707+00:00"
+    },
+    {
+      "id": "1382a093ee91866db4fcece9",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "contract got paused after 1 month, should i take another freelance gig?",
+      "url": "https://www.reddit.com/r/freelance/comments/1wxx5sy/contract_got_paused_after_1_month_should_i_take/",
+      "summary": "so Im 1 month into a freelance gig doing community marketing for early stage SaaS, contract is 20 hrs/week. then i found an error in one of the paid tools the founder bought for me to use, and long story short my contrac...",
+      "fetched_at": "2026-10-13T04:32:18.006718+00:00"
+    },
+    {
+      "id": "7a4b027ba85a95eb7406fea2",
+      "source": "Grist",
+      "category": "Climate",
+      "title": "Powering data centers on nuclear? That’s a tough sell in Utah’s coal country.",
+      "url": "https://grist.org/accountability/data-centers-utah-smr-gas-beehive-jurassic-spark/",
+      "summary": "",
+      "fetched_at": "2026-10-13T04:32:18.006733+00:00"
+    },
+    {
+      "id": "cbb6fe1433d186c63454d066",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "চলতি অর্থবছরে বাংলাদেশের প্রবৃদ্ধি ৩.২% ও মূল্যস্ফীতি ১০.৯%, আইএমএফের পূর্বাভাস",
+      "url": "https://www.prothomalo.com/business/economics/0prrg6n5lq",
+      "summary": "বৈশ্বিক অর্থনীতির অনিশ্চয়তা ও অভ্যন্তরীণ দুর্বলতার কারণে বাংলাদেশের প্রবৃদ্ধি হ্রাস আর মূল্যস্ফীতি বৃদ্ধির পূর্বাভাস দিয়েছে আইএমএফ।",
+      "fetched_at": "2026-10-13T04:32:18.006739+00:00"
+    },
+    {
+      "id": "76d0d9ee996b42f14f677a98",
+      "source": "Grist",
+      "category": "Climate",
+      "title": "The Northeast’s reliance on heating oil is turning into a crisis",
+      "url": "https://grist.org/solutions/the-northeasts-reliance-on-heating-oil-is-turning-into-a-crisis/",
+      "summary": "",
+      "fetched_at": "2026-10-13T04:32:18.006758+00:00"
+    },
+    {
+      "id": "af473be13399a4cdddfaefdc",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "দক্ষিণের দিব্যাভারতীকে চেনেন কি? দেখে নিন তাঁর যত আকর্ষণীয় লুক",
+      "url": "https://www.haal.fashion/celeb/look/i7gj9a8cp9",
+      "summary": "বলিউডের অকালপ্রয়াত ডিভা দিব্যাভারতীর নামে নাম তাঁর। নবীন এই তামিল অভিনেত্রী ইতিমধ্যেই নজর কাড়ছেন বেশ অভিনয় ও নিজের আকর্ষণীয় লুক দিয়ে।",
+      "fetched_at": "2026-10-13T04:32:18.006763+00:00"
+    },
+    {
+      "id": "3aeac8e35b1ddff85fb7b2b8",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "সাবেক দুই সেনা কর্মকর্তাকে গ্রেপ্তারের নেপথ্যে কী",
+      "url": "https://www.prothomalo.com/bangladesh/crime/saabek-dui-senaa-krmkrtaake-greptaarer-nepthye-kii",
+      "summary": "সাবেক দুই সেনা কর্মকর্তাকে গ্রেপ্তারের নেপথ্যে কী",
+      "fetched_at": "2026-10-13T04:32:18.006779+00:00"
+    },
+    {
+      "id": "79c40c793fafa4fc3435069d",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "ইতিহাসে প্রথম মৌল আবিষ্কার হয়েছিল কীভাবে",
+      "url": "https://www.kishoralo.com/feature/gecroftmj8",
+      "summary": "আমাদের চারপাশের সবকিছুই একধরনের উপাদান দিয়ে তৈরি। বিজ্ঞানের ভাষায় এই উপাদানগুলোকে বলা হয় এলিমেন্ট। বাংলায় আমরা বলি মৌল। সোনা, রুপা, লোহা, অক্সিজেন একেকটা মৌল",
+      "fetched_at": "2026-10-13T04:32:18.006796+00:00"
+    },
+    {
+      "id": "ab33be77523ac2db27db837b",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "Is there ever a point in negotiating if you're not willing to walk away?",
+      "url": "https://www.reddit.com/r/freelance/comments/1wp9v5t/is_there_ever_a_point_in_negotiating_if_youre_not/",
+      "summary": "Here's my situation: I work as a freelance musician, and there's one bar that I've been playing at regularly for a year. The fee is a bit low, costs around me are going up, I know that the bar manager trusts in my abilit...",
+      "fetched_at": "2026-10-13T04:32:18.006801+00:00"
+    },
+    {
+      "id": "6dc67f777c5c60ed10aee8fd",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "ভোররাতে বসে এই হাট",
+      "url": "https://www.prothomalo.com/photo/bangladesh/nyti1jnd6q",
+      "summary": "সপ্তাহে তিন দিন শনিবার, সোমবার ও বৃহস্পতিবার বসে হাটটি।",
+      "fetched_at": "2026-10-13T04:32:18.006816+00:00"
+    },
+    {
+      "id": "41818b4d1f884f8501968649",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "Why do clients demand work immediately like they will die if not delivered urgently, but make the payments 2 months later ? Like our lives don’t depend on it ? So tired of this bullshit",
+      "url": "https://www.reddit.com/r/freelance/comments/1wlam42/why_do_clients_demand_work_immediately_like_they/",
+      "summary": "All this when they call you at the 11th hour btw &#32; submitted by &#32; /u/minor_weather_98 [link] &#32; [comments]",
+      "fetched_at": "2026-10-13T04:32:18.006821+00:00"
+    },
+    {
+      "id": "aeb17e241c8fa54b2706b885",
+      "source": "TechCrunch",
+      "category": "AI & Tech",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "fetched_at": "2026-10-13T04:32:18.006827+00:00"
+    },
+    {
+      "id": "45d189ae3f4a3110255b8e69",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "সালমান খানকে দেখতে কত টাকার টিকিট কিনেছিলেন চাঁদনী, কী ঘটেছিল সেদিন",
+      "url": "https://www.prothomalo.com/entertainment/tv/7lat01ccxc",
+      "summary": "আমি সালমান খানের সঙ্গে দেখা হওয়ার পুরো সময় তাঁকে ধরেছিলাম। হ্যান্ডশেক করেছিলাম। পরে বাসায় এসে ৭ দিন ওই হাতই ধুইনি।",
+      "fetched_at": "2026-10-13T04:32:18.006839+00:00"
+    },
+    {
+      "id": "970eac1b533fa1c974a1e9f5",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "I cried on a client call today",
+      "url": "https://www.reddit.com/r/freelance/comments/1wjvyxi/i_cried_on_a_client_call_today/",
+      "summary": "I’m a freelance web designer and developer working on a website project for a clients. I always set my conditions before starting. The thing is, I’m wearing a lot of hats on this project. I’m not only doing the design/de...",
+      "fetched_at": "2026-10-13T04:32:18.006845+00:00"
+    },
+    {
+      "id": "3bee829bfae20370b6234753",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 276 # Comments: 233",
+      "fetched_at": "2026-10-13T04:32:18.006853+00:00"
+    },
+    {
+      "id": "88b9135e222331024ab4a461",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
+      "url": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Authorities said the restrictions are aimed at unregistered exchanges and have acknowledged that customers could have difficulty withdrawing assets.",
+      "fetched_at": "2026-10-13T04:32:18.006857+00:00"
+    },
+    {
+      "id": "eacdf689363c5a756424dc98",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "স্মার্ট থেকে জমকালো, ছবিতে দেখে নিন পূজার পাঁচ রঙিলা লুক",
+      "url": "https://www.prothomalo.com/lifestyle/style/uukuxbz3vx",
+      "summary": "",
+      "fetched_at": "2026-10-13T04:32:18.006861+00:00"
+    },
+    {
+      "id": "7f05710ea94d393c9c96b8f4",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
+      "url": "https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Meta co-founder Mark Zuckerberg said its newest models are a step toward “personal superintelligence.”",
+      "fetched_at": "2026-10-13T04:32:18.006870+00:00"
+    },
+    {
+      "id": "46b33ffba04d8859482e85cb",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "দুই ভাইয়ের হাতেই বেঁচে আছে বাপ-দাদার ঠাটারি পেশা",
+      "url": "https://www.prothomalo.com/video/bangladesh/eczh5jlqe2",
+      "summary": "প্লাস্টিক, মেলামাইন ও স্টিলের দাপটে হারিয়ে যেতে বসেছে গ্রামবাংলার ঐতিহ্যবাহী ঠাটারি পেশা। গাইবান্ধার সুন্দরগঞ্জে বাপ-দাদার পেশা আঁকড়ে এখনো টিকে আছেন দুই ভাই",
+      "fetched_at": "2026-10-13T04:32:18.006874+00:00"
+    },
+    {
+      "id": "8e440342303b7812004c870f",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
+      "url": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The optional feature hides transaction details until their order is finalized, preventing bots from exploiting pending trades.",
+      "fetched_at": "2026-10-13T04:32:18.006881+00:00"
+    },
+    {
+      "id": "e36756b88fc441d89924e20a",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "রবীন্দ্রনাথের নোবেল প্রাপ্তি ও নবাব সলিমউল্লাহ",
+      "url": "https://www.prothomalo.com/onnoalo/treatise/uxl84pkp7b",
+      "summary": "বঙ্গভঙ্গ বাতিলের দুই বছরের মধ্যে ১৯১৩ সালে রবীন্দ্রনাথ নোবেল পুরস্কার পান। কলকাতার মূলধারার হিন্দু কবি-সাহিত্যিকদের মধ্যেই তাঁর পুরস্কার প্রাপ্তি নিয়ে মিশ্র প্রতিক্রিয়া হয়",
+      "fetched_at": "2026-10-13T04:32:18.006886+00:00"
+    },
+    {
+      "id": "92b329c3d4f71b42ea25372f",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "টানা তৃতীয় দিনের মতো রিয়াদ লক্ষ্য করে হুতিদের ক্ষেপণাস্ত্র হামলা",
+      "url": "https://www.prothomalo.com/world/middle-east/slbuc61mb6",
+      "summary": "গত কয়েক দিনে রিয়াদে একের পর এক হামলা হয়েছে। এসব হামলায় অন্তত ১৪ জন নিহত হয়েছেন। হামলার ধাক্কা সামলে ওঠার চেষ্টা করছে রিয়াদ।",
+      "fetched_at": "2026-10-13T04:32:18.006918+00:00"
+    },
+    {
+      "id": "0961265df98f9e2bd95d888c",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "এই দিনে দেশ ছাড়েন এস কে সিনহা, কানাডা থেকে বললেন, ‘আমি ভাসমান’",
+      "url": "https://www.prothomalo.com/bangladesh/46qwh98m0p",
+      "summary": "‘কানাডায় ছোট মেয়ের সঙ্গে আছি।...আমার স্ত্রীর স্ট্যাটাস হয়ে গিয়েছে, পিআর (পারমানেন্ট রেসিডেন্সি বা স্থায়ী বাস) হয়ে গিয়েছে। তবে আমাকে দিচ্ছে না।’",
+      "fetched_at": "2026-10-13T04:32:18.006929+00:00"
+    },
+    {
+      "id": "1c508febc0e43ff3a2d25912",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "সিইসি জ্ঞানেশের বিরুদ্ধে রাহুল গান্ধীর আবেদনে ১৪টি ত্রুটি ধরলেন সুপ্রিম কোর্ট, শুনানি হচ্ছে না আজ",
+      "url": "https://www.prothomalo.com/world/india/xt2jhvqd3i",
+      "summary": "আইনজীবীদের অনুরোধে ত্রুটিগুলো সংশোধনের পর আগামীকাল বুধবার আবেদনটি শুনানির জন্য তালিকাভুক্ত হতে পারে।",
+      "fetched_at": "2026-10-13T04:32:18.006939+00:00"
+    },
+    {
+      "id": "e1b1f9e600c42043d0cb93b9",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "হুতি বিদ্রোহীদের হামলার শঙ্কার রাতে রোনালদোর গোল",
+      "url": "https://www.prothomalo.com/sports/football/xwqlm81uc3",
+      "summary": "এশিয়ান চ্যাম্পিয়নস লিগ এলিটে রোনালদোদের ম্যাচটি নিরাপত্তাজনিত কারণে এক ঘণ্টা দেরিতে শুরু হয়।",
+      "fetched_at": "2026-10-13T04:32:18.006950+00:00"
+    },
+    {
+      "id": "942830f3402d377693cb2a07",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "summary": "Article URL: https://github.com/h0m3us3r/w1700k-sdr Comments URL: https://news.ycombinator.com/item?id=50055593 Points: 292 # Comments: 80",
+      "fetched_at": "2026-10-13T04:32:18.006956+00:00"
+    },
+    {
+      "id": "01a944d8107ea680a35fc0e5",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "কথা বলার কৌশল",
+      "url": "https://www.bondhushava.com/events/n3jhvvx01i",
+      "summary": "১০ অক্টোবর ‘প্রেজেন্টেশন অ্যান্ড বিয়ন্ড’ শিরোনামে যৌথভাবে এই প্রশিক্ষণ কর্মশালার আয়োজন করে প্রথম আলো বন্ধুসভা ও অল ব্রডকাস্টার্স কমিউনিটি (এবিসি)। সকাল সাড়ে ৯টায় জাতীয় সংগীত পরিবেশনের মধ্য দিয়ে শুরু হয় মূল আয়োজন।",
+      "fetched_at": "2026-10-13T04:32:18.006963+00:00"
+    },
+    {
+      "id": "ab66d2c87b8a80d0a2d284bb",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "Citroen revives the 2CV for an electric age",
+      "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+      "summary": "Article URL: https://www.bbc.com/news/articles/c620r33plgppo Comments URL: https://news.ycombinator.com/item?id=50055220 Points: 281 # Comments: 326",
+      "fetched_at": "2026-10-13T04:32:18.006975+00:00"
+    },
+    {
+      "id": "39514bcd49f827b0c3f16123",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "summary": "Article URL: https://www.argmin.net/p/faster-fourier-transforms Comments URL: https://news.ycombinator.com/item?id=50065932 Points: 46 # Comments: 28",
+      "fetched_at": "2026-10-13T04:32:18.006982+00:00"
+    },
+    {
+      "id": "edef8fe5f7022078ca4ea055",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Leaving Tech",
+      "url": "https://ryanbigg.com/2026/10/leaving-tech",
+      "summary": "Article URL: https://ryanbigg.com/2026/10/leaving-tech Comments URL: https://news.ycombinator.com/item?id=50065892 Points: 130 # Comments: 118",
+      "fetched_at": "2026-10-13T04:32:18.006990+00:00"
+    },
+    {
+      "id": "2fb7cc3ef0e4532ae3e82cd3",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "China Overtakes U.S. For First Time as Top Spender on R&D in 2024",
+      "url": "https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/",
+      "summary": "Article URL: https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/ Comments URL: https://news.ycombinator.com/item?id=50065805 Points: 77 # Comments: 68",
+      "fetched_at": "2026-10-13T04:32:18.006997+00:00"
+    },
+    {
+      "id": "1fba6013eca697cc8efe78c5",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "The Dock on Mac, from OS 10 to macOS 27",
+      "url": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
+      "summary": "Article URL: https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/ Comments URL: https://news.ycombinator.com/item?id=50065713 Points: 11 # Comments: 0",
+      "fetched_at": "2026-10-13T04:32:18.007005+00:00"
+    },
+    {
+      "id": "4235b7a9323037f7e6ec27f5",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "summary": "Article URL: https://arxiv.org/abs/2610.13928 Comments URL: https://news.ycombinator.com/item?id=50065692 Points: 34 # Comments: 9",
+      "fetched_at": "2026-10-13T04:32:18.007012+00:00"
+    },
+    {
+      "id": "43bd063092770bd0a81860d5",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+      "url": "https://doi.org/10.1111/acel.70751",
+      "summary": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13634082/ Comments URL: https://news.ycombinator.com/item?id=50064536 Points: 125 # Comments: 80",
+      "fetched_at": "2026-10-13T04:32:18.007021+00:00"
+    },
+    {
+      "id": "17b8aad56202d883192097e5",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+      "url": "https://github.com/andrewfader/blokkily",
+      "summary": "Article URL: https://github.com/andrewfader/blokkily Comments URL: https://news.ycombinator.com/item?id=50064438 Points: 28 # Comments: 16",
+      "fetched_at": "2026-10-13T04:32:18.007025+00:00"
+    },
+    {
+      "id": "8460a9e7f93682cb9924f40e",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "url": "https://github.com/prabanta-dev/janas",
+      "summary": "Article URL: https://github.com/prabanta-dev/janas Comments URL: https://news.ycombinator.com/item?id=50063717 Points: 67 # Comments: 25",
+      "fetched_at": "2026-10-13T04:32:18.007029+00:00"
+    },
+    {
+      "id": "a8c1d3c8f9b43058ab3ba138",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "summary": "Article URL: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html Comments URL: https://news.ycombinator.com/item?id=50063365 Points: 111 # Comments: 46",
+      "fetched_at": "2026-10-13T04:32:18.007037+00:00"
+    },
+    {
+      "id": "c2132ccc579ecf05877df2da",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Who is vfmaddrnd231pd?",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "summary": "Article URL: https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/ Comments URL: https://news.ycombinator.com/item?id=50063138 Points: 143 # Comments: 15",
+      "fetched_at": "2026-10-13T04:32:18.007041+00:00"
+    },
     {
       "id": "d114aa759cc7bec63fb819f3",
       "source": "TechCrunch",
@@ -2225,483 +2702,6 @@
       "url": "https://www.prothomalo.com/lifestyle/relation/b7jvpd6i3g",
       "summary": "",
       "fetched_at": "2026-10-12T06:48:02.382830+00:00"
-    },
-    {
-      "id": "223e8c1d5be8c7abba6e89ba",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "শুটিংয়ে পরিচালকের ধাক্কায় সিঁড়ি থেকে পড়ে তিন দিন অসুস্থ ছিলেন নাসিমা খান",
-      "url": "https://www.prothomalo.com/entertainment/dhallywood/cpbxrdjeh7",
-      "summary": "",
-      "fetched_at": "2026-10-12T06:48:02.382841+00:00"
-    },
-    {
-      "id": "9d7a101e28a81eb945a9a96b",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "ব্র্যাক ও সিটি ব্যাংকের নতুন সেবা , কী আছে ‘ডিজিবক্সে’",
-      "url": "https://www.prothomalo.com/business/bank/ls0m5alhs9",
-      "summary": "",
-      "fetched_at": "2026-10-12T06:48:02.382853+00:00"
-    },
-    {
-      "id": "2df68f10bf04ac0c5e3e30af",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Type-safe HTML templating in Zig",
-      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
-      "summary": "Article URL: https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html Comments URL: https://news.ycombinator.com/item?id=50051573 Points: 44 # Comments: 18",
-      "fetched_at": "2026-10-12T06:48:02.382868+00:00"
-    },
-    {
-      "id": "9555ea86cefe21de729fd780",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
-      "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
-      "summary": "Article URL: https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/ Comments URL: https://news.ycombinator.com/item?id=50051530 Points: 51 # Comments: 31",
-      "fetched_at": "2026-10-12T06:48:02.382877+00:00"
-    },
-    {
-      "id": "83c33289bb5a115eb0dfc2a9",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Crest – an Arc-inspired open-source browser for Mac",
-      "url": "https://crestbrowser.com/",
-      "summary": "Article URL: https://crestbrowser.com/ Comments URL: https://news.ycombinator.com/item?id=50051097 Points: 4 # Comments: 0",
-      "fetched_at": "2026-10-12T06:48:02.382885+00:00"
-    },
-    {
-      "id": "e1d1d7994b526b9e3ecb025c",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Doory – Open-Source Canva",
-      "url": "https://github.com/shaongitbd/doory",
-      "summary": "Article URL: https://github.com/shaongitbd/doory Comments URL: https://news.ycombinator.com/item?id=50049872 Points: 78 # Comments: 18",
-      "fetched_at": "2026-10-12T06:48:02.382894+00:00"
-    },
-    {
-      "id": "ef386b993733fd6bc67f8a08",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Local Indexing to reduce tool calling and token usage",
-      "url": "https://tedhaley.ca/pensieve/",
-      "summary": "Article URL: https://tedhaley.ca/pensieve/ Comments URL: https://news.ycombinator.com/item?id=50049508 Points: 59 # Comments: 13",
-      "fetched_at": "2026-10-12T06:48:02.382930+00:00"
-    },
-    {
-      "id": "7a02632600d1d1a3bbbe12ae",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "HashiCorp archives the Boundary open source repo",
-      "url": "https://github.com/hashicorp/boundary",
-      "summary": "Article URL: https://github.com/hashicorp/boundary Comments URL: https://news.ycombinator.com/item?id=50049498 Points: 66 # Comments: 12",
-      "fetched_at": "2026-10-12T06:48:02.382940+00:00"
-    },
-    {
-      "id": "27920af87a3e41e4d1ce6b44",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Illustration Beyond Proof",
-      "url": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/ Comments URL: https://news.ycombinator.com/item?id=50049133 Points: 55 # Comments: 0",
-      "fetched_at": "2026-10-12T06:48:02.382948+00:00"
-    },
-    {
-      "id": "ed897360f4bd041889b92dd7",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "ClickHouse C – Talk to ClickHouse using its native binary protocol",
-      "url": "https://github.com/ClickHouse/clickhouse-c",
-      "summary": "Article URL: https://github.com/ClickHouse/clickhouse-c Comments URL: https://news.ycombinator.com/item?id=50049003 Points: 31 # Comments: 1",
-      "fetched_at": "2026-10-12T06:48:02.382955+00:00"
-    },
-    {
-      "id": "6a9b77786d4b42b9eff9551c",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Fingerprints are the new cookies",
-      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
-      "summary": "Article URL: https://royfish.dev/fingerprints-are-the-new-cookies Comments URL: https://news.ycombinator.com/item?id=50048642 Points: 262 # Comments: 128",
-      "fetched_at": "2026-10-12T06:48:02.382961+00:00"
-    },
-    {
-      "id": "a079941842f253cf71b0a40f",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Shredding JSON columns gave Logfire up to 1000x faster queries",
-      "url": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
-      "summary": "Article URL: https://pydantic.dev/articles/dynamic-shredding-2026-01-26 Comments URL: https://news.ycombinator.com/item?id=50048490 Points: 18 # Comments: 11",
-      "fetched_at": "2026-10-12T06:48:02.382972+00:00"
-    },
-    {
-      "id": "eb834035e5462f7c6da2145e",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Passkeys are a trap",
-      "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-      "summary": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them Comments URL: https://news.ycombinator.com/item?id=50048312 Points: 491 # Comments: 268",
-      "fetched_at": "2026-10-12T06:48:02.382978+00:00"
-    },
-    {
-      "id": "a081b608331ab1d64e0a3231",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Tattoos you can turn on and off",
-      "url": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
-      "summary": "Article URL: https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off Comments URL: https://news.ycombinator.com/item?id=50047802 Points: 48 # Comments: 20",
-      "fetched_at": "2026-10-12T06:48:02.382984+00:00"
-    },
-    {
-      "id": "3ab34f78f5443692d00b31ae",
-      "source": "TechCrunch",
-      "category": "AI & Tech",
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-      "summary": "Apple is reportedly advancing its smart home efforts with a new device dubbed the HomeView. Following years of speculation surrounding the project, recent reports indicate that the hardware now has both an official name and a designated launch timeframe.",
-      "fetched_at": "2026-10-12T00:06:13.461842+00:00"
-    },
-    {
-      "id": "318c7ebd279e0a30289313af",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "24 Years Later, the Weirdest Noir Fantasy of the '90s Is Officially Free on Streaming",
-      "url": "https://www.polygon.com/cool-world-free-youtube/",
-      "summary": "It's time for a new generation to discover one of the strangest films of the '90s",
-      "fetched_at": "2026-10-12T00:06:33.126376+00:00"
-    },
-    {
-      "id": "aecb98656f5dc4e1560efa83",
-      "source": "TechCrunch",
-      "category": "AI & Tech",
-      "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
-      "url": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
-      "summary": "Aaron Sorkin’s latest project, \"Social Reckoning,\" has experienced an underwhelming debut. The slow start has prompted questions regarding audience interest in an upcoming slate of autumn films centered on antagonistic technology executives.",
-      "fetched_at": "2026-10-12T00:06:42.595213+00:00"
-    },
-    {
-      "id": "976605ccf8390b122b55ba93",
-      "source": "Grist",
-      "category": "Climate",
-      "title": "Fifty billion seedlings: Can Ethiopia replant its ravaged forests?",
-      "url": "https://grist.org/solutions/fifty-billion-seedlings-can-ethiopia-replant-its-ravaged-forests/",
-      "summary": "Ethiopia has launched an ambitious initiative to plant 50 billion trees in an effort to restore its significantly depleted forest cover. This environmental campaign aims to combat land degradation and mitigate the broader effects of climate change across the country. Success for the project depends on ensuring the long-term survival of the seedlings through sustained monitoring and management.",
-      "fetched_at": "2026-10-12T00:06:57.057787+00:00"
-    },
-    {
-      "id": "e7413c47a3bb07dccba1acc1",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "10 Best Episodes of 'Buffy the Vampire Slayer' Of All Time, Ranked by Their IMDb Score",
-      "url": "https://www.polygon.com/the-10-best-episodes-of-buffy-the-vampire-slayer-ranked-by-their-imdb-score/",
-      "summary": "The top Buffy episode is obvious, but there are some surprises along the way",
-      "fetched_at": "2026-10-12T00:07:01.599720+00:00"
-    },
-    {
-      "id": "10ad57f1e4cd2663eb72b07f",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "‘I feel like a loser’: My stock portfolio is swinging wildly. Is it finally time to worry?",
-      "url": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-      "summary": "“I presume these are sophisticated investors taking a profit.”",
-      "fetched_at": "2026-10-12T00:07:06.197149+00:00"
-    },
-    {
-      "id": "2eb066fcceb7fe9a2c68a3ba",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "3 Essential Remedy Games To Play After Control Resonant",
-      "url": "https://www.polygon.com/control-resonant-games-to-play/",
-      "summary": "After playing Control Resonant, try these games from Remedy Entertainment that expand the lore even more.",
-      "fetched_at": "2026-10-12T00:07:13.023360+00:00"
-    },
-    {
-      "id": "12accea714d7dd0aaa24a0b5",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
-      "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
-      "summary": "",
-      "fetched_at": "2026-10-12T00:07:17.541928+00:00"
-    },
-    {
-      "id": "445ae97229e058f50195c1ed",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register be...",
-      "fetched_at": "2026-10-12T00:07:22.241927+00:00"
-    },
-    {
-      "id": "06e3b422a85c1a2359fd3277",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
-      "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
-      "summary": "",
-      "fetched_at": "2026-10-12T00:07:31.367429+00:00"
-    },
-    {
-      "id": "fe868bb1e4bf05057ebad101",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
-      "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
-      "summary": "",
-      "fetched_at": "2026-10-12T00:07:35.932132+00:00"
-    },
-    {
-      "id": "77c204b56289b60400ef14b5",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "সৌদি আরবে বিমানবন্দরে হামলায় নিহত ও আহত ২৬ বাংলাদেশির পরিচয় জানা গেছে",
-      "url": "https://www.prothomalo.com/bangladesh/bpzuvhmczk",
-      "summary": "সৌদি আরবের রিয়াদে কিং খালেদ আন্তর্জাতিক বিমানবন্দরে হামলায় দুই বাংলাদেশি নিহত ও ২৪ জন আহত হয়েছেন। তাঁদের পরিচয় জানা গেছে। আহত ব্যক্তিরা বিভিন্ন হাসপাতালে চিকিৎসাধীন।",
-      "fetched_at": "2026-10-12T00:07:40.439835+00:00"
-    },
-    {
-      "id": "fee8f670fc00bfb434a4f946",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "রোম সম্রাটের সামনে ইমানের অগ্নিপরীক্ষা",
-      "url": "https://www.prothomalo.com/religion/islam/7yqdzncyxz",
-      "summary": "জীবন বাঁচানোর তাগিদে চরম সংকটে হারাম খাবার খাওয়ার অনুমতি ইসলামে রয়েছে, কিন্তু শত্রুরা ইসলাম নিয়ে উপহাস করে বলতে না পারে, তাই তিনি তা প্রত্যাখ্যান করলেন।",
-      "fetched_at": "2026-10-12T00:07:44.983217+00:00"
-    },
-    {
-      "id": "8a76b5b5e4f17e55c8412baa",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "নাট্যাঙ্গনে বহুমাত্রিক ইনামুল হকের অভাব",
-      "url": "https://www.prothomalo.com/entertainment/tv/naattyaanggne-bhumaatrik-inaamul-hker-abhaab",
-      "summary": "নাট্যাঙ্গনে বহুমাত্রিক ইনামুল হকের অভাব",
-      "fetched_at": "2026-10-12T00:07:49.471182+00:00"
-    },
-    {
-      "id": "7304e0c0b4bcf584196e0152",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
-      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
-      "summary": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of...",
-      "fetched_at": "2026-10-12T00:07:50.018102+00:00"
-    },
-    {
-      "id": "44ce26ac46a18435a03ba766",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "জোবায়েদ হত্যা মামলায় তিন আসামির জামিন নাকচ, অভিযোগ গঠনের শুনানি ২৮ অক্টোবর",
-      "url": "https://www.prothomalo.com/bangladesh/vx1epr8pn3",
-      "summary": "জগন্নাথ বিশ্ববিদ্যালয়ের শিক্ষার্থী জোবায়েদ হোসেন হত্যা মামলায় তিন আসামির জামিন নাকচ করেছেন আদালত। অভিযোগ গঠনের শুনানির জন্য ২৮ অক্টোবর দিন ধার্য করা হয়েছে।",
-      "fetched_at": "2026-10-12T00:07:50.018139+00:00"
-    },
-    {
-      "id": "a20e823946b9d7984081b717",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "title": "Xona’s commercial GPS alternative is about to go live",
-      "url": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
-      "summary": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
-      "fetched_at": "2026-10-12T00:07:50.018158+00:00"
-    },
-    {
-      "id": "36c3291e4337e1f0fa04d37c",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "দুই-তিন দিন ঘর থেকে বের হননি বৃদ্ধা, অর্ধগলিত মরদেহ উদ্ধার",
-      "url": "https://www.prothomalo.com/bangladesh/district/sjqd7495jn",
-      "summary": "রাজশাহী নগরের নিজ বাড়ি থেকে বেলী রানী নামের ৭০ বছর বয়সী এক নারীর অর্ধগলিত মরদেহ উদ্ধার করেছে পুলিশ। তাঁর শরীরে আঘাতের চিহ্ন রয়েছে।",
-      "fetched_at": "2026-10-12T00:07:50.018176+00:00"
-    },
-    {
-      "id": "deb53deea3fc79f77d33a855",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "সুন্দরবন রক্ষায় সমন্বিত চেষ্টা দরকার",
-      "url": "https://www.prothomalo.com/bangladesh/g3bylb8kji",
-      "summary": "প্রথম আলোর আয়োজনে ‘উপকূলে পানির সংকট ও সুন্দরবনের প্রতিবেশ’ শীর্ষক আলোচনা।",
-      "fetched_at": "2026-10-12T00:07:50.018208+00:00"
-    },
-    {
-      "id": "a3be2490e70dfd84c05d32fe",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "পূজায় সম্প্রীতি রক্ষা ও জনস্বার্থে এনসিপির একগুচ্ছ কর্মসূচি ঘোষণা",
-      "url": "https://www.prothomalo.com/politics/8bmxbacw2u",
-      "summary": "আসন্ন দুর্গাপূজায় সম্প্রীতি রক্ষা, ২৩ অক্টোবর থেকে সপ্তাহব্যাপী গণসংযোগ এবং ৩০ অক্টোবর শাহবাগে প্রতিবাদ কর্মসূচির সিদ্ধান্ত নিয়েছে জাতীয় নাগরিক পার্টি (এনসিপি)।",
-      "fetched_at": "2026-10-12T00:07:50.018237+00:00"
-    },
-    {
-      "id": "c66868eae66e96723f069537",
-      "source": "Hacker News (Best)",
-      "category": "Startups",
-      "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
-      "url": "https://theonion.com/archivehunt/",
-      "summary": "Article URL: https://theonion.com/archivehunt/ Comments URL: https://news.ycombinator.com/item?id=50047055 Points: 219 # Comments: 26",
-      "fetched_at": "2026-10-12T00:07:50.018255+00:00"
-    },
-    {
-      "id": "cc888d05257216b3b7742b0b",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "title": "Ledger attack spreads to EU, AI finds ’18 trillion XRP’ bug: Hodler’s Digest",
-      "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "An user reports buying a tampered Ledger from a big retailer in Europe. Security researchers use AI to uncover a “$94 billion” XRP bug — but receive just a $250K bounty.",
-      "fetched_at": "2026-10-12T00:07:50.018265+00:00"
-    },
-    {
-      "id": "46e28375e81ac66107baec9d",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "চতুর্থ দফায় রিয়াদ বিমানবন্দরে হামলা",
-      "url": "https://www.prothomalo.com/world/middle-east/fw2xte5dav",
-      "summary": "সবচেয়ে প্রাণঘাতী হামলা হয়েছে গত শনিবার। এতে দুই বাংলাদেশিসহ ১৩ জন নিহত হয়েছেন।",
-      "fetched_at": "2026-10-12T00:07:50.018274+00:00"
-    },
-    {
-      "id": "3f17fe612de0e6d46bf16bde",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Whatever became of holography? (2011)",
-      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
-      "summary": "Article URL: https://www.americanscientist.org/article/whatever-became-of-holography Comments URL: https://news.ycombinator.com/item?id=50049411 Points: 3 # Comments: 0",
-      "fetched_at": "2026-10-12T00:07:50.018384+00:00"
-    },
-    {
-      "id": "70fc3c0531df973b7483598c",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Google Data Centers around the world",
-      "url": "https://datacenters.google/locations/",
-      "summary": "Article URL: https://datacenters.google/locations/ Comments URL: https://news.ycombinator.com/item?id=50048768 Points: 28 # Comments: 14",
-      "fetched_at": "2026-10-12T00:07:50.018399+00:00"
-    },
-    {
-      "id": "ee7980282778d9e75cb73574",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "title": "THORChain dev accuses Tether of temporarily freezing USDT vaults",
-      "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Chad Barraford, technical co-founder of the network, said that the funds were frozen and then unfrozen without explanation.",
-      "fetched_at": "2026-10-12T00:07:50.018410+00:00"
-    },
-    {
-      "id": "813e48c1503b7bc53dc07704",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "JulianFlux: Electrodynamic vector retrieval and causal routing for AI",
-      "url": "https://github.com/julianjohnson-web/julianflux-research",
-      "summary": "Article URL: https://github.com/julianjohnson-web/julianflux-research Comments URL: https://news.ycombinator.com/item?id=50048702 Points: 4 # Comments: 0",
-      "fetched_at": "2026-10-12T00:07:50.018418+00:00"
-    },
-    {
-      "id": "17356abc1ecf615f94732bee",
-      "source": "Hacker News (Best)",
-      "category": "Startups",
-      "title": "LineageOS 24",
-      "url": "https://lineageos.org/Changelog-32/",
-      "summary": "Article URL: https://lineageos.org/Changelog-32/ Comments URL: https://news.ycombinator.com/item?id=50040276 Points: 401 # Comments: 163",
-      "fetched_at": "2026-10-12T00:07:50.018425+00:00"
-    },
-    {
-      "id": "2e5ecec4d71516fff52bdbeb",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Fingerprints Are the New Cookies",
-      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
-      "summary": "Article URL: https://royfish.dev/fingerprints-are-the-new-cookies Comments URL: https://news.ycombinator.com/item?id=50048642 Points: 21 # Comments: 6",
-      "fetched_at": "2026-10-12T00:07:50.018436+00:00"
-    },
-    {
-      "id": "ba780c2dca0fccfebbf93bfa",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Google is illegaly cutting forest to build data centers",
-      "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment Comments URL: https://news.ycombinator.com/item?id=50048638 Points: 38 # Comments:...",
-      "fetched_at": "2026-10-12T00:07:50.018449+00:00"
-    },
-    {
-      "id": "11a797f6fa3cff502dffa053",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Recursive self-improvement through collective intelligence",
-      "url": "https://pub.sakana.ai/mass/",
-      "summary": "Article URL: https://pub.sakana.ai/mass/ Comments URL: https://news.ycombinator.com/item?id=50048522 Points: 27 # Comments: 3",
-      "fetched_at": "2026-10-12T00:07:50.018461+00:00"
-    },
-    {
-      "id": "89df666b1527c4c373be9150",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Passkeys are a trap. Do not use them",
-      "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-      "summary": "Article URL: https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them Comments URL: https://news.ycombinator.com/item?id=50048312 Points: 142 # Comments: 66",
-      "fetched_at": "2026-10-12T00:07:50.018469+00:00"
-    },
-    {
-      "id": "626528bfc04de6c3bf8c4339",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "A Remote Employee Refused 160 Webcam Photos a Day. Her Employer Fired Her",
-      "url": "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
-      "summary": "Article URL: https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963 Comments URL: https://news.ycombinator.com/item?id=50047825 Points: 108 # Comments: 70",
-      "fetched_at": "2026-10-12T00:07:50.018476+00:00"
-    },
-    {
-      "id": "23a203384e976c9fdf333cc1",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "summary": "Article URL: https://twitter.com/karpathy/status/2109361546505966046 Comments URL: https://news.ycombinator.com/item?id=50047422 Points: 179 # Comments: 263",
-      "fetched_at": "2026-10-12T00:07:50.018483+00:00"
-    },
-    {
-      "id": "a7225ed18d6ae2eb0a7332a5",
-      "source": "TechCrunch",
-      "category": "AI & Tech",
-      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-      "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-      "summary": "TechCrunch Disrupt 2026 is scheduled to open in under 48 hours at the Moscone West convention center in San Francisco. Organizers are currently offering advance registration discounts, including price reductions of up to $100 and half-price companion passes, before on-site rates take effect.",
-      "fetched_at": "2026-10-11T20:42:14.971908+00:00"
-    },
-    {
-      "id": "d015f4283ef10b244412d9b6",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
-      "url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
-      "summary": "Multiple parties are petitioning the U.S. Supreme Court to establish a clear legal precedent for the operation of prediction markets. The request follows escalating disputes between platform operators and federal oversight agencies regarding the legality of event-based wagering. A decision from the high court would resolve long-standing uncertainty surrounding the industry's regulatory requirements.",
-      "fetched_at": "2026-10-11T20:42:27.577312+00:00"
-    },
-    {
-      "id": "13c426698099468798079d0d",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "Robert De Niro's 123-Minute Gothic Thriller Is Officially Streaming on Netflix",
-      "url": "https://www.polygon.com/robert-de-niro-gothic-horror-streaming-netflix/",
-      "summary": "A classic horror tale is told through a heightened, emotional lens.",
-      "fetched_at": "2026-10-11T20:42:31.949809+00:00"
-    },
-    {
-      "id": "2fabde67e8d726634ed5b352",
-      "source": "TechCrunch",
-      "category": "AI & Tech",
-      "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-      "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "summary": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
-      "fetched_at": "2026-10-11T20:42:36.320771+00:00"
-    },
-    {
-      "id": "454650e7a932049c44cd6bc6",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "Disney Officially Confirms New 'Die Hard with Fairies' TV Series Adaptation",
-      "url": "https://www.polygon.com/artemis-fowl-tv-series-announced-disney-plus/",
-      "summary": "Artemis Fowl is returning to Disney Plus with a new animated series led by creator Eoin Colfer, Disney announced at New York Comic Con.",
-      "fetched_at": "2026-10-11T20:42:40.664330+00:00"
     }
   ]
 }
