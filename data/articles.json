@@ -1,8 +1,539 @@
 {
   "site_name": "Global Pulse — Multi-Niche News",
   "site_description": "Automatically updated summaries across 10 topics, refreshed around the clock.",
-  "last_updated": "2026-10-14T02:41:56.343556+00:00",
+  "last_updated": "2026-10-14T08:14:15.588057+00:00",
   "articles": [
+    {
+      "id": "34cb966e950b108e09632a65",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+      "url": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+      "summary": "Coinbase, which manages approximately 5% of the total bitcoin supply, is urging the cryptocurrency industry to begin implementing defenses against potential quantum computing threats. The exchange advocates for an early transition to quantum-resistant cryptographic standards to ensure the long-term security of digital assets from future decryption risks.",
+      "fetched_at": "2026-10-14T08:10:40.050401+00:00"
+    },
+    {
+      "id": "82baf4d60b49a8b7b85f6a6d",
+      "source": "We Work Remotely",
+      "category": "Remote Work",
+      "title": "Tailscale: Brand Designer",
+      "url": "https://weworkremotely.com/remote-jobs/tailscale-brand-designer-1",
+      "summary": "Tailscale is currently recruiting for a remote Brand Designer to support its mission of simplifying secure network connections for a wide range of users. The company, which provides software for interconnecting devices and people, explicitly encouraged candidates from underrepresented backgrounds to apply regardless of whether they meet every qualification. This recruitment effort aims to foster diversity while expanding the company’s creative team.",
+      "fetched_at": "2026-10-14T08:10:50.723406+00:00"
+    },
+    {
+      "id": "30bd4c9eb0f0ae4fad709f84",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "28 Years Ago, 'Buffy's Darkest Villain Got a Perfect Introduction",
+      "url": "https://www.polygon.com/buffy-the-vampire-slayer-season-3-episode-3-retrospective/",
+      "summary": "A retrospective analysis highlights a third-season episode of \"Buffy the Vampire Slayer\" for its introduction of a significant series antagonist. The episode established a character intended to serve as a complex narrative foil to the protagonist nearly three decades ago. This debut is credited with defining a major conflict that persisted throughout the show’s run.",
+      "fetched_at": "2026-10-14T08:11:01.557984+00:00"
+    },
+    {
+      "id": "b5080cf1ad7fb7c72bea4aae",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "Please Read This Before Posting or Commenting",
+      "url": "https://www.reddit.com/r/freelance/comments/9imfv9/please_read_this_before_posting_or_commenting/",
+      "summary": "The r/freelance subreddit has established a strict enforcement policy where rule violations lead to immediate and permanent bans without additional warnings. Users are encouraged to consult the community’s wiki and search for existing answers before posting new questions to avoid redundancy. Furthermore, the guidelines suggest that specialized inquiries may be better suited for other industry-specific subreddits.",
+      "fetched_at": "2026-10-14T08:11:29.088171+00:00"
+    },
+    {
+      "id": "00c55a2b9133d13d00a1efef",
+      "source": "ScienceDaily Health",
+      "category": "Health",
+      "title": "New knee arthritis treatment delivers lasting pain relief without surgery",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261013234801.htm",
+      "summary": "A promising new treatment for knee arthritis uses tiny, dissolvable particles to block abnormal blood vessels, easing inflammation and pain without joint replacement surgery. In a study of 194 patients, 80% experienced c...",
+      "fetched_at": "2026-10-14T08:11:34.214612+00:00"
+    },
+    {
+      "id": "0fa39be6a81a85c36cd25932",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
+      "url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
+      "summary": "Ripple is integrating wallets from Stripe-owned platforms into the XRP Ledger to expand the network's payment infrastructure. This move follows a significant growth in activity, with the ledger recording over 14 million transactions linked to artificial intelligence services. The collaboration aims to streamline digital asset transfers as automated payment volume continues to rise.",
+      "fetched_at": "2026-10-14T08:11:42.938066+00:00"
+    },
+    {
+      "id": "6e01fafdcdcbfdaf8d28cbee",
+      "source": "We Work Remotely",
+      "category": "Remote Work",
+      "title": "Databricks: Deployment Strategist",
+      "url": "https://weworkremotely.com/remote-jobs/databricks-deployment-strategist",
+      "summary": "Databricks is recruiting for a Deployment Strategist to join its new Forward Deployed Engineering team in India. This role serves as a primary link between corporate clients and technical staff, focusing on translating complex business challenges into functional AI solutions. The position oversees the entire project lifecycle, from initial sales consultations to the final delivery of production-ready products.",
+      "fetched_at": "2026-10-14T08:11:50.743911+00:00"
+    },
+    {
+      "id": "71e44d6d0a32a4395894e9ca",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "10 Sci-Fi Books You Need to Read Before You Die",
+      "url": "https://www.polygon.com/essential-sci-fi-books-you-need-to-read-at-least-once-in-your-life/",
+      "summary": "The ultimate reading list for mind-bending, genre-defining speculative fiction.",
+      "fetched_at": "2026-10-14T08:12:10.356441+00:00"
+    },
+    {
+      "id": "84ec2f029bb2764cef91e0fa",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+      "url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+      "summary": "",
+      "fetched_at": "2026-10-14T08:12:30.382058+00:00"
+    },
+    {
+      "id": "ee60d9c87447fc6d7103919d",
+      "source": "We Work Remotely",
+      "category": "Remote Work",
+      "title": "Tailscale: Brand Designer",
+      "url": "https://weworkremotely.com/remote-jobs/tailscale-brand-designer",
+      "summary": "Headquarters: Remote (Canada) Thank you for considering Tailscale. If this job description resonates with you, please apply.&nbsp; Frequently cited statistics show that people who identify with historically marginalized ...",
+      "fetched_at": "2026-10-14T08:12:50.841706+00:00"
+    },
+    {
+      "id": "8f82d548d1595348892a59c3",
+      "source": "The Daily Star",
+      "category": "Bangladesh News",
+      "title": "The forgotten art of Bengali advertising",
+      "url": "https://www.thedailystar.net/slow-reads/focus/news/the-forgotten-art-bengali-advertising-4177626",
+      "summary": "A retrospective analysis examines the evolution of Bengali advertising, highlighting unique promotional methods that have largely disappeared from the public sphere. These historical techniques once included rhythmic street performances in rural markets and advertisements printed on everyday items like tram tickets.",
+      "fetched_at": "2026-10-14T08:13:13.748913+00:00"
+    },
+    {
+      "id": "90ac7d356a64af0667926fdc",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Bitcoin climbs toward $84,000 after Fed’s Williams sees no rate hikes in 2027",
+      "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+      "summary": "",
+      "fetched_at": "2026-10-14T08:13:21.102094+00:00"
+    },
+    {
+      "id": "b577181ec2515a1508d0517c",
+      "source": "We Work Remotely",
+      "category": "Remote Work",
+      "title": "Databricks: Delivery Solutions Architect - Startups & Emerging Enterprise",
+      "url": "https://weworkremotely.com/remote-jobs/databricks-delivery-solutions-architect-startups-emerging-enterprise",
+      "summary": "Databricks is hiring a Delivery Solutions Architect to manage growth and implementation for its startup and emerging enterprise clients. This remote-friendly position requires a mix of technical and commercial skills to help customers maximize the utility of the company's data platform. The role focuses on collaborating with internal departments to ensure successful platform adoption and high returns for complex accounts.",
+      "fetched_at": "2026-10-14T08:13:50.973579+00:00"
+    },
+    {
+      "id": "3ae3e8f9f70ea10ffa42a395",
+      "source": "Grist",
+      "category": "Climate",
+      "title": "In New Mexico, a river runs through ‘the middle of a hellscape’",
+      "url": "https://grist.org/accountability/new-mexico-oil-and-gas-wells-threaten-beautiful-river-in-the-middle-of-a-hellscape/",
+      "summary": "",
+      "fetched_at": "2026-10-14T08:14:11.189167+00:00"
+    },
+    {
+      "id": "22ce796e1adfb92c993f09e4",
+      "source": "The Daily Star",
+      "category": "Bangladesh News",
+      "title": "India’s top-heavy boom and the lesson for Bangladesh",
+      "url": "https://www.thedailystar.net/slow-reads/big-picture/news/indias-top-heavy-boom-and-the-lesson-bangladesh-4168031",
+      "summary": "A former Bangladeshi diplomat shared insights on India’s economic development following an extensive period of travel and observation across several Indian states. The analysis examines the nature of India’s rapid growth and aims to provide strategic lessons for Bangladesh’s own economic path.",
+      "fetched_at": "2026-10-14T08:14:15.587646+00:00"
+    },
+    {
+      "id": "8d44852ef2eb9d52d547fc2c",
+      "source": "MarketWatch Top Stories",
+      "category": "Finance",
+      "title": "The SpaceX threat could loom over AT&T’s stock for a prolonged stretch, analyst cautions",
+      "url": "https://www.marketwatch.com/story/the-spacex-threat-could-loom-over-at-ts-stock-for-a-prolonged-stretch-analyst-cautions-71436853?mod=mw_rss_topstories",
+      "summary": "Bernstein analyst Laurent Yoon no longer recommends any of the major telecommunications stocks as he warns of more volatility ahead.",
+      "fetched_at": "2026-10-14T08:14:15.587679+00:00"
+    },
+    {
+      "id": "ddef601646b1c8df080a277d",
+      "source": "We Work Remotely",
+      "category": "Remote Work",
+      "title": "Lattice: Lead Product Manager",
+      "url": "https://weworkremotely.com/remote-jobs/lattice-lead-product-manager",
+      "summary": "Headquarters: Remote - Canada What You Will Do We are looking for a Lead Product Manager to own the future of the Lattice MCP (Model Context Protocol) server and the integrations that power Lattice AI. This is the connec...",
+      "fetched_at": "2026-10-14T08:14:15.587694+00:00"
+    },
+    {
+      "id": "42df10b3e8447b1cb0806021",
+      "source": "We Work Remotely",
+      "category": "Remote Work",
+      "title": "Lattice: Ecosystem Marketing Lead",
+      "url": "https://weworkremotely.com/remote-jobs/lattice-ecosystem-marketing-lead",
+      "summary": "Headquarters: Remote - US This role owns how Lattice turns its partner and integration ecosystem into a GTM advantage. It goes beyond traditional HR partnerships: the goal is to build relationships and joint go-to-market...",
+      "fetched_at": "2026-10-14T08:14:15.587710+00:00"
+    },
+    {
+      "id": "c9b254d654749a2293c58fcb",
+      "source": "We Work Remotely",
+      "category": "Remote Work",
+      "title": "Coinbase: Associate General Counsel, Privacy",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-associate-general-counsel-privacy",
+      "summary": "Headquarters: Remote - Ireland Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and w...",
+      "fetched_at": "2026-10-14T08:14:15.587729+00:00"
+    },
+    {
+      "id": "65bea2eee7333256cd5f8361",
+      "source": "We Work Remotely",
+      "category": "Remote Work",
+      "title": "Coinbase: Analyst, Privacy (Privacy Assessments)",
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-analyst-privacy-privacy-assessments",
+      "summary": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we li...",
+      "fetched_at": "2026-10-14T08:14:15.587746+00:00"
+    },
+    {
+      "id": "12c6f50cad5b21aa96b825ce",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "Sent the wrong invoice to a MAJOR newspaper. They paid it. In full. $600. Anyone?",
+      "url": "https://www.reddit.com/r/freelance/comments/1wxvn3c/sent_the_wrong_invoice_to_a_major_newspaper_they/",
+      "summary": "This weekend I saw an envelope in my mailbox, which I knew would contain a check from a major publisher. I needed the $350, so I was glad the check had arrived quickly. I opened the envelope to find a check for $600. Tur...",
+      "fetched_at": "2026-10-14T08:14:15.587756+00:00"
+    },
+    {
+      "id": "ed7d80d4d2595bb1191d47a4",
+      "source": "We Work Remotely",
+      "category": "Remote Work",
+      "title": "Yubico Inc.: Enterprise Account Director, West",
+      "url": "https://weworkremotely.com/remote-jobs/yubico-inc-enterprise-account-director-west",
+      "summary": "Headquarters: San Franciscio Bay Area Remote Meet Yubico Yubico is a global leader in identity security and creator of the YubiKey, the original hardware-backed passkey. We are publicly traded on Nasdaq Stockholm; our gl...",
+      "fetched_at": "2026-10-14T08:14:15.587765+00:00"
+    },
+    {
+      "id": "1facc98571e976a6c16c091a",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "বদলে যাওয়া জীবনের গল্প: ১৪ বছরে লাখো মানুষের মুখে হাসি ফুটিয়েছে মাস্তুল ফাউন্ডেশন",
+      "url": "https://www.prothomalo.com/bangladesh/3k2ii13ih4",
+      "summary": "পথশিশুদের পড়ানোর একটি ছোট উদ্যোগ থেকে শুরু হওয়া মাস্তুল ফাউন্ডেশনের কার্যক্রম এখন দেশের বিভিন্ন শ্রেণি-পেশার মানুষের জন্য বহুমুখী সেবামূলক কার্যক্রমে রূপ নিয়েছে।",
+      "fetched_at": "2026-10-14T08:14:15.587771+00:00"
+    },
+    {
+      "id": "1382a093ee91866db4fcece9",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "contract got paused after 1 month, should i take another freelance gig?",
+      "url": "https://www.reddit.com/r/freelance/comments/1wxx5sy/contract_got_paused_after_1_month_should_i_take/",
+      "summary": "so Im 1 month into a freelance gig doing community marketing for early stage SaaS, contract is 20 hrs/week. then i found an error in one of the paid tools the founder bought for me to use, and long story short my contrac...",
+      "fetched_at": "2026-10-14T08:14:15.587777+00:00"
+    },
+    {
+      "id": "68474e708c61f65c792e5612",
+      "source": "We Work Remotely",
+      "category": "Remote Work",
+      "title": "Typeform: Senior Account Executive",
+      "url": "https://weworkremotely.com/remote-jobs/typeform-senior-account-executive",
+      "summary": "Headquarters: United Kingdom (Remote) Who we are Typeform is a refreshingly different form builder. We help over 150,000 businesses collect the data they need with forms, surveys, and quizzes that people enjoy. Designed ...",
+      "fetched_at": "2026-10-14T08:14:15.587787+00:00"
+    },
+    {
+      "id": "55b66ec9bf41b2e0990fc19d",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "‘দৃশ্যম’–এর চেয়ে ভালো! কোন সিনেমা দেখে এ কথা বলছেন দর্শকেরা",
+      "url": "https://www.prothomalo.com/entertainment/ott/psna3vpcsq",
+      "summary": "অল্প বাজেটে নির্মিত সিনেমাটি গত মাসে প্রেক্ষাগৃহে মুক্তির পর দুর্দান্ত ব্যবসা করে। ৯ অক্টোবর এসেছে ওটিটিতেও। সিনেমাটি দেখার পর অনেক দর্শকের মন্তব্য—‘দৃশ্যম’–এর চেয়ে ভালো!",
+      "fetched_at": "2026-10-14T08:14:15.587792+00:00"
+    },
+    {
+      "id": "0a35a05a7e63585ff57c3e34",
+      "source": "We Work Remotely",
+      "category": "Remote Work",
+      "title": "Gong.io: Sr. Manager, Enterprise Revenue Architect",
+      "url": "https://weworkremotely.com/remote-jobs/gong-io-sr-manager-enterprise-revenue-architect",
+      "summary": "Headquarters: Austin | Chicago | New York City | Salt Lake City | San Francisco | Remote (US) Gong harnesses the power of AI to transform how revenue teams win. The Gong Revenue AI Operating System unifies data, insights...",
+      "fetched_at": "2026-10-14T08:14:15.587805+00:00"
+    },
+    {
+      "id": "32ca8478f6cee3b8d9e293d5",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "সিজেপির দুই নেতাকে ৫ দিনের জেল হেফাজত, প্রতিক্রিয়ায় মোদিকে আবারও ‘কাপুরুষ’ বললেন দিপকে",
+      "url": "https://www.prothomalo.com/world/india/k9d1vau31y",
+      "summary": "সিজেপির তিন নেতাকে দিনভর আটক রাখার পর গভীর রাতে গ্রেপ্তার দেখানো হয়। সিজেপির অভিযোগ, ওই দীর্ঘ সময় সিজেপি নেতাদের সঙ্গে আইনজীবীদের দেখা করতে দেওয়া হয়নি।",
+      "fetched_at": "2026-10-14T08:14:15.587810+00:00"
+    },
+    {
+      "id": "187abc61956b7f2be0987798",
+      "source": "We Work Remotely",
+      "category": "Remote Work",
+      "title": "Airtable: Account Executive, Corporate",
+      "url": "https://weworkremotely.com/remote-jobs/airtable-account-executive-corporate",
+      "summary": "Headquarters: Remote - US Airtable helps organizations build the applications and workflows they need to run their most important business processes, without being constrained by off-the-shelf software. Its flexible plat...",
+      "fetched_at": "2026-10-14T08:14:15.587819+00:00"
+    },
+    {
+      "id": "7a4b027ba85a95eb7406fea2",
+      "source": "Grist",
+      "category": "Climate",
+      "title": "Powering data centers on nuclear? That’s a tough sell in Utah’s coal country.",
+      "url": "https://grist.org/accountability/data-centers-utah-smr-gas-beehive-jurassic-spark/",
+      "summary": "",
+      "fetched_at": "2026-10-14T08:14:15.587822+00:00"
+    },
+    {
+      "id": "0e7b9f6115c3d3d36362d94e",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "ওপেনএআই ও অ্যানথ্রপিককে টেক্কা দিতে নতুন এআই মডেল আনল মেটা",
+      "url": "https://www.prothomalo.com/technology/artificial-intelligence/ap06til0mn",
+      "summary": "কৃত্রিম বুদ্ধিমত্তা (এআই) মডেল তৈরির প্রতিযোগিতায় ওপেনএআই ও অ্যানথ্রপিককে টেক্কা দিতে নতুন দুটি উন্নত এআই মডেল উন্মোচন করেছে মেটা।",
+      "fetched_at": "2026-10-14T08:14:15.587826+00:00"
+    },
+    {
+      "id": "2fce327518e8f9e5f2922b2f",
+      "source": "We Work Remotely",
+      "category": "Remote Work",
+      "title": "Gong.io: Lead Enterprise Revenue Architect (Customer Success)",
+      "url": "https://weworkremotely.com/remote-jobs/gong-io-lead-enterprise-revenue-architect-customer-success",
+      "summary": "Headquarters: Remote (US) Gong harnesses the power of AI to transform how revenue teams win. The Gong Revenue AI Operating System unifies data, insights, and workflows into a single, trusted system that observes, guides,...",
+      "fetched_at": "2026-10-14T08:14:15.587836+00:00"
+    },
+    {
+      "id": "76d0d9ee996b42f14f677a98",
+      "source": "Grist",
+      "category": "Climate",
+      "title": "The Northeast’s reliance on heating oil is turning into a crisis",
+      "url": "https://grist.org/solutions/the-northeasts-reliance-on-heating-oil-is-turning-into-a-crisis/",
+      "summary": "",
+      "fetched_at": "2026-10-14T08:14:15.587839+00:00"
+    },
+    {
+      "id": "83145410974971285e75e8ec",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "টঙ্গীতে ওষুধ কারখানায় আগুন",
+      "url": "https://www.prothomalo.com/bangladesh/district/ttnggiite-ossudh-kaarkhaanaayy-aagun",
+      "summary": "টঙ্গীতে ওষুধ কারখানায় আগুন",
+      "fetched_at": "2026-10-14T08:14:15.587842+00:00"
+    },
+    {
+      "id": "ab33be77523ac2db27db837b",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "Is there ever a point in negotiating if you're not willing to walk away?",
+      "url": "https://www.reddit.com/r/freelance/comments/1wp9v5t/is_there_ever_a_point_in_negotiating_if_youre_not/",
+      "summary": "Here's my situation: I work as a freelance musician, and there's one bar that I've been playing at regularly for a year. The fee is a bit low, costs around me are going up, I know that the bar manager trusts in my abilit...",
+      "fetched_at": "2026-10-14T08:14:15.587846+00:00"
+    },
+    {
+      "id": "54674906b3b3f60074fbe23d",
+      "source": "We Work Remotely",
+      "category": "Remote Work",
+      "title": "Yubico Inc.: Channel Account Manager",
+      "url": "https://weworkremotely.com/remote-jobs/yubico-inc-channel-account-manager",
+      "summary": "Headquarters: US Remote Meet Yubico Yubico is a global leader in identity security and creator of the YubiKey, the original hardware-backed passkey. We are publicly traded on Nasdaq Stockholm; our global footprint includ...",
+      "fetched_at": "2026-10-14T08:14:15.587855+00:00"
+    },
+    {
+      "id": "5fb1e7db14253010a1032514",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "কমিউনিটি ব্যাংকে কাস্টমার সার্ভিস এক্সিকিউটিভ পদে চাকরি, বেতন ২৬ হাজার টাকা",
+      "url": "https://www.prothomalo.com/chakri/employment/tzrah2pd8h",
+      "summary": "কমিউনিটি ব্যাংক বাংলাদেশ পিএলসি কাস্টমার সার্ভিস এক্সিকিউটিভ পদে জনবল নিয়োগ দেবে। স্নাতক পাস প্রার্থীরা ৩১ অক্টোবর পর্যন্ত আবেদন করতে পারবেন। বেতন ২৬ হাজার টাকা।",
+      "fetched_at": "2026-10-14T08:14:15.587859+00:00"
+    },
+    {
+      "id": "41818b4d1f884f8501968649",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "Why do clients demand work immediately like they will die if not delivered urgently, but make the payments 2 months later ? Like our lives don’t depend on it ? So tired of this bullshit",
+      "url": "https://www.reddit.com/r/freelance/comments/1wlam42/why_do_clients_demand_work_immediately_like_they/",
+      "summary": "All this when they call you at the 11th hour btw &#32; submitted by &#32; /u/minor_weather_98 [link] &#32; [comments]",
+      "fetched_at": "2026-10-14T08:14:15.587863+00:00"
+    },
+    {
+      "id": "2fe88dd12a56e1d1bdd6d67b",
+      "source": "TechCrunch Startups",
+      "category": "Startups",
+      "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
+      "url": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+      "summary": "Richualist is one of TechCrunch's Battlefield 200 Companies!",
+      "fetched_at": "2026-10-14T08:14:15.587869+00:00"
+    },
+    {
+      "id": "ef485c85f98deafa849066ac",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "আজকের বিনিময় হার",
+      "url": "https://www.prothomalo.com/business/bank/ua1crd234l",
+      "summary": "আজ প্রকাশিত বাংলাদেশ ব্যাংকের তথ্যানুসারে, বাজারে ডলারের গড় দাম কিছুটা বেড়েছে। ডলারের গড় দাম ১২৩ টাকা ৪৫ পয়সা।",
+      "fetched_at": "2026-10-14T08:14:15.587876+00:00"
+    },
+    {
+      "id": "970eac1b533fa1c974a1e9f5",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "I cried on a client call today",
+      "url": "https://www.reddit.com/r/freelance/comments/1wjvyxi/i_cried_on_a_client_call_today/",
+      "summary": "I’m a freelance web designer and developer working on a website project for a clients. I always set my conditions before starting. The thing is, I’m wearing a lot of hats on this project. I’m not only doing the design/de...",
+      "fetched_at": "2026-10-14T08:14:15.587879+00:00"
+    },
+    {
+      "id": "f17ba0329acde2e360dc8fd4",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "জিয়ারত করতে গিয়ে দেখেন বাবার কবরের চিহ্নও নেই, কান্না থামছে না জাকির হোসেনের",
+      "url": "https://www.prothomalo.com/bangladesh/district/2oui6c1lv7",
+      "summary": "‘কবরটা ভাঙনের পর বুকের মইধ্যে যেন পাথর চাপি বসছে। এখন আব্বার কবরের চিহ্ন আর নাই। এই জীবনে আর আব্বার কবরে যাই জিয়ারতের সুযোগ থাইকল না।’",
+      "fetched_at": "2026-10-14T08:14:15.587889+00:00"
+    },
+    {
+      "id": "359b6894bde45b65d6c65509",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "Starknet introduces wallet privacy feature for DeFi activity",
+      "url": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Starknet’s Shadow Accounts allow users to obscure connections between their main wallets and DeFi activity, though transactions remain visible onchain.",
+      "fetched_at": "2026-10-14T08:14:15.587894+00:00"
+    },
+    {
+      "id": "42fb40324b36a2b72cff4872",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "এক কুমড়ার ওজন ১ হাজার ২৯৬ কেজি!",
+      "url": "https://www.bondhushava.com/feature/pv015xnezw",
+      "summary": "হ্যাম্পশায়ারের লিমিংটনের বাসিন্দা প্যাটন ৩ অক্টোবর তাঁর বিশালাকার কুমড়াটি নিয়ে যান বার্কশায়ারের ওয়ারগ্রেভ নার্সারিতে কুমড়া ওজন প্রতিযোগিতায়। গিনেস ওয়ার্ল্ড রেকর্ডসের একজন কর্মকর্তার উপস্থিতিতে কুমড়াটির ওজন মাপা হয়। কুমড়া...",
+      "fetched_at": "2026-10-14T08:14:15.587898+00:00"
+    },
+    {
+      "id": "5f12ff9901e9e503fd4a1f3b",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "Fed’s Williams sees AI supply squeeze lasting beyond 2 years",
+      "url": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "New York Fed President John Williams’ comments came as he reaffirmed his view that the US Federal Reserve may need to raise interest rates once more this year.",
+      "fetched_at": "2026-10-14T08:14:15.587905+00:00"
+    },
+    {
+      "id": "071e55c94cfac0ce07cd2883",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "ধর্মঘট ডেকে এলপিজির বাজার অস্থির করলে আইনগত ব্যবস্থা: জ্বালানিমন্ত্রী",
+      "url": "https://www.prothomalo.com/bangladesh/mfpyhrbke3",
+      "summary": "এলপিজি ব্যবসায়ীদের দুই দিনের ধর্মঘটের ঘোষণার মধ্যে জ্বালানিমন্ত্রী ইকবাল হাসান মাহমুদ বলেছেন, বাজার অস্থির করার চেষ্টা হলে সরকার আইনগত ব্যবস্থা নেবে।",
+      "fetched_at": "2026-10-14T08:14:15.587908+00:00"
+    },
+    {
+      "id": "6ba372bcf2f60efb4878784a",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "ইউনাইটেডে লিসান্দ্রো–বোমা, রুনির শঙ্কা, ঐক্য চূর্ণবিচূর্ণ হবে",
+      "url": "https://www.prothomalo.com/sports/football/3octqobwdj",
+      "summary": "চ্যাম্পিয়নস লিগে গতকাল রাতে আতলেতিকো মাদ্রিদের কাছে হারের পর ম্যানচেস্টার ইউনাইটেডের কর্মকর্তাদের প্রতি ক্ষোভ প্রকাশ করেন লিসান্দ্রো মার্তিনেজ।",
+      "fetched_at": "2026-10-14T08:14:15.587917+00:00"
+    },
+    {
+      "id": "ff7e2e9cd4948bd4b0a06c5c",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "মুঠোফোন চার্জে লাগিয়ে গেম খেলছিলেন যুবক, বিস্ফোরণে খণ্ডবিখণ্ড ডিসপ্লে–ব্যাটারি, আহত ২",
+      "url": "https://www.prothomalo.com/bangladesh/district/3rvlxblrsx",
+      "summary": "রুবেলের চোখ ও মুখমণ্ডলের আঘাত অত্যন্ত গুরুতর। বিস্ফোরণের ফলে চোখের ভেতরের অংশে মারাত্মক ক্ষতি হয়েছে। তাই প্রাথমিক চিকিৎসা দিয়েই তাঁকে ঢাকায় নিয়ে যেতে বলা হয়।",
+      "fetched_at": "2026-10-14T08:14:15.587924+00:00"
+    },
+    {
+      "id": "ea44b348b5930976b1bbffb9",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "হুতিদের বিরুদ্ধে লড়াইয়ে যোগ দেওয়ার প্রস্তাব ইসরায়েলের, প্রত্যাখ্যান করলেন সৌদি যুবরাজ",
+      "url": "https://www.prothomalo.com/world/middle-east/fk7fz41ap5",
+      "summary": "যুক্তরাষ্ট্রের মধ্যস্থতায় রিয়াদের সম্মতি পাওয়ার চেষ্টা করছে ইসরায়েল। সামরিক সহযোগিতার মধ্য দিয়ে দুই দেশের সম্পর্ক স্বাভাবিক করার পথ সুগম হতে পারে, এমনটাই আশা দেশটির।",
+      "fetched_at": "2026-10-14T08:14:15.587931+00:00"
+    },
+    {
+      "id": "93f6698d4e313b8d0f5a591c",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "স্বপ্রণোদিত ব্যবস্থা নেওয়া, সাংবাদিকদের নিবন্ধন, শিক্ষাগত যোগ্যতা নির্ধারণসহ নানা ক্ষমতা চায় প্রেস কাউন্সিল",
+      "url": "https://www.prothomalo.com/bangladesh/k0tlh53wxy",
+      "summary": "",
+      "fetched_at": "2026-10-14T08:14:15.587938+00:00"
+    },
+    {
+      "id": "126ea520c89e9e5778fd34d2",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "‘মাদকের টাকা না দেওয়ায়’ ছেলের ছুরিকাঘাতে মা নিহত, রক্ষা করতে গিয়ে বাবা আহত",
+      "url": "https://www.prothomalo.com/bangladesh/district/agvtvhxecl",
+      "summary": "কুড়িগ্রাম সদর উপজেলায় বসতঘর থেকে এক নারীর রক্তাক্ত মরদেহ উদ্ধার করেছে পুলিশ।",
+      "fetched_at": "2026-10-14T08:14:15.587947+00:00"
+    },
+    {
+      "id": "2726b89a12965db3c297167f",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Why Sweden is abandoning its cashless society",
+      "url": "https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html",
+      "summary": "Article URL: https://uk.news.yahoo.com/why-sweden-abandoning-cashless-society-070000442.html Comments URL: https://news.ycombinator.com/item?id=50083766 Points: 8 # Comments: 2",
+      "fetched_at": "2026-10-14T08:14:15.587958+00:00"
+    },
+    {
+      "id": "7ed4a2928d8dfec9b68dc305",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "url": "https://github.com/android/ndk/issues/2260",
+      "summary": "Article URL: https://github.com/android/ndk/issues/2260 Comments URL: https://news.ycombinator.com/item?id=50083130 Points: 170 # Comments: 59",
+      "fetched_at": "2026-10-14T08:14:15.587964+00:00"
+    },
+    {
+      "id": "1095aec093d86b3ead94b17c",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+      "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran Comments URL: https://news.ycombinator.com/item?id=50069329 Points: 450 # Comments: 250",
+      "fetched_at": "2026-10-14T08:14:15.587967+00:00"
+    },
+    {
+      "id": "972db8dd889af32be6527df5",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Felix Rieseberg Homepage",
+      "url": "https://felixrieseberg.com/",
+      "summary": "Article URL: https://felixrieseberg.com/ Comments URL: https://news.ycombinator.com/item?id=50082470 Points: 167 # Comments: 56",
+      "fetched_at": "2026-10-14T08:14:15.587972+00:00"
+    },
+    {
+      "id": "9ee1a2fbdef4f83b47716953",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Do Frameworks Matter Anymore?",
+      "url": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
+      "summary": "Article URL: https://brookslybrand.com/posts/do-frameworks-matter-anymore/ Comments URL: https://news.ycombinator.com/item?id=50081092 Points: 44 # Comments: 26",
+      "fetched_at": "2026-10-14T08:14:15.587977+00:00"
+    },
+    {
+      "id": "ea9ac065d467df41a72cc32d",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "Hittite royal archive found in Turkey",
+      "url": "https://www.thehistoryblog.com/archives/77107",
+      "summary": "Article URL: https://www.thehistoryblog.com/archives/77107 Comments URL: https://news.ycombinator.com/item?id=50067414 Points: 368 # Comments: 87",
+      "fetched_at": "2026-10-14T08:14:15.587980+00:00"
+    },
+    {
+      "id": "32915c40a2f56aec5e29b5d2",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Grace Hopper Celebration Cancelled",
+      "url": "https://anitab.org/press-release",
+      "summary": "Article URL: https://anitab.org/press-release Comments URL: https://news.ycombinator.com/item?id=50080007 Points: 156 # Comments: 62",
+      "fetched_at": "2026-10-14T08:14:15.587984+00:00"
+    },
+    {
+      "id": "3bee829bfae20370b6234753",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "summary": "Article URL: https://yyhh.org/blog/2026/10/ai-is-a-tool/ Comments URL: https://news.ycombinator.com/item?id=50063427 Points: 667 # Comments: 534",
+      "fetched_at": "2026-10-14T08:14:15.587988+00:00"
+    },
     {
       "id": "4537184b4ce57ae477c35d3f",
       "source": "TechCrunch",
@@ -2171,537 +2702,6 @@
       "url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
       "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
       "fetched_at": "2026-10-13T12:24:06.096131+00:00"
-    },
-    {
-      "id": "886fc359af1f9ee2b465b5b7",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "Live updates: Bitcoin continues in tight range near $83,000, recovering from overnight slide",
-      "url": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
-      "summary": "",
-      "fetched_at": "2026-10-13T12:24:06.096135+00:00"
-    },
-    {
-      "id": "e624144a7f7ff0a15523ac44",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Webflow: Senior Manager, AI Customer Success",
-      "url": "https://weworkremotely.com/remote-jobs/webflow-senior-manager-ai-customer-success",
-      "summary": "Headquarters: U.S. Remote Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth and stre...",
-      "fetched_at": "2026-10-13T12:24:06.096139+00:00"
-    },
-    {
-      "id": "a0ad70e4fb4bbedfeabec7c7",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "'The X-Files' Creator is Officially Releasing an Ambitious New Time-Travel Movie",
-      "url": "https://www.polygon.com/the-x-files-creator-chris-carter-queens-for-a-day/",
-      "summary": "Chris Carter, the creator of The X-Files, is releasing a new comedy called Queens for a Day, which will available via limited screenings",
-      "fetched_at": "2026-10-13T12:24:06.096147+00:00"
-    },
-    {
-      "id": "b576e14fc3c84c415077867e",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "A SpaceX launch shortage is fueling a $100 billion investing spree",
-      "url": "https://www.marketwatch.com/story/a-spacex-launch-shortage-is-fueling-a-100-billion-investing-spree-25b7d043?mod=mw_rss_topstories",
-      "summary": "A commercial-launch bottleneck has spurred an unprecedented wave of investment in space infrastructure and applications",
-      "fetched_at": "2026-10-13T12:24:06.096150+00:00"
-    },
-    {
-      "id": "05c0327a67bb8a9ed5f4488c",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
-      "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
-      "summary": "",
-      "fetched_at": "2026-10-13T12:24:06.096159+00:00"
-    },
-    {
-      "id": "8d367c0a9c9b85d425a17308",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Prove: Senior Director, Global Support",
-      "url": "https://weworkremotely.com/remote-jobs/prove-senior-director-global-support",
-      "summary": "Headquarters: United States (Remote) About Prove&nbsp; As the world moves to a mobile-first economy, businesses need to modernize how they acquire, engage with and enable consumers. Prove’s phone-centric identity tokeniz...",
-      "fetched_at": "2026-10-13T12:24:06.096164+00:00"
-    },
-    {
-      "id": "d5622461710779b31239d586",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "Critical Role's New Canon Campaign Will Feature VTuber Stars",
-      "url": "https://www.polygon.com/critical-role-shattered-legends-vtubers-hololive-daggerheart/",
-      "summary": "Critical Role is partnering with Hololive for Shattered Legends, a new Daggerheart campaign that will be canon for the world of Exandria.",
-      "fetched_at": "2026-10-13T12:24:06.096171+00:00"
-    },
-    {
-      "id": "28af2155c9f92f98a0c62d33",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "Options traders expect wild stock-market swings beginning later this month. Here are 4 things to watch.",
-      "url": "https://www.marketwatch.com/story/options-traders-expect-wild-stock-market-swings-beginning-later-this-month-here-are-4-things-to-watch-e4931b02?mod=mw_rss_topstories",
-      "summary": "After an eventful summer, U.S. stocks appear to have hit a pocket of calm. Over the past few sessions, trading volume has dwindled, while major indexes have mostly drifted sideways.",
-      "fetched_at": "2026-10-13T12:24:06.096176+00:00"
-    },
-    {
-      "id": "832f76b882c68cc6bcab30f1",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
-      "url": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
-      "summary": "",
-      "fetched_at": "2026-10-13T12:24:06.096186+00:00"
-    },
-    {
-      "id": "6b74c9cdf12828f3fef05adc",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Elation Health: Account Executive, Small Group",
-      "url": "https://weworkremotely.com/remote-jobs/elation-health-account-executive-small-group",
-      "summary": "Headquarters: US-Remote Our team is committed to enhancing physician and patient quality of life through Elation, a SaaS cloud-based clinical platform. Since inception, we’ve been focused on building a world-class techno...",
-      "fetched_at": "2026-10-13T12:24:06.096190+00:00"
-    },
-    {
-      "id": "6c36fe2c2ba918c71199d08f",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "Prime Video's Epic New Game of Thrones Replacement Is Officially 3 Months Away",
-      "url": "https://www.polygon.com/bloodaxe-episode-1-prime-video/",
-      "summary": "With Bloodaxe, Amazon might just have a new Game of Thrones-level hit on its hands",
-      "fetched_at": "2026-10-13T12:24:06.096196+00:00"
-    },
-    {
-      "id": "798499b3b96cc97aa4a24778",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "UnitedHealth keeps medical costs under control — and raises its outlook again",
-      "url": "https://www.marketwatch.com/story/unitedhealth-keeps-medical-costs-under-control-and-raises-its-outlook-again-71abc99c?mod=mw_rss_topstories",
-      "summary": "The health-insurance giant said its medical-cost ratio was 88.4% in the third quarter of this year as the company tries to rein in spending on medical care.",
-      "fetched_at": "2026-10-13T12:24:06.096200+00:00"
-    },
-    {
-      "id": "077a725d87964c4ca4ac98b3",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin",
-      "url": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
-      "summary": "",
-      "fetched_at": "2026-10-13T12:24:06.096210+00:00"
-    },
-    {
-      "id": "16f63122c9e2d6188d54cf2d",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Collibra: General Manager, Collibra Public Sector",
-      "url": "https://weworkremotely.com/remote-jobs/collibra-general-manager-collibra-public-sector",
-      "summary": "Headquarters: Remote, East Coast USA Collibra is the Enterprise AI Control Plane. Built over eighteen years of meta-data and ontology engineering, Collibra governs context and control across any data storage system, AI m...",
-      "fetched_at": "2026-10-13T12:24:06.096213+00:00"
-    },
-    {
-      "id": "b865b97e7579febb9dff01ab",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "সেঞ্চুরিয়ান আতালকে ফেরানোর পর টানা দুই বলে রানআউট মিস করল বাংলাদেশ",
-      "url": "https://www.prothomalo.com/sports/cricket/zl72bxefan",
-      "summary": "আবুধাবির শেখ জায়েদ ক্রিকেট স্টেডিয়ামে একমাত্র টেস্টে বাংলাদেশের মুখোমুখি আফগানিস্তান। এই ম্যাচের লাইভ বিবরণ ও বিশ্লেষণ জানতে চোখ রাখুন এখানে।",
-      "fetched_at": "2026-10-13T12:24:06.096219+00:00"
-    },
-    {
-      "id": "d1a61f11c2e1ef0d0d3c524d",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "Castlevania: Belmont’s Curse Is a Near-Perfect Metroidvania",
-      "url": "https://www.polygon.com/castlevania-belmonts-curse-review/",
-      "summary": "'Castlevania: Belmont's Curse' lives up to this series' lofty legacy with outstanding platforming, world design, and ambiance.",
-      "fetched_at": "2026-10-13T12:24:06.096223+00:00"
-    },
-    {
-      "id": "9d2492b01de969ed01c7c64c",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
-      "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
-      "summary": "",
-      "fetched_at": "2026-10-13T12:24:06.096234+00:00"
-    },
-    {
-      "id": "4e87d3ed961bebfa8356b9b0",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Melio: Senior Talent Acquisition Partner (Contract)",
-      "url": "https://weworkremotely.com/remote-jobs/melio-senior-talent-acquisition-partner-contract",
-      "summary": "Headquarters: Remote, US Senior Talent Acquisition Partner (Contract) Location: Remote (required to live in one of the following states: AZ, CA, CO, FL, GA, IL, MI, MN, NY, NC, TX, UT, VT) Duration: 6 month contract Qual...",
-      "fetched_at": "2026-10-13T12:24:06.096238+00:00"
-    },
-    {
-      "id": "d37c74d3020c05173a8bb44e",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "এসএসসিতে ২ বিষয়ে ফেল, ১৫ দিনে পুনঃপরীক্ষা",
-      "url": "https://www.prothomalo.com/education/esessite-2-bissyye-phel-15-dine-punhpriikssaa",
-      "summary": "এসএসসিতে ২ বিষয়ে ফেল, ১৫ দিনে পুনঃপরীক্ষা",
-      "fetched_at": "2026-10-13T12:24:06.096244+00:00"
-    },
-    {
-      "id": "7bf3ff486f004deedb75a37c",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "What to expect from Europe’s most valuable company before it kicks off tech earnings",
-      "url": "https://www.marketwatch.com/story/what-to-expect-from-europes-most-valuable-company-before-it-kicks-off-tech-earnings-a6272cc0?mod=mw_rss_topstories",
-      "summary": "ASML will report its third-quarter financial earnings before the opening bell in Amsterdam, Netherlands on Wednesday.",
-      "fetched_at": "2026-10-13T12:24:06.096250+00:00"
-    },
-    {
-      "id": "3ab34f78f5443692d00b31ae",
-      "source": "TechCrunch",
-      "category": "AI & Tech",
-      "title": "Will the HomeView be Apple’s first smart home success?",
-      "url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-      "fetched_at": "2026-10-13T12:24:06.096256+00:00"
-    },
-    {
-      "id": "987ed1160e83e45cf7046fcd",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
-      "url": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
-      "summary": "",
-      "fetched_at": "2026-10-13T12:24:06.096262+00:00"
-    },
-    {
-      "id": "06a42d176f11b47fe2dedcb0",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Tebra: Product Marketing Manager (TEMPORARY)",
-      "url": "https://weworkremotely.com/remote-jobs/tebra-product-marketing-manager-temporary",
-      "summary": "Headquarters: United States - Remote Tebra only initiates contact with candidates via email from an official Tebra email address (@ tebra.com , @ patientpop.com , or @ kareo.com ) or through our applicant tracking system...",
-      "fetched_at": "2026-10-13T12:24:06.096265+00:00"
-    },
-    {
-      "id": "bd196f8e69b31bc22018512a",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "মোদি শাসনের এটাই কি শেষের শুরু",
-      "url": "https://www.prothomalo.com/opinion/column/94d6hw9div",
-      "summary": "মোদির আমলে সমস্যাগুলো যেন জাহাজের তলায় জমে থাকা শেওলা আর পোকামাকড়ের মতো জমতে জমতে পাহাড় সমতুল্য হয়েছে।",
-      "fetched_at": "2026-10-13T12:24:06.096271+00:00"
-    },
-    {
-      "id": "445ae97229e058f50195c1ed",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register be...",
-      "fetched_at": "2026-10-13T12:24:06.096281+00:00"
-    },
-    {
-      "id": "3e2710928bf1c3a0369a6d12",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
-      "url": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
-      "summary": "",
-      "fetched_at": "2026-10-13T12:24:06.096284+00:00"
-    },
-    {
-      "id": "1296706050894b93bcd0882c",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Tebra: Data Engineer",
-      "url": "https://weworkremotely.com/remote-jobs/tebra-data-engineer",
-      "summary": "Headquarters: United States - Remote Tebra only initiates contact with candidates via email from an official Tebra email address (@ tebra.com , @ patientpop.com , or @ kareo.com ) or through our applicant tracking system...",
-      "fetched_at": "2026-10-13T12:24:06.096288+00:00"
-    },
-    {
-      "id": "f34598cdc835c33c43430fc7",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "অস্ট্রেলিয়ার রেনশর ম্যাচে প্রথম হার দেখলেন অধিনায়ক বাভুমা",
-      "url": "https://www.prothomalo.com/sports/cricket/qdjx2anl2a",
-      "summary": "প্রথম ইনিংসে তিনি ১৯০ রান তো করেছিলেন, দ্বিতীয় ইনিংসেও তাঁর ব্যাট থেকে এসেছে ৮২ রান।",
-      "fetched_at": "2026-10-13T12:24:06.096293+00:00"
-    },
-    {
-      "id": "06535b7651909573a51da651",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "Bitcoin rebounds above $83,000, decoupling from tumbling Korean stocks",
-      "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
-      "summary": "",
-      "fetched_at": "2026-10-13T12:24:06.096302+00:00"
-    },
-    {
-      "id": "e376d706f57c6baa2df47e6b",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Mercury: Business Risk Officer",
-      "url": "https://weworkremotely.com/remote-jobs/mercury-business-risk-officer",
-      "summary": "Headquarters: San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States Mercury is building a complete finance stack for startups. We work hard to create the easiest and safest banking* expe...",
-      "fetched_at": "2026-10-13T12:24:06.096306+00:00"
-    },
-    {
-      "id": "115aceea5c511fc73ce8bf6b",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "বিশ্বজুড়ে স্মার্টফোন সরবরাহে ধস, সবচেয়ে বেশি স্মার্টফোন তৈরি করেছে যে প্রতিষ্ঠান",
-      "url": "https://www.prothomalo.com/technology/gadget/u00ov3tvvs",
-      "summary": "বিশ্ববাজারে স্মার্টফোনের সরবরাহে বড় ধরনের ধস নেমেছে।",
-      "fetched_at": "2026-10-13T12:24:06.096311+00:00"
-    },
-    {
-      "id": "2fabde67e8d726634ed5b352",
-      "source": "TechCrunch",
-      "category": "AI & Tech",
-      "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-      "url": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-      "summary": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
-      "fetched_at": "2026-10-13T12:24:06.096319+00:00"
-    },
-    {
-      "id": "e52122c585d8d922bfb1ef44",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Collibra: Collibra Public Sector Senior Account Executive, Federal Civilian Agencies",
-      "url": "https://weworkremotely.com/remote-jobs/collibra-collibra-public-sector-senior-account-executive-federal-civilian-agencies",
-      "summary": "Headquarters: Remote, USA Joining Collibra’s Public Sector team Make an impact at Collibra Public Sector by driving growth in US federal civilian agencies. This role will be responsible for selling Collibra's value and v...",
-      "fetched_at": "2026-10-13T12:24:06.096328+00:00"
-    },
-    {
-      "id": "59b07cacc41925d6e61c71a0",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "অপ্রতিম হত্যার বিচার চেয়ে মানববন্ধনে দাবি, বয়সের অজুহাতে কেউ যেন রেহাই না পায়",
-      "url": "https://www.prothomalo.com/bangladesh/district/rvzewqepcb",
-      "summary": "শিক্ষার্থীদের দাবি, অভিযুক্তদের বয়স ১৮ বছরের কম হলেও যেন কেউ আইনের ফাঁকফোকর দিয়ে পার পেয়ে না যায়, তা নিশ্চিত করতে হবে।",
-      "fetched_at": "2026-10-13T12:24:06.096334+00:00"
-    },
-    {
-      "id": "17ef2c32527e2df6c1227afc",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Mercury: Account Executive - Technology",
-      "url": "https://weworkremotely.com/remote-jobs/mercury-account-executive-technology",
-      "summary": "Headquarters: San Francisco, CA, New York, NY, Portland, OR, or Remote within United States At Mercury, building our customer base has been a wild and exciting adventure—and we’re just getting started. As we continue to ...",
-      "fetched_at": "2026-10-13T12:24:06.096346+00:00"
-    },
-    {
-      "id": "aee614e9b2fc57c578bada19",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "রংপুর-গাইবান্ধা শহর রক্ষার প্রস্তুতি কবে নেওয়া হবে",
-      "url": "https://www.prothomalo.com/opinion/column/s3mllnym1i",
-      "summary": "২০১৮ সালে তিস্তার একটি ঘটনা, যা ছিল খুবই ভয়ংকর। রংপুরের গঙ্গাচড়া উপজেলায় মহিপুর তিস্তা সেতুর প্রায় তিন কিলোমিটার উজানে আছে বিনবিনারচর।",
-      "fetched_at": "2026-10-13T12:24:06.096351+00:00"
-    },
-    {
-      "id": "69333b984c8fabe07adb73d6",
-      "source": "The Verge",
-      "category": "AI & Tech",
-      "title": "Character.AI files for bankruptcy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-      "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or rolepla...",
-      "fetched_at": "2026-10-13T12:24:06.096358+00:00"
-    },
-    {
-      "id": "58dc873bc5294e8735f8b2a6",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "title": "ENS seeks DAO approval to activate upgraded Ethereum naming system",
-      "url": "https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "New .eth registrations would pause for hours during the transition, while existing domain holders could renew their names without migrating.",
-      "fetched_at": "2026-10-13T12:24:06.096363+00:00"
-    },
-    {
-      "id": "a2ddd3c83046e550fb690ef6",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "ঢাকা-কুমিল্লা নতুন উড়াল রেলপথ: চট্টগ্রামের দূরত্ব কমবে ৮০ কিমি, ব্যয় প্রায় ৮৪ হাজার কোটি টাকা",
-      "url": "https://www.prothomalo.com/bangladesh/vnawp3350u",
-      "summary": "ঢাকার শ্যামপুর থেকে কুমিল্লা পর্যন্ত ৮১ কিলোমিটার উড়াল রেলপথ নির্মাণের উদ্যোগ নেওয়া হয়েছে। এটি চালু হলে ঢাকা-চট্টগ্রামের দূরত্ব কমবে ৮০ কিলোমিটার।",
-      "fetched_at": "2026-10-13T12:24:06.096367+00:00"
-    },
-    {
-      "id": "7613d4ad0c87d2ea16d65814",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "title": "Metaplanet to issue $329M convertible bonds to pay debt, fund share buybacks",
-      "url": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Metaplanet plans to issue zero-interest bonds with a five-year maturity to improve its debt structure and cut its reliance on Bitcoin-collateralized loans without selling holdings.",
-      "fetched_at": "2026-10-13T12:24:06.096374+00:00"
-    },
-    {
-      "id": "def0458a71ddf1c7a2a80afc",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "চুরি হওয়া ল্যাপটপটি ফিরে পেলেন জার্মান পর্যটক",
-      "url": "https://www.prothomalo.com/bangladesh/curi-hoyyaa-lyaapttptti-phire-pelen-jaarmaan-pryttk",
-      "summary": "চুরি হওয়া ল্যাপটপটি ফিরে পেলেন জার্মান পর্যটক",
-      "fetched_at": "2026-10-13T12:24:06.096377+00:00"
-    },
-    {
-      "id": "6051975c4dc0b56b82af9c7e",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "title": "MediaMarktSaturn pulls Ledger products amid tampering reports",
-      "url": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "European retailer MediaMarkt pulled Ledger products as the wallet maker probes tampering reports beyond CryptoBilis in Southeast Asia.",
-      "fetched_at": "2026-10-13T12:24:06.096385+00:00"
-    },
-    {
-      "id": "d3cb5dc50fb454f4c5c11521",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "দেশ সেবার প্রত্যয়ে রাহি ও সাদিয়াদের নতুন পথচলা",
-      "url": "https://trust.prothomalo.com/activities/alor-school/sruvigd2gw",
-      "summary": "",
-      "fetched_at": "2026-10-13T12:24:06.096390+00:00"
-    },
-    {
-      "id": "4e448ffc5a3f855b3e9c9480",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "title": "Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses",
-      "url": "https://cointelegraph.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Bitcoin’s liquidity kept BTC price below $84,000 amid a mounting South Korean tech and semiconductor stock sell-off.",
-      "fetched_at": "2026-10-13T12:24:06.096400+00:00"
-    },
-    {
-      "id": "b9286b2e2708fddf79b16a47",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "পেরুতে ঝড় তুলেছে বিটিএস",
-      "url": "https://www.prothomalo.com/entertainment/song/l0ep5mrtyu",
-      "summary": "",
-      "fetched_at": "2026-10-13T12:24:06.096404+00:00"
-    },
-    {
-      "id": "b3d818573f39bd90e0132a20",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "title": "Chinese fraud victims lose key court battle over 61,000 Bitcoin",
-      "url": "https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Chinese fraud victims seeking to recover 61,000 seized Bitcoin face a legal setback after a UK court ruled that Chinese law governs their claims.",
-      "fetched_at": "2026-10-13T12:24:06.096410+00:00"
-    },
-    {
-      "id": "3c88ea1a673c9f8a781ce2d5",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "পায়রা বন্দরে আউটসোর্সিংয়ে জনবল নিয়োগ, পদ ৫৮",
-      "url": "https://www.prothomalo.com/chakri/employment/qjpz415ydq",
-      "summary": "২০ ক্যাটাগরির পদে মোট ৫৮ জনকে নিয়োগ দেওয়া হবে। আবেদনের শেষ তারিখ ২৯ অক্টোবর ২০২৬।",
-      "fetched_at": "2026-10-13T12:24:06.096413+00:00"
-    },
-    {
-      "id": "473c763553b85c5caa66465f",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "title": "Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis",
-      "url": "https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Ledger detailed how LTE-enabled implants exposed wallet recovery phrases as CryptoBilis halted sales and Trezor and OneKey cut ties with the reseller.",
-      "fetched_at": "2026-10-13T12:24:06.096420+00:00"
-    },
-    {
-      "id": "7a6347a4c9bf234b73491727",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "মন্দিরের গ্রিল কেটে চুরি হওয়া স্বর্ণালংকার উদ্ধার, ভাঙারির দোকানে পাওয়া গেল প্রতিমা",
-      "url": "https://www.prothomalo.com/bangladesh/district/gdwu8wwm35",
-      "summary": "সোমবার সন্ধ্যায় আখাউড়া থানায় মন্দিরের পক্ষ থেকে একটি মামলা করা হয়। ঘটনার পর থেকে পুলিশের একাধিক দল মন্দিরের মালামাল উদ্ধারে কাজ শুরু করে।",
-      "fetched_at": "2026-10-13T12:24:06.096424+00:00"
-    },
-    {
-      "id": "3cb5b24b4ecd7fbd4e62186f",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "নিউইয়র্ক বিমানবন্দরে অধ্যাপক ইউনূসকে হেনস্তা, আইনি পদক্ষেপ নেবে সরকার",
-      "url": "https://www.prothomalo.com/video/bangladesh/nbkqeb96hu",
-      "summary": "নিউইয়র্কে বিমানবন্দরে হেনস্তার শিকার অধ্যাপক মুহাম্মদ ইউনূস। আইনি ব্যবস্থা নেবে বাংলাদেশ সরকার, বলেছেন প্রধানমন্ত্রীর তথ্য উপদেষ্টা",
-      "fetched_at": "2026-10-13T12:24:06.096434+00:00"
-    },
-    {
-      "id": "ff8609ee2bad7c4c2b2a923c",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
-      "url": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Blur’s planned website closure revived criticism of the royalty policies and token rewards that helped it overtake OpenSea during the NFT boom, but hurt creators.",
-      "fetched_at": "2026-10-13T12:24:06.096441+00:00"
-    },
-    {
-      "id": "ab2d1eabdb9462038b61b6bd",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "চকবাজারে আগুন: ২৪ ঘণ্টা পরও পুরোপুরি\n নেভেনি, ধোঁয়া বের হচ্ছে",
-      "url": "https://www.prothomalo.com/bangladesh/capital/sgnjxz5e8w",
-      "summary": "প্রতি তলায় ৪০ থেকে ৫০টি দোকান রয়েছে। গতকাল বিকেলে ভবনটির ষষ্ঠ তলায় প্রথম আগুন লাগে। আগুনে সেখানকার প্রায় সব গুদামের মালামাল পুড়ে ছাই হয়ে গেছে।",
-      "fetched_at": "2026-10-13T12:24:06.096444+00:00"
-    },
-    {
-      "id": "cb9d50f18e81788d6b2b4fa6",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "title": "Binance to shut down crypto mining pool services in November",
-      "url": "https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "Binance will discontinue its mining pool and related services on Nov. 10, urging miners to move to alternative pools before the shutdown.",
-      "fetched_at": "2026-10-13T12:24:06.096451+00:00"
-    },
-    {
-      "id": "3b3014f0cbe43a0f8f9bdd2f",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Mozilla Introduces Firefox Enterprise",
-      "url": "https://www.firefox.com/en-US/enterprise/",
-      "summary": "Article URL: https://www.firefox.com/en-US/enterprise/ Comments URL: https://news.ycombinator.com/item?id=50070302 Points: 24 # Comments: 4",
-      "fetched_at": "2026-10-13T12:24:06.096459+00:00"
-    },
-    {
-      "id": "12004874c92d0c47261dd647",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "An hour of audio transcribed in about 13s on MacBook Air",
-      "url": "https://eg2.haku.sh/",
-      "summary": "Article URL: https://eg2.haku.sh/ Comments URL: https://news.ycombinator.com/item?id=50069971 Points: 63 # Comments: 16",
-      "fetched_at": "2026-10-13T12:24:06.096465+00:00"
-    },
-    {
-      "id": "76e5440377e63a8757ed6a4a",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Character.ai Files for Bankruptcy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney Comments URL: https://news.ycombinator.com/item?id=50069942 Points: 31 # Comments: 15",
-      "fetched_at": "2026-10-13T12:24:06.096471+00:00"
-    },
-    {
-      "id": "073f04b1cdfee14e648a05e6",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "url": "https://github.com/rust-lang/rust/issues/164250",
-      "summary": "Article URL: https://github.com/rust-lang/rust/issues/164250 Comments URL: https://news.ycombinator.com/item?id=50069499 Points: 184 # Comments: 71",
-      "fetched_at": "2026-10-13T12:24:06.096478+00:00"
-    },
-    {
-      "id": "aeb4ffe5faa13a04a90669a9",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-      "url": "https://pdftomp3.com/connect-ai/",
-      "summary": "Article URL: https://pdftomp3.com/connect-ai/ Comments URL: https://news.ycombinator.com/item?id=50069337 Points: 41 # Comments: 26",
-      "fetched_at": "2026-10-13T12:24:06.096484+00:00"
-    },
-    {
-      "id": "edeb7f13ed2e7fbff7bf482e",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "AI models may soon self-replicate without access to data centers",
-      "url": "https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/",
-      "summary": "Article URL: https://www.reuters.com/business/ai-models-may-soon-self-replicate-without-access-data-centers-anthropic-warns-2026-10-13/ Comments URL: https://news.ycombinator.com/item?id=50069333 Points: 22 # Comments: 3...",
-      "fetched_at": "2026-10-13T12:24:06.096490+00:00"
     }
   ]
 }
