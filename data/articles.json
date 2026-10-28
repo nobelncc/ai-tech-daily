@@ -1,8 +1,944 @@
 {
   "site_name": "Global Pulse — Multi-Niche News",
   "site_description": "Automatically updated summaries across 10 topics, refreshed around the clock.",
-  "last_updated": "2026-10-28T10:12:45.106674+00:00",
+  "last_updated": "2026-10-28T16:54:44.052625+00:00",
   "articles": [
+    {
+      "id": "1d7dcdad568992f046474b71",
+      "source": "TechCrunch",
+      "category": "AI & Tech",
+      "title": "Reddit is the latest platform to embrace the ‘For You’ feed",
+      "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+      "summary": "Reddit has introduced a personalized \"For You\" feed to its platform, following a trend seen on other social media sites. This feature integrates updates from a user's subscribed communities with algorithmic recommendations based on their individual interests.",
+      "fetched_at": "2026-10-28T16:53:00.581875+00:00"
+    },
+    {
+      "id": "e2ca010fe3f4838b93804dbe",
+      "source": "TechCrunch Startups",
+      "category": "Startups",
+      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+      "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+      "summary": "The TechCrunch Founder Summit is scheduled to begin in Boston on November 4 at the SoWa Power Station. Prospective attendees have one week remaining to secure a discount of up to $100 on registration before the event opens. The gathering is designed to facilitate networking and provide educational opportunities for startup founders, investors, and industry experts.",
+      "fetched_at": "2026-10-28T16:53:24.567521+00:00"
+    },
+    {
+      "id": "f64fa885ec6b16113c3f893a",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
+      "summary": "The increasing use of blockchain by autonomous AI agents highlights potential risks regarding unauthorized or incorrect financial transactions. Current decentralized infrastructures lack the consumer protections and reversal mechanisms found in traditional banking, creating legal uncertainty when automated systems make purchasing errors.",
+      "fetched_at": "2026-10-28T16:53:32.922070+00:00"
+    },
+    {
+      "id": "3e4e3f979d86e16c888869d7",
+      "source": "We Work Remotely",
+      "category": "Remote Work",
+      "title": "SimpleTiger: Web Developer: WordPress & HubSpot (U.S. Based, Remote Contractor)",
+      "url": "https://weworkremotely.com/remote-jobs/simpletiger-web-developer-wordpress-hubspot-u-s-based-remote-contractor",
+      "summary": "SimpleTiger, a B2B SaaS marketing agency, is seeking a part-time remote web developer based in the United States for a contract position. The role involves building and maintaining client websites using WordPress and HubSpot to support various digital marketing and SEO initiatives. Candidates will be responsible for translating design concepts into functional web pages, with the potential for the role to expand in the future.",
+      "fetched_at": "2026-10-28T16:53:40.509059+00:00"
+    },
+    {
+      "id": "7bd0d3e969bd0e9a04ae93fb",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "How to open the Nameless Ruins chest in Final Fantasy Resonance",
+      "url": "https://www.polygon.com/final-fantasy-resonance-nameless-ruins-chest-how-to-open/",
+      "summary": "Players of Final Fantasy Resonance can obtain a high-quality set of armor by locating a hidden chest within the Nameless Ruins. To unlock the container and claim the gear, players must first solve a specific riddle found at the site.",
+      "fetched_at": "2026-10-28T16:53:47.850527+00:00"
+    },
+    {
+      "id": "8270d9e469f72724f9d229b5",
+      "source": "MarketWatch Top Stories",
+      "category": "Finance",
+      "title": "Healthcare stocks are on their biggest hot streak in a generation. Think twice before chasing the rally.",
+      "url": "https://www.marketwatch.com/story/healthcare-stocks-are-on-their-biggest-hot-streak-in-a-generation-think-twice-before-chasing-the-rally-a043adfe?mod=mw_rss_topstories",
+      "summary": "Healthcare stocks are experiencing a historic rally this month, building on a period of sustained growth earlier in the year. Despite the sector's uncharacteristic momentum, analysts advise investors to remain cautious before buying into the current upward trend.",
+      "fetched_at": "2026-10-28T16:53:56.137049+00:00"
+    },
+    {
+      "id": "a9d0748f446f494bbc6b5c7d",
+      "source": "ScienceDaily Health",
+      "category": "Health",
+      "title": "A single sauna session sends immune cells surging through your body",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261027231021.htm",
+      "summary": "A new Finnish study reveals that just 30 minutes in a sauna can temporarily flood the bloodstream with additional white blood cells, potentially helping the immune system patrol the body and detect threats. The surprisin...",
+      "fetched_at": "2026-10-28T16:54:01.073450+00:00"
+    },
+    {
+      "id": "d43378f1afb0738bb313e6a7",
+      "source": "TechCrunch",
+      "category": "AI & Tech",
+      "title": "AI execs may be too out of touch to build for the general public",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+      "fetched_at": "2026-10-28T16:54:06.921416+00:00"
+    },
+    {
+      "id": "950dd6c74bcee99041fad3d3",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
+      "url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+      "summary": "The Depository Trust & Clearing Corporation (DTCC) is collaborating with several major financial institutions to integrate blockchain technology into the management of $30 trillion in securities. This initiative aims to modernize market infrastructure by exploring how distributed ledger systems can streamline the processing and settlement of traditional financial assets.",
+      "fetched_at": "2026-10-28T16:54:14.443466+00:00"
+    },
+    {
+      "id": "ce75aef03985de7a5a678842",
+      "source": "We Work Remotely",
+      "category": "Remote Work",
+      "title": "Flag Theory: Customer Onboarding Specialist for Company Incorporations (Full Time)",
+      "url": "https://weworkremotely.com/remote-jobs/flag-theory-customer-onboarding-specialist-for-company-incorporations-full-time-3",
+      "summary": "Flag Theory is seeking a full-time Customer Onboarding Specialist to manage the post-sale integration process for international company incorporations. The remote role involves guiding clients through regulatory documentation requirements and coordinating with external vendors to ensure efficient service delivery. Candidates for the position should have at least two years of professional experience in corporate services.",
+      "fetched_at": "2026-10-28T16:54:21.707130+00:00"
+    },
+    {
+      "id": "5eae1e01350104b44cb0c087",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "The Wolf Among Us Puts a Deliciously Dark Twist on Our Favorite Fairy Tales",
+      "url": "https://www.polygon.com/the-wolf-among-us-twau-deliciously-dark-twist-favorite-fairy-tales/",
+      "summary": "13 years after its release, the Telltale title is getting a remaster worth celebrating.",
+      "fetched_at": "2026-10-28T16:54:26.253670+00:00"
+    },
+    {
+      "id": "50625ad969e156f5c921cf06",
+      "source": "MarketWatch Top Stories",
+      "category": "Finance",
+      "title": "Trump administration clears the way for production of peptides like BPC-157 and TB-500",
+      "url": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
+      "summary": "The government won’t take action against compounding pharmacies that make six of the popular wellness products.",
+      "fetched_at": "2026-10-28T16:54:30.872547+00:00"
+    },
+    {
+      "id": "21da6fed45baaccd842513b9",
+      "source": "TechCrunch",
+      "category": "AI & Tech",
+      "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
+      "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+      "summary": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
+      "fetched_at": "2026-10-28T16:54:35.429518+00:00"
+    },
+    {
+      "id": "4c0ca7bcbcac8ff7881e41ec",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized tock trading plan",
+      "url": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
+      "summary": "",
+      "fetched_at": "2026-10-28T16:54:39.975881+00:00"
+    },
+    {
+      "id": "6721613fb36b5aced83b2191",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "Modern Warfare 4 Just Made 100% Completion Impossible With New Update",
+      "url": "https://www.polygon.com/modern-warfare-4-free-for-all-update-nuke-score-limit/",
+      "summary": "A recent update to Modern Warfare 4 has reduced the score limit in the Free-for-All game mode, preventing players from obtaining a nuke killstreak. This change currently makes it impossible for players to finish certain challenges required for 100% game completion.",
+      "fetched_at": "2026-10-28T16:54:44.051969+00:00"
+    },
+    {
+      "id": "6988e898857ba61639a51353",
+      "source": "MarketWatch Top Stories",
+      "category": "Finance",
+      "title": "Bullish on Anthropic but don’t want to wait until the IPO? Here’s how you can invest today.",
+      "url": "https://www.marketwatch.com/story/bullish-on-anthropic-but-dont-want-to-wait-until-the-ipo-heres-how-you-can-invest-today-c5cb329e?mod=mw_rss_topstories",
+      "summary": "ETFs and other funds currently available to ordinary investors offer exposure to Anthropic.",
+      "fetched_at": "2026-10-28T16:54:44.051999+00:00"
+    },
+    {
+      "id": "f35dbd0991471b1a28e7d3b0",
+      "source": "ScienceDaily Health",
+      "category": "Health",
+      "title": "Scientists discover a hidden reason why muscles weaken with age",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261027063704.htm",
+      "summary": "Scientists have uncovered a hidden defense mechanism in aging muscles that sacrifices strength to protect cells from damage. In mice, partially restoring a crucial molecule reversed signs of muscle wasting and prevented ...",
+      "fetched_at": "2026-10-28T16:54:44.052009+00:00"
+    },
+    {
+      "id": "67f62808933f66dd463b841e",
+      "source": "TechCrunch",
+      "category": "AI & Tech",
+      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+      "fetched_at": "2026-10-28T16:54:44.052015+00:00"
+    },
+    {
+      "id": "0799e445eda1752d357b8553",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Dissent and more: 3 things to watch for at the Fed meeting",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting",
+      "summary": "",
+      "fetched_at": "2026-10-28T16:54:44.052022+00:00"
+    },
+    {
+      "id": "63ef3c9223a0a737eb1eb1f8",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "Epic Officially Confirms It’s 'Vibe Coding' Unreal Engine 6 and Future 'Fortnite' Updates",
+      "url": "https://www.polygon.com/fortnite-unreal-engine-6-fortnite-vibe-coding/",
+      "summary": "Epic has revealed just how extensively AI is being used for Unreal Engine 6 and new 'Fortnite' updates.",
+      "fetched_at": "2026-10-28T16:54:44.052033+00:00"
+    },
+    {
+      "id": "e8d3c96e85ec96b40b8472cb",
+      "source": "MarketWatch Top Stories",
+      "category": "Finance",
+      "title": "Micron’s stock rises after SK Hynix earnings. Here’s its next major test.",
+      "url": "https://www.marketwatch.com/story/microns-stock-rises-after-sk-hynix-earnings-heres-its-next-major-test-99853d0e?mod=mw_rss_topstories",
+      "summary": "Samsung’s results are the next big barometer for a memory-chip trade that’s springing back from recent lows.",
+      "fetched_at": "2026-10-28T16:54:44.052086+00:00"
+    },
+    {
+      "id": "75df67f8bc4e750ce2948469",
+      "source": "ScienceDaily Health",
+      "category": "Health",
+      "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
+      "summary": "NASA’s Artemis I mission has revealed that cosmic radiation near the Moon is higher than in Earth orbit, but not by as much as scientists might expect. Tiny experimental detectors also uncovered surprising details about ...",
+      "fetched_at": "2026-10-28T16:54:44.052099+00:00"
+    },
+    {
+      "id": "4e126a6cfd6e3828f3a05402",
+      "source": "TechCrunch",
+      "category": "AI & Tech",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving...",
+      "fetched_at": "2026-10-28T16:54:44.052104+00:00"
+    },
+    {
+      "id": "5d0b05de11f60e4d4570f24d",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
+      "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
+      "summary": "",
+      "fetched_at": "2026-10-28T16:54:44.052111+00:00"
+    },
+    {
+      "id": "797c29dc88f29d4fad8e0489",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "The Must-Play Board Games from 2026's Biggest Board Game Fair",
+      "url": "https://www.polygon.com/best-new-board-games-spiel-essen-2026/",
+      "summary": "Highlights include the Cyberpunk TCG, the Diablo board game, and a Gloomhaven spinoff",
+      "fetched_at": "2026-10-28T16:54:44.052123+00:00"
+    },
+    {
+      "id": "8147a2def23581de68104b1b",
+      "source": "MarketWatch Top Stories",
+      "category": "Finance",
+      "title": "We’re spending more than $11,000 a year of our own money caring for our aging parents and loved ones",
+      "url": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
+      "summary": "An AARP study shows the financial sacrifices families make and their long-term impacts.",
+      "fetched_at": "2026-10-28T16:54:44.052128+00:00"
+    },
+    {
+      "id": "f09b7753383c2c1aaba0cd5e",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "Honestly, I don’t think I could go back to a regular 9-5",
+      "url": "https://www.reddit.com/r/freelance/comments/1x95uap/honestly_i_dont_think_i_could_go_back_to_a/",
+      "summary": "The biggest thing for me isn’t even the money, it’s having control over my own time. With a regular job, most of your day is already decided for you. With freelancing, I can organize my day around the work itself. Some d...",
+      "fetched_at": "2026-10-28T16:54:44.052134+00:00"
+    },
+    {
+      "id": "b4419ce66130a21c258637a1",
+      "source": "TechCrunch",
+      "category": "AI & Tech",
+      "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+      "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
+      "summary": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
+      "fetched_at": "2026-10-28T16:54:44.052140+00:00"
+    },
+    {
+      "id": "ca5a374ac857f6dcf80145ce",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+      "summary": "",
+      "fetched_at": "2026-10-28T16:54:44.052146+00:00"
+    },
+    {
+      "id": "6c26c35377ebeabf627f26a1",
+      "source": "The Daily Star",
+      "category": "Bangladesh News",
+      "title": "André Béteille: A sociologist Bangladesh should read",
+      "url": "https://www.thedailystar.net/slow-reads/big-picture/news/andre-beteille-sociologist-bangladesh-should-read-4112931",
+      "summary": "André Béteille: A sociologist Bangladesh should read miftahul@theda… Tue, 02/24/2026 - 00:21 Image André Béteille: A sociologist Bangladesh should read My first encounter with the ideas of Professor André Béteille was in...",
+      "fetched_at": "2026-10-28T16:54:44.052155+00:00"
+    },
+    {
+      "id": "7dab6c1a72af5cd4f9ce8f32",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "PlayStation Plus November 2026 Free Games Lineup Officially Revealed",
+      "url": "https://www.polygon.com/playstation-plus-november-2026-games-announced-ps4-ps5-free-essential/",
+      "summary": "Sony's free PlayStation Plus Essential games for November 2026 have been announced, and include three wildly different games.",
+      "fetched_at": "2026-10-28T16:54:44.052159+00:00"
+    },
+    {
+      "id": "c637ea0fdbd8dad051155cdc",
+      "source": "MarketWatch Top Stories",
+      "category": "Finance",
+      "title": "3 reasons home prices keep going up, even though fewer people are buying",
+      "url": "https://www.marketwatch.com/story/3-reasons-why-home-prices-keep-going-up-even-though-fewer-people-are-buying-9afa6106?mod=mw_rss_topstories",
+      "summary": "Weaker demand typically drives prices down, but national readings of home prices indicate that they’re still growing. What explains the disconnect?",
+      "fetched_at": "2026-10-28T16:54:44.052163+00:00"
+    },
+    {
+      "id": "4175f23122b2c03fc462e1db",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "Startup founder wants me to sign an 8-page contract before telling me what the job is. Is this normal?",
+      "url": "https://www.reddit.com/r/freelance/comments/1x7vsd6/startup_founder_wants_me_to_sign_an_8page/",
+      "summary": "I'm a freelance content creator, video editor and strategist. A pre-launch startup founder reached out wanting a &quot;creative partner&quot; to plan content and grow her socials. We agreed on an hourly rate of €40/hr (s...",
+      "fetched_at": "2026-10-28T16:54:44.052168+00:00"
+    },
+    {
+      "id": "24822e451e9d56259e2e11c1",
+      "source": "TechCrunch",
+      "category": "AI & Tech",
+      "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
+      "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
+      "summary": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
+      "fetched_at": "2026-10-28T16:54:44.052174+00:00"
+    },
+    {
+      "id": "1c99fc2c4edb2524f503338f",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Live updates: Bitcoin sheds early gains; Strategy's STRC moves to daily dividends",
+      "url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
+      "summary": "",
+      "fetched_at": "2026-10-28T16:54:44.052180+00:00"
+    },
+    {
+      "id": "04348539d5de39dff33852a3",
+      "source": "The Daily Star",
+      "category": "Bangladesh News",
+      "title": "In praise of Mymensingh’s Bangla folk ballads",
+      "url": "https://www.thedailystar.net/slow-reads/slow-reads-special/news/praise-mymensinghs-bangla-folk-ballads-3004791",
+      "summary": "In praise of Mymensingh’s Bangla folk ballads mobidur@gmail.com Thu, 04/14/2022 - 00:00 Image Caption COLLAGE: KAZI AKIB BIN ASAD In praise of Mymensingh’s Bangla folk ballads Folk-ballads are living archives that repres...",
+      "fetched_at": "2026-10-28T16:54:44.052190+00:00"
+    },
+    {
+      "id": "845d0921234aa50c25e64a93",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "'Harry Potter Meets Stardew Valley' Game Sets Official Release Date",
+      "url": "https://www.polygon.com/witchbrook-release-date-announcement/",
+      "summary": "Witchbrook, a magical Stardew Valley-esque life sim, is finally being released in early 2027 on Switch, PC, PS5, and Xbox",
+      "fetched_at": "2026-10-28T16:54:44.052194+00:00"
+    },
+    {
+      "id": "2a646d0f9e0c4342be0cd76a",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "What am i doing wrong? Why is it that hard to onboard your 2nd client?",
+      "url": "https://www.reddit.com/r/freelance/comments/1x6vv8p/what_am_i_doing_wrong_why_is_it_that_hard_to/",
+      "summary": "I have been running ads for only one client since past 6 months , the results have been excellent , I took him from 1.6 X ROAS to 3.5 X in just 4 months and now we are aiming to go further.. Having time on hand i now hav...",
+      "fetched_at": "2026-10-28T16:54:44.052201+00:00"
+    },
+    {
+      "id": "96584b81a928b1feccf4ddcb",
+      "source": "TechCrunch",
+      "category": "AI & Tech",
+      "title": "Meta has a new AI pet app called Waddle World",
+      "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
+      "summary": "Meta has launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI.",
+      "fetched_at": "2026-10-28T16:54:44.052208+00:00"
+    },
+    {
+      "id": "b6b6f7a2770083be62d472ad",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Google to preview crypto custody security system as AI threats grow",
+      "url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
+      "summary": "",
+      "fetched_at": "2026-10-28T16:54:44.052214+00:00"
+    },
+    {
+      "id": "7be7b0aeb8150f4a1469cd2b",
+      "source": "The Daily Star",
+      "category": "Bangladesh News",
+      "title": "Fizz takes three in Mumbai rout",
+      "url": "https://www.thedailystar.net/sports/cricket/fizz-takes-three-mumbai-rout-1220587",
+      "summary": "Fizz takes three in Mumbai rout atique_anam@ya… Sun, 05/08/2016 - 20:23 Editor's Pick Beyond the remittance economy: How Gulf migration reshaped power, religion and gender in Bangladesh 22 October 2026 • Unheard Voices T...",
+      "fetched_at": "2026-10-28T16:54:44.052222+00:00"
+    },
+    {
+      "id": "72248ec1da84808fb2415bc6",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "PlayStation Officially Reveals Gorgeous New ‘Prism’ PS5 Hardware",
+      "url": "https://www.polygon.com/sony-ps5-dualsense-prism-collection-release-date-price/",
+      "summary": "PlayStation is bringing back '90s-style transparent designs with the PS5 Prism Collection. Here's what the new DualSense controllers and console cover",
+      "fetched_at": "2026-10-28T16:54:44.052226+00:00"
+    },
+    {
+      "id": "4c1a26f1ed7f46bfa9af1e40",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "Discovered a client executed my proposal with a cheaper freelancer. How do you protect your blueprints/ideas?",
+      "url": "https://www.reddit.com/r/freelance/comments/1x3z60b/discovered_a_client_executed_my_proposal_with_a/",
+      "summary": "Hey everyone, I run a small design and development agency, and I just ran into a deeply frustrating situation. A potential client approached us for a project, asking for a detailed proposal. To show our competence, we sp...",
+      "fetched_at": "2026-10-28T16:54:44.052233+00:00"
+    },
+    {
+      "id": "9670f725a4bfe78a26ced71f",
+      "source": "TechCrunch",
+      "category": "AI & Tech",
+      "title": "Free Fire returns to India as Garena launches localized version four years after ban",
+      "url": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
+      "summary": "Free Fire India was originally set to launch in September 2023, but Garena postponed its release.",
+      "fetched_at": "2026-10-28T16:54:44.052239+00:00"
+    },
+    {
+      "id": "2d53d23fe6408dcc08d04ac9",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
+      "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
+      "summary": "",
+      "fetched_at": "2026-10-28T16:54:44.052244+00:00"
+    },
+    {
+      "id": "87c5923450d396e5476b2364",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "চার জুটির চার রকম প্রেম, তিন নতুন মুখের অভিষেক",
+      "url": "https://www.prothomalo.com/entertainment/ott/fg3u1kzo8z",
+      "summary": "২৯ অক্টোবর ওটিটি প্ল্যাটফর্ম আইস্ক্রিনে মুক্তি অপেক্ষায় থাকা ওয়েব ফিল্মটির মাধ্যমে অভিনয়ে অভিষেক হচ্ছে লাক্স সুপারস্টার ২০২৫-এর সেরা তিন প্রতিযোগীর।",
+      "fetched_at": "2026-10-28T16:54:44.052252+00:00"
+    },
+    {
+      "id": "217f1e9aeb491b5dc7727437",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "26 Years Later, BioWare’s Most Influential RPG Is Still Shaping My Life",
+      "url": "https://www.polygon.com/bioware-baldurs-gate-2-best-game-rpg-legacy/",
+      "summary": "BioWare may be gone, but the studio's best RPG, Baldur's Gate 2, built a legacy that is still shaping lives today.",
+      "fetched_at": "2026-10-28T16:54:44.052256+00:00"
+    },
+    {
+      "id": "953fdff46f8a37d3e16902e5",
+      "source": "MarketWatch Top Stories",
+      "category": "Finance",
+      "title": "These software stocks could be winners as earnings season kicks into high gear",
+      "url": "https://www.marketwatch.com/story/these-software-stocks-could-be-winners-as-earnings-season-kicks-into-high-gear-8decddf7?mod=mw_rss_topstories",
+      "summary": "The bar is higher for software companies now that their stocks have been outperforming, but analysts identify some top picks whose results could shine through.",
+      "fetched_at": "2026-10-28T16:54:44.052260+00:00"
+    },
+    {
+      "id": "755d0861f8fb848b0337914a",
+      "source": "TechCrunch",
+      "category": "AI & Tech",
+      "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
+      "url": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
+      "summary": "The deal with DTL Transport puts it on a path to become an an asset-light tech supplier, rather than owner and operator.",
+      "fetched_at": "2026-10-28T16:54:44.052268+00:00"
+    },
+    {
+      "id": "38dd22f0b5ab1676ec0fb831",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
+      "url": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
+      "summary": "",
+      "fetched_at": "2026-10-28T16:54:44.052274+00:00"
+    },
+    {
+      "id": "3046539b85a7170b5e951744",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "বাংলাদেশ-জাপান ছয় সহযোগিতা চুক্তি স্বাক্ষর, ২৯ কোটি ৫৫ লাখ ডলার ঋণের প্রতিশ্রুতি",
+      "url": "https://www.prothomalo.com/bangladesh/hxyokaslsy",
+      "summary": "",
+      "fetched_at": "2026-10-28T16:54:44.052282+00:00"
+    },
+    {
+      "id": "7f438657c60261d06f878519",
+      "source": "Polygon",
+      "category": "Gaming",
+      "title": "Forget 'Carrie,' Mike Flanagan Series Actor Teases Her Return in a \"Future\" Project",
+      "url": "https://www.polygon.com/tnia-miller-next-team-up-mike-flanagan/",
+      "summary": "The VisionQuest star is known for her work with Mike Flanagan, like The Fall of the House of Usher. Here, she talks about when they'll re-team",
+      "fetched_at": "2026-10-28T16:54:44.052286+00:00"
+    },
+    {
+      "id": "1fd59579b010b44f0a95494d",
+      "source": "MarketWatch Top Stories",
+      "category": "Finance",
+      "title": "Heating your home with oil could cost $750 more this winter. Read this before you pay the price.",
+      "url": "https://www.marketwatch.com/story/heating-your-home-with-oil-could-cost-750-more-this-winter-read-this-before-you-pay-the-price-e39f0d52?mod=mw_rss_topstories",
+      "summary": "Heating-oil prices are at record highs. Washington’s answer is a loan you will never see and a pipeline that does not exist.",
+      "fetched_at": "2026-10-28T16:54:44.052290+00:00"
+    },
+    {
+      "id": "7d527e840e4fbb04f8238c9e",
+      "source": "ScienceDaily Health",
+      "category": "Health",
+      "title": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025222538.htm",
+      "summary": "Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease? Scientists in the Netherlands may have uncovered an important clue hidden in a rare group of immature brain cells. Research...",
+      "fetched_at": "2026-10-28T16:54:44.052297+00:00"
+    },
+    {
+      "id": "32450ef55f8cf09e78379a5e",
+      "source": "TechCrunch Startups",
+      "category": "Startups",
+      "title": "Startups don’t need to go viral to win customers",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "fetched_at": "2026-10-28T16:54:44.052303+00:00"
+    },
+    {
+      "id": "23f1c67356d7b1fa938ae0de",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "কক্ষে ঢুকেই আইইডিসিআরের পরিচালককে মারধর ও অন্যান্য খবর",
+      "url": "https://www.prothomalo.com/video/bangladesh/sbvay79k3c",
+      "summary": "",
+      "fetched_at": "2026-10-28T16:54:44.052312+00:00"
+    },
+    {
+      "id": "9436f58681048ac740826b92",
+      "source": "ScienceDaily Health",
+      "category": "Health",
+      "title": "A simple liquid can stop cavities without drilling, major study confirms",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm",
+      "summary": "A simple liquid painted onto teeth in seconds can stop cavities without drilling, injections, or anesthesia, according to a major clinical trial involving young children. The inexpensive treatment could spare thousands o...",
+      "fetched_at": "2026-10-28T16:54:44.052318+00:00"
+    },
+    {
+      "id": "f96afea1d1249236073260f6",
+      "source": "TechCrunch Startups",
+      "category": "Startups",
+      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+      "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+      "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
+      "fetched_at": "2026-10-28T16:54:44.052324+00:00"
+    },
+    {
+      "id": "692f19a57a3949cc15820796",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "বিদ্যুৎ বিপর্যয়ের কারণ কী, সন্দেহে একটি গাছ",
+      "url": "https://www.prothomalo.com/bangladesh/zxzd4tu25o",
+      "summary": "",
+      "fetched_at": "2026-10-28T16:54:44.052332+00:00"
+    },
+    {
+      "id": "548beec2056a2da6ad868b35",
+      "source": "ScienceDaily Health",
+      "category": "Health",
+      "title": "Scientists solve a 30-year mystery behind inflammatory bowel disease",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073053.htm",
+      "summary": "Scientists have identified a hidden cause of inflammatory bowel disease: antibodies that disable the immune system’s natural ability to control inflammation, potentially explaining severe illness in thousands of patients...",
+      "fetched_at": "2026-10-28T16:54:44.052338+00:00"
+    },
+    {
+      "id": "c207efd166a7929247acff0e",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "ময়মনসিংহে নিহত সেলুনমালিকের গলা-বুক-পিঠে ১০ ছুরিকাঘাত, একজন গ্রেপ্তার",
+      "url": "https://www.prothomalo.com/bangladesh/district/7xli5adgmh",
+      "summary": "গতকাল মঙ্গলবার সন্ধ্যায় ভালুকায় মুক্তিযোদ্ধা মার্কেট এলাকায় এ ঘটনা ঘটে। এতে জড়িত থাকার অভিযোগে রাতেই একজনকে গ্রেপ্তার করে পুলিশ।",
+      "fetched_at": "2026-10-28T16:54:44.052351+00:00"
+    },
+    {
+      "id": "e91d6da33250cff74d95f452",
+      "source": "ScienceDaily Health",
+      "category": "Health",
+      "title": "Mayo Clinic discovers new ways to fight the “zombie” cells that drive aging",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073049.htm",
+      "summary": "Mayo Clinic scientists have uncovered surprising new insights into “zombie cells,” aging cells that linger in the body and contribute to inflammation and disease. Seven studies reveal why these cells are harmful and iden...",
+      "fetched_at": "2026-10-28T16:54:44.052357+00:00"
+    },
+    {
+      "id": "3bc5051b74d8a259881a4660",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "র‍্যাঙ্কিংয়ের শীর্ষে ওঠার দিনে ইয়ানসেনের মাইলফলক",
+      "url": "https://www.prothomalo.com/sports/cricket/1po3s78gfd",
+      "summary": "ম্যাট রেনশ ও ক্যামেরন গ্রিনের জুটি যখন চোখ রাঙাচ্ছে, অস্ট্রেলিয়াকে টেনে নিচ্ছে বড় সংগ্রহের দিকে—তখন বাদ সেধেছেন ২৬ বছর বয়সী এই অলরাউন্ডারই।",
+      "fetched_at": "2026-10-28T16:54:44.052370+00:00"
+    },
+    {
+      "id": "1382a093ee91866db4fcece9",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "contract got paused after 1 month, should i take another freelance gig?",
+      "url": "https://www.reddit.com/r/freelance/comments/1wxx5sy/contract_got_paused_after_1_month_should_i_take/",
+      "summary": "so Im 1 month into a freelance gig doing community marketing for early stage SaaS, contract is 20 hrs/week. then i found an error in one of the paid tools the founder bought for me to use, and long story short my contrac...",
+      "fetched_at": "2026-10-28T16:54:44.052374+00:00"
+    },
+    {
+      "id": "fdb3dffa17648bc6885336f6",
+      "source": "ScienceDaily Health",
+      "category": "Health",
+      "title": "The surprisingly simple exercise that could lower your blood pressure",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073045.htm",
+      "summary": "A surprisingly simple exercise routine could help lower blood pressure without requiring daily workouts or expensive equipment. In a study of 100 adults, researchers found that wall squats performed just once or twice a ...",
+      "fetched_at": "2026-10-28T16:54:44.052378+00:00"
+    },
+    {
+      "id": "58e87194d6d13466949b6860",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "যশোরে ভেজালমুক্ত খেজুর গুড় উৎপাদনে গাছিদের শপথ",
+      "url": "https://www.bondhushava.com/activities/fwo2gtezcf",
+      "summary": "যশোর অঞ্চলে টেকসই কৃষি সম্প্রসারণ প্রকল্পের সহযোগিতায় ও যশোর বন্ধুসভার উদ্যোগে ২৫ অক্টোবর বিকেলে সদর উপজেলার ফতেপুর গ্রামের একটি খেজুরবাগানে এ ব্যতিক্রমী অনুষ্ঠানের আয়োজন করা হয়। প্রথম আলোর প্রতিষ্ঠাবার্ষিকী উপলক্ষে ‘...",
+      "fetched_at": "2026-10-28T16:54:44.052390+00:00"
+    },
+    {
+      "id": "8e79172ad0b57358146971af",
+      "source": "Reddit r/freelance",
+      "category": "Freelance",
+      "title": "Staffing agency promoted itself to my references. What should I do?",
+      "url": "https://www.reddit.com/r/freelance/comments/1wt28ns/staffing_agency_promoted_itself_to_my_references/",
+      "summary": "I’m quite irritated right now and need some perspective from the community on how to handle this. I am self employed as a software engineer and I applied to a project via a freelance platform. Most of the projects are vi...",
+      "fetched_at": "2026-10-28T16:54:44.052394+00:00"
+    },
+    {
+      "id": "c4694ee1989856eed2f4924d",
+      "source": "The Verge",
+      "category": "AI & Tech",
+      "title": "Touchscreen MacBook live blog: On the ground at Apple’s launch event",
+      "url": "https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog",
+      "summary": "Apple has already had a busy week. On Monday, it announced a new iPad Mini with an upgraded OLED display, and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac. The Macs are the definition of iterative upd...",
+      "fetched_at": "2026-10-28T16:54:44.052400+00:00"
+    },
+    {
+      "id": "aa50af74915b1671c04932b4",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
+      "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+      "summary": "Article URL: https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/ Comments URL: https://news.ycombinator.com/item?id=50272749 Points: 837 # Comments: 599",
+      "fetched_at": "2026-10-28T16:54:44.052404+00:00"
+    },
+    {
+      "id": "726e4b9ea7ff1c924b2a03f6",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "Phantom launches Kalshi-powered prediction markets for US users",
+      "url": "https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The crypto wallet’s new integration offers CFTC-regulated event contracts through Kalshi, as prediction markets face growing legal challenges in the US.",
+      "fetched_at": "2026-10-28T16:54:44.052408+00:00"
+    },
+    {
+      "id": "d76742775360c050f7ba9778",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "মুখ ঢেকে কথা বলায় তিন ম্যাচ নিষিদ্ধ নেইমার",
+      "url": "https://www.prothomalo.com/sports/football/j25xgib9h6",
+      "summary": "ফুটবল মাঠে প্রতিপক্ষের সঙ্গে তর্কবিতর্ক নতুন কিছু নয়। উত্তেজনার মুহূর্তে মুখের ওপর হাত রেখে কথা বলতেও দেখা যায় ফুটবলারদের। কিন্তু সেই অভ্যাসই এবার বিপদ ডেকে আনল নেইমারের জন্য।",
+      "fetched_at": "2026-10-28T16:54:44.052412+00:00"
+    },
+    {
+      "id": "f48b42026635b76a38b1d14c",
+      "source": "The Verge",
+      "category": "AI & Tech",
+      "title": "All the news from Apple’s ‘Pro and tell’ event",
+      "url": "https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements",
+      "summary": "Apple’s “Pro and tell” event kicks off at 1PM ET / 10AM PT on October 28th. The event comes just a couple of weeks after Apple debuted the HomeView, its first smart display, and a little over a month after it announced t...",
+      "fetched_at": "2026-10-28T16:54:44.052417+00:00"
+    },
+    {
+      "id": "6ab529e5af8471e19e6df19a",
+      "source": "Hacker News (Best)",
+      "category": "Startups",
+      "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "summary": "Article URL: https://emudhra.we-have-a-problem.com/apple.html Comments URL: https://news.ycombinator.com/item?id=50271640 Points: 700 # Comments: 264",
+      "fetched_at": "2026-10-28T16:54:44.052421+00:00"
+    },
+    {
+      "id": "2ef7c2336d2990bf98f7d223",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+      "url": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security.",
+      "fetched_at": "2026-10-28T16:54:44.052424+00:00"
+    },
+    {
+      "id": "af3d6ea61389cc31694d4491",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "রাধারমণ দত্তের প্রয়াণদিবসের অনুষ্ঠান কবরস্থানের পাশে না করতে ইউএনওকে চিঠি",
+      "url": "https://www.prothomalo.com/bangladesh/district/q826m3mmo5",
+      "summary": "সুনামগঞ্জের জগন্নাথপুরে ধামাইল গানের প্রবর্তক রাধারমণ দত্তের প্রয়াণদিবসের অনুষ্ঠান এলাকার কবরস্থানের পাশে না করতে আবেদন করেছেন স্থানীয় ‘কেশবপুর ইসলামিক অর্গানাইজেশন’ নামের একটি সংগঠনের সদস্যরা।",
+      "fetched_at": "2026-10-28T16:54:44.052429+00:00"
+    },
+    {
+      "id": "1c5f37e97bf86006aab8aaaf",
+      "source": "The Verge",
+      "category": "AI & Tech",
+      "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
+      "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the com...",
+      "fetched_at": "2026-10-28T16:54:44.052433+00:00"
+    },
+    {
+      "id": "14a998833d4854b1eb8b2bed",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "মা হারালেন বিশ্বজয়ী কোচ স্কালোনি",
+      "url": "https://www.prothomalo.com/sports/football/301ulgjdn4",
+      "summary": "মারাকানার সেই রাতটা লিওনেল স্কালোনির জীবনে চিরকালই বিশেষ হয়ে থাকবে। ২০২১ সালের ১০ জুলাই। চিরপ্রতিদ্বন্দ্বী ব্রাজিলকে তাদেরই মাঠে হারিয়ে ২৮ বছরের অপেক্ষা ঘুচিয়ে কোপা আমেরিকা জিতেছে আর্জেন্টিনা।",
+      "fetched_at": "2026-10-28T16:54:44.052441+00:00"
+    },
+    {
+      "id": "11cfb9271667f3851d277008",
+      "source": "The Verge",
+      "category": "AI & Tech",
+      "title": "Reddit is getting a For You feed",
+      "url": "https://www.theverge.com/tech/1020751/reddit-for-you-following-feeds",
+      "summary": "Reddit is switching up its homepage feeds. The company announced today that it's going to start offering a \"new feed experience\" that includes both a Following feed to show you posts from subreddits you follow and a For ...",
+      "fetched_at": "2026-10-28T16:54:44.052445+00:00"
+    },
+    {
+      "id": "954b3060b2e348db96197fbc",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "Cybersecurity’s Black October: How to protect yourself",
+      "url": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "Each day brings news of another AI-powered attack, or a newly discovered vulnerability. Here’s what’s happening and how ordinary people can protect themselves online.",
+      "fetched_at": "2026-10-28T16:54:44.052451+00:00"
+    },
+    {
+      "id": "99db2085d224e740d23493d2",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "জাপানের মতো ঢাকার ২১ স্কুলে পরিছন্নতার অভ্যাস গড়ে তোলার উদ্যাগ",
+      "url": "https://www.prothomalo.com/bangladesh/capital/yetrv0dj5p",
+      "summary": "",
+      "fetched_at": "2026-10-28T16:54:44.052455+00:00"
+    },
+    {
+      "id": "52f02acc732dc06cb8486097",
+      "source": "The Verge",
+      "category": "AI & Tech",
+      "title": "Govee’s colorful smart string lights are down to their best price of the year",
+      "url": "https://www.theverge.com/gadgets/1020139/govee-christmas-string-lights-2-tile-pro-deal-sale",
+      "summary": "Halloween isn’t even here yet, but it’s never too early to start thinking about holiday decorations, especially when there are already deals on smart, programmable lights. If you want your house, tree, fireplace, or what...",
+      "fetched_at": "2026-10-28T16:54:44.052460+00:00"
+    },
+    {
+      "id": "4b9fc04228be7a187c1efa1f",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "DTCC unit launches tokenization services",
+      "url": "https://cointelegraph.com/news/dtcc-subsidiary-launches-tokenization-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The post-trade market infrastructure provider said the tokenization services will create a “practical path” for tokenized securities adoption.",
+      "fetched_at": "2026-10-28T16:54:44.052466+00:00"
+    },
+    {
+      "id": "cd74311144b24b1d8043924a",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "আরএকে সিরামিকসের বিক্রি বৃদ্ধি পাওয়ায় লোকসান কমেছে",
+      "url": "https://www.prothomalo.com/business/industry/i401wsns91",
+      "summary": "",
+      "fetched_at": "2026-10-28T16:54:44.052470+00:00"
+    },
+    {
+      "id": "5d3a9a5e7202e42e215ff127",
+      "source": "The Verge",
+      "category": "AI & Tech",
+      "title": "Sony has new transparent PS5 controllers launching next year",
+      "url": "https://www.theverge.com/tech/1020671/sony-playstation-5-dualsense-wireless-controller-prism-collection-transparent",
+      "summary": "Sony announced a new Prism Collection line of PlayStation 5 accessories today that revisits \"the iconic see-through trend of the late '90s in a fresh, modern way\" for its DualSense wireless controllers and matching conso...",
+      "fetched_at": "2026-10-28T16:54:44.052474+00:00"
+    },
+    {
+      "id": "88aa5666d0074a609cd095c8",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut",
+      "url": "https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "A Euronext spokesperson told Cointelegraph the suspension was due to “operational settlement requirements” and remains in effect until settlement operations are supported by the CSD.",
+      "fetched_at": "2026-10-28T16:54:44.052481+00:00"
+    },
+    {
+      "id": "9e0ceb463ae9140d196c2bd8",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "বিজিএমইএর নির্বাচনে ভোট দিতে চাইলে সদস্যদের ইউডিসহ সব সেবা নিতে হবে",
+      "url": "https://www.prothomalo.com/business/industry/2qlrva57be",
+      "summary": "",
+      "fetched_at": "2026-10-28T16:54:44.052485+00:00"
+    },
+    {
+      "id": "b4fa5e08369de1eed46cb9b3",
+      "source": "The Verge",
+      "category": "AI & Tech",
+      "title": "8BitDo’s new Xbox Elite-style controller sets a high bar for customization",
+      "url": "https://www.theverge.com/gadgets/1017815/8bitdo-ultimate-3e-xbox-pc-controller-hands-on",
+      "summary": "It's hard to make an Xbox controller that stands out these days, especially one that's expensive, due to a wealth of great semi-affordable options. Still, 8BitDo's $150 Ultimate 3E is a bold controller that holds its own...",
+      "fetched_at": "2026-10-28T16:54:44.052490+00:00"
+    },
+    {
+      "id": "0b341a2fa5f350661811c16c",
+      "source": "Cointelegraph",
+      "category": "Crypto",
+      "title": "Mirae Asset Securities issues tokenized notes on Solana",
+      "url": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "summary": "The company’s Hong Kong unit issued six-month notes under its $3 billion program, extending blockchain-based distribution to institutional investors.",
+      "fetched_at": "2026-10-28T16:54:44.052495+00:00"
+    },
+    {
+      "id": "730a89310e105e5996cd843e",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "সৌদি-হুতি দুশমনির আদি ও আসল কারণ",
+      "url": "https://www.prothomalo.com/opinion/column/szpapvcelj",
+      "summary": "হুতি ও সৌদি সরকারের যে দুশমনি আজ দেখা যাচ্ছে, সেটি যে একটি সহস্রাব্দপ্রাচীন আদর্শিক দ্বন্দ্বের অনিবার্য ফল, তা খুবই কম আলোচিত হচ্ছে।",
+      "fetched_at": "2026-10-28T16:54:44.052500+00:00"
+    },
+    {
+      "id": "33db4841696c2019bdd5bf30",
+      "source": "The Verge",
+      "category": "AI & Tech",
+      "title": "Apple raises the MacBook Neo&#8217;s student pricing again",
+      "url": "https://www.theverge.com/tech/1020629/apple-macbook-neo-price-hike-education-store",
+      "summary": "The MacBook Neo now starts at $649 on Apple's Education Store, up $150 from its initial $499 education starting price. As reported earlier by MacRumors, the student discount for the Neo received a $50 price bump in recen...",
+      "fetched_at": "2026-10-28T16:54:44.052504+00:00"
+    },
+    {
+      "id": "990ab85407ebdcfb4d791cd0",
+      "source": "Prothom Alo",
+      "category": "Bangladesh News",
+      "title": "ওএমএসে পুষ্টিসমৃদ্ধ আটা বিতরণের পরিকল্পনা সরকারের",
+      "url": "https://www.prothomalo.com/bangladesh/e9unxwh8no",
+      "summary": "",
+      "fetched_at": "2026-10-28T16:54:44.052511+00:00"
+    },
+    {
+      "id": "43b8450582578bbb68243fba",
+      "source": "The Verge",
+      "category": "AI & Tech",
+      "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+      "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from ...",
+      "fetched_at": "2026-10-28T16:54:44.052515+00:00"
+    },
+    {
+      "id": "8f4e60b8d9acbfc51aa3a74a",
+      "source": "The Verge",
+      "category": "AI & Tech",
+      "title": "Here&#8217;s Virgin Galactic&#8217;s new Apeiron spaceship",
+      "url": "https://www.theverge.com/science/1020607/virgin-galactic-apeiron-2027-commercial-spaceflight",
+      "summary": "Virgin Galactic's new spaceship is here, dubbed \"Apeiron\" by popular vote from a public poll. Apeiron is the first of the company's new Delta-class spacecraft, but it isn't slated to launch for nearly another year. Earli...",
+      "fetched_at": "2026-10-28T16:54:44.052522+00:00"
+    },
+    {
+      "id": "9f9a8a90ee5f23f41c3d08d3",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "summary": "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 22 # Comments: 14",
+      "fetched_at": "2026-10-28T16:54:44.052532+00:00"
+    },
+    {
+      "id": "7463c04dbfb60cf2ca82dc9a",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "26,400 live credentials found scanning 7.25M repos on China's Gitee",
+      "url": "https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets",
+      "summary": "Article URL: https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets Comments URL: https://news.ycombinator.com/item?id=50275375 Points: 16 #...",
+      "fetched_at": "2026-10-28T16:54:44.052540+00:00"
+    },
+    {
+      "id": "0ecdb77a57249ff22c4aab26",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "r/Seattle mods discover malware injection by archive.today, ban site",
+      "url": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
+      "summary": "Article URL: https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/ Comments URL: https://news.ycombinator.com/item?id=50275373 Points: 21 # Comments: 9",
+      "fetched_at": "2026-10-28T16:54:44.052548+00:00"
+    },
+    {
+      "id": "86fa7c8044d2dc9d10ff7f84",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "summary": "Article URL: https://huggingface.co/blog/nvidia/nemotron-transcribe-granary Comments URL: https://news.ycombinator.com/item?id=50275128 Points: 11 # Comments: 0",
+      "fetched_at": "2026-10-28T16:54:44.052555+00:00"
+    },
+    {
+      "id": "46096dfecd159c70e20b4a63",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Tesla Semi catches fire on I-880",
+      "url": "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/",
+      "summary": "Article URL: https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/ Comments URL: https://news.ycombinator.com/item?id=50274706 Points: 57 # Comments: 29",
+      "fetched_at": "2026-10-28T16:54:44.052563+00:00"
+    },
+    {
+      "id": "b3e025d6a31876600961ca32",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "CNC Stone Carving",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "summary": "Article URL: https://carmelitegothic.com/cnc-stone-carving/ Comments URL: https://news.ycombinator.com/item?id=50274409 Points: 142 # Comments: 36",
+      "fetched_at": "2026-10-28T16:54:44.052569+00:00"
+    },
+    {
+      "id": "c8b3889f271db9685c64d8b1",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "An architectural comparison of Obsidian Canvas and Heptabase",
+      "url": "https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase",
+      "summary": "Article URL: https://www.fluxlinks.com/blog/obsidian-canvas-vs-heptabase Comments URL: https://news.ycombinator.com/item?id=50274139 Points: 25 # Comments: 8",
+      "fetched_at": "2026-10-28T16:54:44.052573+00:00"
+    },
+    {
+      "id": "dd61e91ca8cf574638b5c6d5",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+      "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+      "summary": "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 217 # Comments: 242",
+      "fetched_at": "2026-10-28T16:54:44.052577+00:00"
+    },
+    {
+      "id": "6dc84c20f6d1d8e28894a772",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Emacs Turns 50",
+      "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+      "summary": "Article URL: https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/ Comments URL: https://news.ycombinator.com/item?id=50273171 Points: 191 # Comments: 72",
+      "fetched_at": "2026-10-28T16:54:44.052580+00:00"
+    },
+    {
+      "id": "04e7df7f27e4190d689da5da",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+      "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
+      "summary": "Article URL: https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14...",
+      "fetched_at": "2026-10-28T16:54:44.052586+00:00"
+    },
+    {
+      "id": "1b8b0ef87d0c57dfabd87f01",
+      "source": "Hacker News (Front Page)",
+      "category": "AI & Tech",
+      "title": "About the compromised eMudhra intermediate CAs",
+      "url": "https://support.apple.com/en-us/149555",
+      "summary": "Article URL: https://support.apple.com/en-us/149555 Comments URL: https://news.ycombinator.com/item?id=50271685 Points: 116 # Comments: 57",
+      "fetched_at": "2026-10-28T16:54:44.052590+00:00"
+    },
     {
       "id": "46db350b1ee5f8abcb3d12c8",
       "source": "TechCrunch",
@@ -1766,942 +2702,6 @@
       "url": "https://www.thedailystar.net/slow-reads/focus/news/the-forgotten-art-bengali-advertising-4177626",
       "summary": "The forgotten art of Bengali advertising miftahul@theda… Sun, 05/17/2026 - 14:05 Image The forgotten art of Bengali advertising I have never seen someone at a rustic village market, anklets jingling, shouting slogans for...",
       "fetched_at": "2026-10-27T19:05:47.768728+00:00"
-    },
-    {
-      "id": "d2eff78b5b00e4aa0496014d",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "Cyberpunk 2 Listing Hints at Multiplayer Quests in CD Projekt Red Sequel",
-      "url": "https://www.polygon.com/cyberpunk-2-multiplayer-quests-leak-cd-projekt-red/",
-      "summary": "Cybperunk 2077's sequel teases multiplayer component in new leak from CD Projekt Red job listings",
-      "fetched_at": "2026-10-27T19:05:47.768735+00:00"
-    },
-    {
-      "id": "ce4b302e0d159ca8bd9297ef",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "The big reason Boeing’s stock is falling so hard after earnings",
-      "url": "https://www.marketwatch.com/story/the-big-reason-boeings-stock-is-falling-so-hard-after-earnings-d31b400d?mod=mw_rss_topstories",
-      "summary": "Boeing will come up short on 737 Max deliveries, casting doubt on its turnaround plans.",
-      "fetched_at": "2026-10-27T19:05:47.768745+00:00"
-    },
-    {
-      "id": "57ef54007be9edf9c46de2b4",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "Nasdaq-100 comes onchain as Janus Henderson and Centrifuge launch first licensed fund",
-      "url": "https://www.coindesk.com/business/2026/10/27/nasdaq-100-comes-onchain-as-janus-henderson-and-centrifuge-launch-first-licensed-fund",
-      "summary": "",
-      "fetched_at": "2026-10-27T19:05:47.768763+00:00"
-    },
-    {
-      "id": "367b341571111f38ccfb86ff",
-      "source": "Grist",
-      "category": "Climate",
-      "title": "Thwaites is a runaway climate disaster. New studies show how.",
-      "url": "https://grist.org/science/thwaites-runaway-climate-disaster-new-studies-show/",
-      "summary": "",
-      "fetched_at": "2026-10-27T19:05:47.768773+00:00"
-    },
-    {
-      "id": "22ce796e1adfb92c993f09e4",
-      "source": "The Daily Star",
-      "category": "Bangladesh News",
-      "title": "India’s top-heavy boom and the lesson for Bangladesh",
-      "url": "https://www.thedailystar.net/slow-reads/big-picture/news/indias-top-heavy-boom-and-the-lesson-bangladesh-4168031",
-      "summary": "India’s top-heavy boom and the lesson for Bangladesh khairul.jahin@… Tue, 05/05/2026 - 11:54 Image India’s top-heavy boom and the lesson for Bangladesh During my 14 months as Minister (Press) at the Bangladesh High Commi...",
-      "fetched_at": "2026-10-27T19:05:47.768781+00:00"
-    },
-    {
-      "id": "6e9c5a368a29f0740a3adf4b",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "GTA 6 Install Size Officially Revealed",
-      "url": "https://www.polygon.com/gta-6-storage-size-install-ps5-xbox-series-x/",
-      "summary": "Grand Theft Auto 6 on PlayStation 5 will require more than 200 GB of storage space, according to a new report.",
-      "fetched_at": "2026-10-27T19:05:47.768788+00:00"
-    },
-    {
-      "id": "58c78335a056977114bef4a3",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "‘CryptoDad’ on stablecoins, bitcoin’s role in a portfolio and why he does not directly own any crypto",
-      "url": "https://www.marketwatch.com/story/cryptodad-on-stablecoins-bitcoins-role-in-a-portfolio-and-why-he-does-not-directly-own-any-crypto-72472bc1?mod=mw_rss_topstories",
-      "summary": "What former CFTC Chairman Chris Giancarlo tells his own children about buying their first crypto coin.",
-      "fetched_at": "2026-10-27T19:05:47.768796+00:00"
-    },
-    {
-      "id": "b365bd22927d8eb71c7f7fa5",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "Exercise doesn't just strengthen your heart. It rewires it",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
-      "summary": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides ...",
-      "fetched_at": "2026-10-27T19:05:47.768806+00:00"
-    },
-    {
-      "id": "84754594417db8d968cb86bb",
-      "source": "TechCrunch",
-      "category": "AI & Tech",
-      "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
-      "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
-      "summary": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
-      "fetched_at": "2026-10-27T19:05:47.768813+00:00"
-    },
-    {
-      "id": "c0ad582037e1a131ee3ea5b6",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
-      "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
-      "summary": "",
-      "fetched_at": "2026-10-27T19:05:47.768823+00:00"
-    },
-    {
-      "id": "72ce9420494be5c2c588fb14",
-      "source": "The Daily Star",
-      "category": "Bangladesh News",
-      "title": "Doha diary: A historian amid the Iran war",
-      "url": "https://www.thedailystar.net/slow-reads/wisdom/news/doha-diary-historian-amid-the-iran-war-4129306",
-      "summary": "Doha diary: A historian amid the Iran war miftahul@theda… Mon, 03/16/2026 - 11:04 Image Doha diary: A historian amid the Iran war (Renowned historian and author, Rila Mukherjee, was scheduled to fly from the USA to India...",
-      "fetched_at": "2026-10-27T19:05:47.768835+00:00"
-    },
-    {
-      "id": "28f74faa54f4af24beab3380",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "8 MW4 DMZ beginner's tips to help you conquer Hajin",
-      "url": "https://www.polygon.com/mw4-modern-warfare-4-dmz-tips-best/",
-      "summary": "A guide full of tips and tricks for players looking to succeed in Modern Warfare 4's DMZ mode.",
-      "fetched_at": "2026-10-27T19:05:47.768842+00:00"
-    },
-    {
-      "id": "9287594213743948cd366d1a",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "JetBlue has been losing money for years. It just charted a path to profitability.",
-      "url": "https://www.marketwatch.com/story/jetblue-has-been-losing-money-for-years-it-just-charted-a-path-to-profitability-03be75c8?mod=mw_rss_topstories",
-      "summary": "JetBlue’s stock rises more than 20% as a new profit target helps calm fears about the airline’s viability.",
-      "fetched_at": "2026-10-27T19:05:47.768876+00:00"
-    },
-    {
-      "id": "90f5b27943fc138d77878fa9",
-      "source": "TechCrunch",
-      "category": "AI & Tech",
-      "title": "US government says hackers are now exploiting critical PHP web bugs",
-      "url": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
-      "summary": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
-      "fetched_at": "2026-10-27T19:05:47.768890+00:00"
-    },
-    {
-      "id": "bfea6711cc31732f556d394c",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "Dune: Part 3 Final Trailer Reveals Key Change From the Books",
-      "url": "https://www.polygon.com/dune-part-3-final-trailer-book-changes/",
-      "summary": "'Dune: Part 3' just got a new trailer that teases Chani's more crucial role compared to the book.",
-      "fetched_at": "2026-10-27T19:05:47.768910+00:00"
-    },
-    {
-      "id": "3c974c30815bb17c27cfb58c",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "When will Anthropic go public? Here’s what to know about the IPO timeline.",
-      "url": "https://www.marketwatch.com/story/when-will-anthropic-go-public-heres-what-to-know-about-the-ipo-timeline-431eca78?mod=mw_rss_topstories",
-      "summary": "By filing IPO paperwork on Monday, Anthropic can conduct its investor roadshow the week of Nov. 9 and would be eligible to go public as soon as the following week.",
-      "fetched_at": "2026-10-27T19:05:47.768918+00:00"
-    },
-    {
-      "id": "db2856cf2644c5d9959e7374",
-      "source": "TechCrunch",
-      "category": "AI & Tech",
-      "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
-      "url": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
-      "summary": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
-      "fetched_at": "2026-10-27T19:05:47.768930+00:00"
-    },
-    {
-      "id": "8a61cd2fdb4948e8aa635944",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "Fire Emblem: Fortune’s Weave’s Leaked Endings Are Extremely Weird",
-      "url": "https://www.polygon.com/fire-emblem-fortunes-weave-datamine-leaked-endings/",
-      "summary": "Fire Emblem Fortune's Weave datamining brought up a number of cut paired endings, and some of them, including one for Leda and Bertrand, kinda suck",
-      "fetched_at": "2026-10-27T19:05:47.768951+00:00"
-    },
-    {
-      "id": "1ab44a5e7db8efac42814221",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "Bond investors are starting to say ‘anything but tech.’ What that means for the AI boom.",
-      "url": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
-      "summary": "AI financing has been harder and more expensive to come by as the capital-spending boom comes under more scrutiny.",
-      "fetched_at": "2026-10-27T19:05:47.768959+00:00"
-    },
-    {
-      "id": "c0e833e3ef34c8992ef670d2",
-      "source": "TechCrunch",
-      "category": "AI & Tech",
-      "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
-      "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
-      "summary": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
-      "fetched_at": "2026-10-27T19:05:47.768970+00:00"
-    },
-    {
-      "id": "704ea1dc52482bbe2836dff9",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
-      "url": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
-      "summary": "",
-      "fetched_at": "2026-10-27T19:05:47.768979+00:00"
-    },
-    {
-      "id": "53fc5c2a7c06514d8c2a5c3e",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "I Spied on the WoW: Forever Beta as an Invisible God with the Blizzard Devs Who Made It",
-      "url": "https://www.polygon.com/wow-forever-making-of-interview/",
-      "summary": "The Blizzard team behind the reimagining of classic WoW tours the beta and explains the making of its new take on Azeroth",
-      "fetched_at": "2026-10-27T19:05:47.768993+00:00"
-    },
-    {
-      "id": "569863f43225fa0ab6028234",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "The U.S. economy is gathering steam. This is the chief reason why.",
-      "url": "https://www.marketwatch.com/story/u-s-economy-is-gathering-steam-this-is-the-chief-reason-why-9772978f?mod=mw_rss_topstories",
-      "summary": "The AI boom shows no sign of easing as Anthropic prepares to go public and businesses gobble up durable goods.",
-      "fetched_at": "2026-10-27T19:05:47.768999+00:00"
-    },
-    {
-      "id": "65c11c2b36bd5d8042ff3b86",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "বাণিজ্য মেলার মাঠে সচিবালয় স্থানান্তরের প্রতিবাদ, যন্ত্রাংশ ও দুটি গাড়ি নিয়ে গেলেন শেকৃবির শিক্ষার্থীরা",
-      "url": "https://www.prothomalo.com/bangladesh/capital/amxzw5tonr",
-      "summary": "",
-      "fetched_at": "2026-10-27T19:05:47.769026+00:00"
-    },
-    {
-      "id": "e372f2fc732624a348218196",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "'Kingdom Come: Deliverance' Studio Hit by Major Cyberattack",
-      "url": "https://www.polygon.com/kingdom-come-deliverance-cyberattack/",
-      "summary": "'Kingdom Come: Deliverance' developer Warhorse Studios confirmed it was the victim of a major cyberattack.",
-      "fetched_at": "2026-10-27T19:05:47.769033+00:00"
-    },
-    {
-      "id": "da343a0dcc2b981c2625ee26",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "ফ্রান্সের পথে পথে বাংলাদেশের ‘পথের বন্ধু’",
-      "url": "https://www.prothomalo.com/entertainment/dhallywood/qdtkjsoic5",
-      "summary": "ফ্রান্সে স্বপন আহমেদের &apos;পথের বন্ধু&apos; চলচ্চিত্রের শুটিং, বিপরীতে ইউরোপীয় কলাকুশলীদের অভিজ্ঞতা, প্রধান চরিত্র তৌকীর আহমেদ।",
-      "fetched_at": "2026-10-27T19:05:47.769064+00:00"
-    },
-    {
-      "id": "d519661d43d9ae52fedc06df",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "Target Black Friday Leak Reveals Big Deals for Pokémon TCG Fans",
-      "url": "https://www.polygon.com/target-black-friday-2026-pokemon-sale-30th-anniversary-product-list/",
-      "summary": "Target is expected to have a wide range of Pokémon 30th Anniversary TCG products for sale as doorbusters on Black Friday",
-      "fetched_at": "2026-10-27T19:05:47.769071+00:00"
-    },
-    {
-      "id": "001f2a31a466fa05fba97d4d",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big",
-      "url": "https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories",
-      "summary": "McDonald’s franchisees have complained about “tough meat” and other issues with new hand-breaded chicken, an analyst said.",
-      "fetched_at": "2026-10-27T19:05:47.769079+00:00"
-    },
-    {
-      "id": "04b8fde8ace319f066d459ef",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "AI detects “invisible” signs of pancreatic cancer years before diagnosis",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm",
-      "summary": "A powerful new AI system could help doctors detect pancreatic cancer years before it becomes visible on conventional scans. The technology, called REDMOD, identified hidden warning signs an average of 475 days before dia...",
-      "fetched_at": "2026-10-27T19:05:47.769091+00:00"
-    },
-    {
-      "id": "e91a99e0505d1a9127cf2e7d",
-      "source": "Grist",
-      "category": "Climate",
-      "title": "Europe’s hottest summer ever was also its deadliest — by far",
-      "url": "https://grist.org/extreme-heat/europes-hottest-summer-ever-was-also-its-deadliest-by-far/",
-      "summary": "",
-      "fetched_at": "2026-10-27T19:05:47.769107+00:00"
-    },
-    {
-      "id": "622cefb57911d1d635411dc9",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "সানজিদাদের বিদায়, সেমিফাইনালে কৃষ্ণা-সুমাইয়ারা",
-      "url": "https://www.prothomalo.com/video/bangladesh/yl0sqvvovt",
-      "summary": "",
-      "fetched_at": "2026-10-27T19:05:47.769115+00:00"
-    },
-    {
-      "id": "124a540a7b36b21a0abebde9",
-      "source": "Grist",
-      "category": "Climate",
-      "title": "The hidden history of how Big Oil invented the American Dream",
-      "url": "https://grist.org/culture/hidden-history-american-dream-oil-gas-investigation/",
-      "summary": "",
-      "fetched_at": "2026-10-27T19:05:47.769138+00:00"
-    },
-    {
-      "id": "cf8b4a995ea0dbf0b68f1356",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "দ্রুত সময়ের মধ্যে আইজিপির দায়িত্ব থেকে চলে যাওয়া উচিত: নাহিদ ইসলাম",
-      "url": "https://www.prothomalo.com/bangladesh/district/b9zemfnkc9",
-      "summary": "",
-      "fetched_at": "2026-10-27T19:05:47.769146+00:00"
-    },
-    {
-      "id": "c67fd06b9e9d902a6b4e6d19",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-      "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-      "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
-      "fetched_at": "2026-10-27T19:05:47.769160+00:00"
-    },
-    {
-      "id": "fc9f9958d9250396800273a6",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "শ্যালিকাকে বিয়ে, মুখে চুনকালি মাখিয়ে দুই স্ত্রীসহ গ্রামছাড়া করা হলো যুবককে",
-      "url": "https://www.prothomalo.com/video/bangladesh/ev6pjhg86l",
-      "summary": "শ্যালিকাকে বিয়ে, মুখে চুনকালি মাখিয়ে দুই স্ত্রীসহ গ্রামছাড়া করা হলো যুবককে",
-      "fetched_at": "2026-10-27T19:05:47.769175+00:00"
-    },
-    {
-      "id": "a3560e387f0cafeb3e1b63e7",
-      "source": "Grist",
-      "category": "Climate",
-      "title": "Soaring oil prices underscore the need to help poor countries adopt renewables",
-      "url": "https://grist.org/international/oil-prices-developing-countries-energy-transition-iran-war/",
-      "summary": "",
-      "fetched_at": "2026-10-27T19:05:47.769209+00:00"
-    },
-    {
-      "id": "5ced38d656b84639680308b5",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "ইসরায়েলে ভোটের ফলাফলে সম্ভাব্য ৪ পরিস্থিতি কী",
-      "url": "https://www.prothomalo.com/world/t6m8ysndpf",
-      "summary": "",
-      "fetched_at": "2026-10-27T19:05:47.769216+00:00"
-    },
-    {
-      "id": "2c82ccbaffda9a49c4e42af6",
-      "source": "Grist",
-      "category": "Climate",
-      "title": "California just showed how home batteries will radically remake the grid",
-      "url": "https://grist.org/solutions/california-just-showed-how-home-batteries-will-radically-remake-the-grid/",
-      "summary": "",
-      "fetched_at": "2026-10-27T19:05:47.769239+00:00"
-    },
-    {
-      "id": "4a0cc3342680f888a606dd08",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "জিপিএ–৫ পাওয়া ১৩৫ শিক্ষার্থী ও চা–দোকানি মা-বাবাকে সংবর্ধনা",
-      "url": "https://www.prothomalo.com/bangladesh/6mnpsmjq9n",
-      "summary": "",
-      "fetched_at": "2026-10-27T19:05:47.769246+00:00"
-    },
-    {
-      "id": "5b7d176206001e960addc6f0",
-      "source": "The Verge",
-      "category": "AI & Tech",
-      "title": "Trump is making it easier for fossil fuel companies to leak methane",
-      "url": "https://www.theverge.com/policy/1019691/gas-leak-methane-rule-rollback-trump",
-      "summary": "In its latest gift to oil and gas companies, the Trump administration is expected to announce plans today to weaken rules that guard against methane leaks. Methane is a smog-forming pollutant and a powerful greenhouse ga...",
-      "fetched_at": "2026-10-27T19:05:47.769258+00:00"
-    },
-    {
-      "id": "ca111b3cf8c61a5f5a0fab6a",
-      "source": "Hacker News (Best)",
-      "category": "Startups",
-      "title": "Genie 4",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "summary": "Article URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ Comments URL: https://news.ycombinator.com/item?id=50261319 Points: 316 # Comments: 175",
-      "fetched_at": "2026-10-27T19:05:47.769264+00:00"
-    },
-    {
-      "id": "d540f2f05ec0f10a03935d83",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
-      "url": "https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "The September survey offered a possible window into US voters who could consider fintech and digital asset policies on Election Day.",
-      "fetched_at": "2026-10-27T19:05:47.769271+00:00"
-    },
-    {
-      "id": "dfea674595e769a628725dc3",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "ভাওয়াইয়া থেকে ইসলামি গান, আব্বাসউদ্দীন আজও অম্লান",
-      "url": "https://www.prothomalo.com/bangladesh/capital/rqcdikjca6",
-      "summary": "",
-      "fetched_at": "2026-10-27T19:05:47.769278+00:00"
-    },
-    {
-      "id": "93f46f119219e49523a2811f",
-      "source": "The Verge",
-      "category": "AI & Tech",
-      "title": "VisionQuest is what happens when AI really goes rogue",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The ...",
-      "fetched_at": "2026-10-27T19:05:47.769285+00:00"
-    },
-    {
-      "id": "b40cb76180e43249f80e9792",
-      "source": "Hacker News (Best)",
-      "category": "Startups",
-      "title": "The US government is hiding secret court ruling about how it spies on Americans",
-      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-      "summary": "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/ Comments URL: https://news.ycombinator.com/item?id=50259604 Points: 456 # Comments: 144",
-      "fetched_at": "2026-10-27T19:05:47.769291+00:00"
-    },
-    {
-      "id": "f9d62e4d67016e5ae1bc2d35",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
-      "url": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "The blockchain-based fund offers eligible non-US investors exposure to the Nasdaq-100 as Janus Henderson expands its institutional tokenization business.",
-      "fetched_at": "2026-10-27T19:05:47.769298+00:00"
-    },
-    {
-      "id": "6778bc36d4a500f8bdc37825",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "জীবনানন্দের স্মরণে ভার্চ্যুয়াল পাঠচক্র",
-      "url": "https://www.bondhushava.com/activities/yy4g10rtir",
-      "summary": "পাঠচক্রে কবির প্রতি বন্ধুদের ভাবনা, তাঁর সাহিত্যকর্ম ও জীবনাদর্শ নিয়ে আলোচনা ও বিশ্লেষণ করা হয়। সঞ্চালক বলেন, ‘আমার মনে হয়, কুসুমকুমারী দাশের লেখা “আদর্শ ছেলে” কবিতার সেই আদর্শ ছেলেটিই জীবনানন্দ দাশ। তিনি ছিলেন খুব চুপচা...",
-      "fetched_at": "2026-10-27T19:05:47.769306+00:00"
-    },
-    {
-      "id": "d9b64a1d0d891998799375dc",
-      "source": "The Verge",
-      "category": "AI & Tech",
-      "title": "The Super Mouse puts a touchscreen macro pad under your hand",
-      "url": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
-      "summary": "A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The...",
-      "fetched_at": "2026-10-27T19:05:47.769313+00:00"
-    },
-    {
-      "id": "73616de0080f8acd5f71fab8",
-      "source": "Cointelegraph",
-      "category": "Crypto",
-      "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
-      "url": "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "summary": "USDC’s share of euro stablecoin trading has climbed to 56% since January 2024, with deeper liquidity as exchanges restrict USDT under MiCA.",
-      "fetched_at": "2026-10-27T19:05:47.769322+00:00"
-    },
-    {
-      "id": "0698d0a65d25adc113153ddf",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "ইন্দোনেশিয়ায় দাবানলের ধোঁয়া থেকে সুরক্ষায় চালু ‘অক্সিজেন বাস’",
-      "url": "https://www.prothomalo.com/world/asia/xza2l24kh8",
-      "summary": "",
-      "fetched_at": "2026-10-27T19:05:47.769329+00:00"
-    },
-    {
-      "id": "ae50f8b843ef24b58bbf8917",
-      "source": "The Verge",
-      "category": "AI & Tech",
-      "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit o...",
-      "fetched_at": "2026-10-27T19:05:47.769337+00:00"
-    },
-    {
-      "id": "8daafef43ceee2c6890bcc9f",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "ঢাকায় নতুন দুই মেট্রোরেলের স্টেশন ও রেলপথ তৈরির আনুষ্ঠানিক যাত্রা শুরু",
-      "url": "https://www.prothomalo.com/business/economics/elaxosljzq",
-      "summary": "",
-      "fetched_at": "2026-10-27T19:05:47.769349+00:00"
-    },
-    {
-      "id": "98af960d00b9308b26d2e6cc",
-      "source": "The Verge",
-      "category": "AI & Tech",
-      "title": "Meta’s $25 billion legal loss just put blood in the water",
-      "url": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
-      "summary": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ord...",
-      "fetched_at": "2026-10-27T19:05:47.769355+00:00"
-    },
-    {
-      "id": "5fd57abf8dee6b3ffed9614c",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "ভারতীয় গোয়েন্দার সঙ্গে পরওয়ারের বৈঠক, এ অভিযোগ রাশেদকে প্রমাণের চ্যালেঞ্জ জামায়াতের",
-      "url": "https://www.prothomalo.com/politics/et4mro1eo8",
-      "summary": "",
-      "fetched_at": "2026-10-27T19:05:47.769367+00:00"
-    },
-    {
-      "id": "2c6cf3a9df6d51fda2b251b7",
-      "source": "The Verge",
-      "category": "AI & Tech",
-      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-      "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull informat...",
-      "fetched_at": "2026-10-27T19:05:47.769388+00:00"
-    },
-    {
-      "id": "ab30d8cc7f4cccbfb709bb3d",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "যে লাউ সেই কদু",
-      "url": "https://nagorik.prothomalo.com/durporobash/a21o562sbj",
-      "summary": "",
-      "fetched_at": "2026-10-27T19:05:47.769398+00:00"
-    },
-    {
-      "id": "0a38999796a3bd1114686c89",
-      "source": "The Verge",
-      "category": "AI & Tech",
-      "title": "Major League Baseball is looking for a new kind of fan",
-      "url": "https://www.theverge.com/report/1019478/major-league-baseball-fandom-social-media-world-series-influencers",
-      "summary": "On October 2nd, just as Major League Baseball's Division Series was kicking off, the main MLB Instagram and TikTok accounts posted a video hyping up the teams still in the running for the World Series. It featured clips ...",
-      "fetched_at": "2026-10-27T19:05:47.769404+00:00"
-    },
-    {
-      "id": "dd9455630af9eafa0227970d",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "ব্যবসা বেড়েছে, তারপরও লোকসান বাড়ল সিঙ্গারের",
-      "url": "https://www.prothomalo.com/business/market/9c3oz5cnin",
-      "summary": "",
-      "fetched_at": "2026-10-27T19:05:47.769414+00:00"
-    },
-    {
-      "id": "229cc703b71d612daaa9506e",
-      "source": "The Verge",
-      "category": "AI & Tech",
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in re...",
-      "fetched_at": "2026-10-27T19:05:47.769420+00:00"
-    },
-    {
-      "id": "75b00c739083d4b7b5f70d00",
-      "source": "Prothom Alo",
-      "category": "Bangladesh News",
-      "title": "ক্ষতসহ অনেকক্ষণ জীবিত ছিলেন সাগর ও রুনি, তদন্তে এখন পর্যন্ত যে অগ্রগতি",
-      "url": "https://www.prothomalo.com/bangladesh/lqldat4rkr",
-      "summary": "",
-      "fetched_at": "2026-10-27T19:05:47.769431+00:00"
-    },
-    {
-      "id": "217f4d2ddd2023c1b52e71a5",
-      "source": "The Verge",
-      "category": "AI & Tech",
-      "title": "My favorite robot vacuum just got quieter, and more expensive",
-      "url": "https://www.theverge.com/tech/1019298/matic-serene-robot-vacuum-price-specs-release-date",
-      "summary": "Matic, the company behind my favorite robot vacuum, is launching its first new model since its 2023 debut: the Matic Serene. The new robotic floor cleaner has one key upgrade: noise reduction. With a promised output of j...",
-      "fetched_at": "2026-10-27T19:05:47.769436+00:00"
-    },
-    {
-      "id": "fb420f96cca96a58719f68bd",
-      "source": "The Verge",
-      "category": "AI & Tech",
-      "title": "Apple&#8217;s latest AirTag is the cheapest it’s ever been",
-      "url": "https://www.theverge.com/gadgets/1019138/apple-airtag-second-gen-cricut-joy-2-printer-deal-sale",
-      "summary": "Thanksgiving is less than a month away, so now’s a good time to start preparing before the rush. Fortunately, Apple&#8217;s latest AirTag can help you keep tabs on your luggage and other belongings amid the holiday chaos...",
-      "fetched_at": "2026-10-27T19:05:47.769448+00:00"
-    },
-    {
-      "id": "8f06c80d6cebbf5e214f89ee",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Discord will soon let anyone find public server messages through Google",
-      "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
-      "summary": "Article URL: https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover Comments URL: https://news.ycombinator.com/item?id=50263854 Points: 7 # Comments: 0",
-      "fetched_at": "2026-10-27T19:05:47.769459+00:00"
-    },
-    {
-      "id": "e3c79e9cfd0eb39e6d6ca0a8",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Three TLS Bugs in GoAhead",
-      "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
-      "summary": "Article URL: https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead Comments URL: https://news.ycombinator.com/item?id=50263701 Points: 7 # Comments: 0",
-      "fetched_at": "2026-10-27T19:05:47.769468+00:00"
-    },
-    {
-      "id": "fd86a481b503e468e769193a",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-      "url": "https://www.liquid.ai/blog/lfm3",
-      "summary": "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 35 # Comments: 11",
-      "fetched_at": "2026-10-27T19:05:47.769478+00:00"
-    },
-    {
-      "id": "73227353690e7281bd695926",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Ghostty 1.4.0",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "summary": "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 245 # Comments: 87",
-      "fetched_at": "2026-10-27T19:05:47.769488+00:00"
-    },
-    {
-      "id": "c7a84e332af52141579b3edd",
-      "source": "Hacker News (Best)",
-      "category": "Startups",
-      "title": "Concerning behavior from a popular open-weight AI model",
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "summary": "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 314 # Comments: 124",
-      "fetched_at": "2026-10-27T19:05:47.769494+00:00"
-    },
-    {
-      "id": "57499c4beb02e1a163e176ca",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
-      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-      "summary": "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 205 # Comments: 126",
-      "fetched_at": "2026-10-27T19:05:47.769502+00:00"
-    },
-    {
-      "id": "892c8cc9b255ca6bf6c9903b",
-      "source": "Hacker News (Best)",
-      "category": "Startups",
-      "title": "CSS-Tricks has a new owner",
-      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-      "summary": "Article URL: https://css-tricks.com/css-tricks-has-a-new-owner/ Comments URL: https://news.ycombinator.com/item?id=50245831 Points: 540 # Comments: 112",
-      "fetched_at": "2026-10-27T19:05:47.769507+00:00"
-    },
-    {
-      "id": "f766883b07ae263c308d0b1c",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Classification of Finite Simple Groups Formalized in Lean",
-      "url": "https://cfsg.axiommath.ai/",
-      "summary": "Article URL: https://cfsg.axiommath.ai/ Comments URL: https://news.ycombinator.com/item?id=50261647 Points: 74 # Comments: 20",
-      "fetched_at": "2026-10-27T19:05:47.769515+00:00"
-    },
-    {
-      "id": "5499ebaaef778cb4f373e059",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Vicious Cycles: Theses on a philosophy of news",
-      "url": "https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/",
-      "summary": "Article URL: https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/ Comments URL: https://news.ycombinator.com/item?id=50261623 Points: 12 # Comments: 2",
-      "fetched_at": "2026-10-27T19:05:47.769521+00:00"
-    },
-    {
-      "id": "67cdb6f2a7e4581737d9f51f",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
-      "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
-      "summary": "Article URL: https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/ Comments URL: https://news.ycombinator.com/item?id=50261583 Points: 26 # Comments: 0",
-      "fetched_at": "2026-10-27T19:05:47.769527+00:00"
-    },
-    {
-      "id": "6122c0be5659921785942dde",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Antique Fonts Collection – Restored 19th Century Typefaces",
-      "url": "https://centurylibrary.com/collection/antique-fonts/",
-      "summary": "Article URL: https://centurylibrary.com/collection/antique-fonts/ Comments URL: https://news.ycombinator.com/item?id=50261579 Points: 13 # Comments: 6",
-      "fetched_at": "2026-10-27T19:05:47.769533+00:00"
-    },
-    {
-      "id": "3577ae16ba70ad72945e35d7",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Apple introduces the new 14‑inch MacBook Pro with M6",
-      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "summary": "Article URL: https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/ Comments URL: https://news.ycombinator.com/item?id=50261352 Points: 101 # Comments: 109",
-      "fetched_at": "2026-10-27T19:05:47.769539+00:00"
-    },
-    {
-      "id": "57276e178ab4d85a2de84b38",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-      "summary": "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 191 # Comments: 94",
-      "fetched_at": "2026-10-27T19:05:47.769546+00:00"
-    },
-    {
-      "id": "1b01c761e3b32b2425878bc7",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "Show HN: Specification First Agentic Development Plugin and Prove",
-      "url": "https://spec-first.dev/",
-      "summary": "Implemented agent smith since start 2026 with over 1000 specifications which lead to about 500k lines of code. The procedure with that spec-first works well. How do you do it? Comments URL: https://news.ycombinator.com/i...",
-      "fetched_at": "2026-10-27T19:05:47.769552+00:00"
-    },
-    {
-      "id": "6f7e0e590a27b247499c06c8",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "A $300B 'Debt Wall' Is Looming over Private-Equity Backed Companies",
-      "url": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497",
-      "summary": "Article URL: https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497 Comments URL: https://news.ycombinator.com/item?id=50260526 Points: 99 # Comments: 27",
-      "fetched_at": "2026-10-27T19:05:47.769558+00:00"
-    },
-    {
-      "id": "6ccc4d2a58b60df4a5f83867",
-      "source": "Hacker News (Front Page)",
-      "category": "AI & Tech",
-      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
-      "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-      "summary": "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/ Comments URL: https://news.ycombinator.com/item?id=50259604 Points: 502 # Comments: 160",
-      "fetched_at": "2026-10-27T19:05:47.769565+00:00"
-    },
-    {
-      "id": "2fab932fdf339527a1bad34a",
-      "source": "TechCrunch",
-      "category": "AI & Tech",
-      "title": "Japan internet giant GMO says hackers posted stolen customer data",
-      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-      "summary": "GMO Internet is investigating a security breach after suspected hackers published stolen customer information online following an attack on its cloud services. The Japanese firm is currently working to verify the authenticity of the leaked data and assess the impact of the incident.",
-      "fetched_at": "2026-10-27T13:45:05.233386+00:00"
-    },
-    {
-      "id": "d02f2fbb9c007bea278c6853",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
-      "url": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
-      "summary": "Billionaire entrepreneur Palmer Luckey confirmed he will remain in California instead of moving to avoid the state’s proposed wealth tax. Although Luckey noted the tax is driving others to leave, he intends to stay and continue his efforts to oppose the legislation.",
-      "fetched_at": "2026-10-27T13:45:19.441307+00:00"
-    },
-    {
-      "id": "e3b7eff36f7b3ce6ceee3056",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
-      "url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
-      "summary": "Bitcoin mining firms are increasingly repurposing their high-performance hardware to support artificial intelligence workloads in response to growing demand for computational resources. This shift has facilitated the emergence of a new marketplace where processing power can be traded for AI-related tasks. By diversifying their operations, these companies are evolving their business models beyond the traditional scope of cryptocurrency production.",
-      "fetched_at": "2026-10-27T13:45:35.101915+00:00"
-    },
-    {
-      "id": "af6ecdfb8dc65eb7d0ef7890",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "PlanetScale: Video Editor",
-      "url": "https://weworkremotely.com/remote-jobs/planetscale-video-editor",
-      "summary": "PlanetScale is seeking a remote, U.S.-based Video Editor to produce a variety of digital content, including YouTube videos, social media shorts, and promotional films. The role emphasizes the integration of emerging AI tools with traditional editing techniques to enhance the company's visual storytelling and production workflows. Ideal candidates should possess a diverse portfolio demonstrating expertise across multiple video formats and a willingness to experiment with new creative technologies.",
-      "fetched_at": "2026-10-27T13:45:57.271137+00:00"
-    },
-    {
-      "id": "b2ac25df860fed8d063b8c2b",
-      "source": "Grist",
-      "category": "Climate",
-      "title": "High power bills, blackouts land Michigan utilities on the ballot",
-      "url": "https://grist.org/elections/high-power-bills-blackouts-land-michigan-utilities-on-the-ballot/",
-      "summary": "Michigan residents are advancing ballot initiatives to reform the state's energy sector in response to frequent power outages and rising utility costs. These measures seek to improve grid reliability and establish stricter oversight for major electricity providers.",
-      "fetched_at": "2026-10-27T13:46:21.585157+00:00"
-    },
-    {
-      "id": "de2450533ba2c74a7199728a",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "The best M4 build in Modern Warfare 4",
-      "url": "https://www.polygon.com/mw4-modern-warfare-4-m4-build-loadout-class-best/",
-      "summary": "Our guide details the best M4 build, loadout, and class to use in Modern Warfare 4.",
-      "fetched_at": "2026-10-27T13:46:41.154134+00:00"
-    },
-    {
-      "id": "599ea77f25d6dfeb34c0b1cf",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "Why SoFi’s stock is soaring after earnings",
-      "url": "https://www.marketwatch.com/story/sofis-stock-climbs-as-lending-surge-drives-an-earnings-beat-and-rosy-outlook-0c978535?mod=mw_rss_topstories",
-      "summary": "SoFi’s early 2027 forecast is impressing Wall Street after a tough stretch for the stock.",
-      "fetched_at": "2026-10-27T13:46:45.785013+00:00"
-    },
-    {
-      "id": "7ca1bb52fbba0b1bd4ee4563",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "Low testosterone may make sugar far more harmful to your liver",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261026225622.htm",
-      "summary": "Scientists have discovered that low testosterone and a high-fructose diet can work together to worsen fatty liver disease in mice. Unexpectedly, changes in gut bacteria appear to drive this harmful interaction, revealing...",
-      "fetched_at": "2026-10-27T13:46:50.615951+00:00"
-    },
-    {
-      "id": "16e552cecd89d43fac123cbc",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
-      "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
-      "summary": "Anduril and Qualcomm have partnered to launch BlueChip, a laptop designed to be produced entirely within the United States. The project aims to transition away from foreign-sourced technology by manufacturing every individual component domestically rather than focusing solely on final assembly.",
-      "fetched_at": "2026-10-27T13:46:57.594516+00:00"
-    },
-    {
-      "id": "786ac45af739be15f446341d",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
-      "summary": "",
-      "fetched_at": "2026-10-27T13:47:02.300183+00:00"
-    },
-    {
-      "id": "33fab0ec607f6ba45a176e88",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "StockX: Director, Category Growth (General Manager)",
-      "url": "https://weworkremotely.com/remote-jobs/stockx-director-category-growth-general-manager",
-      "summary": "StockX is seeking a remote Director of Category Growth to act as a general manager for one of its primary business verticals. The individual in this role will be responsible for the category’s financial performance and long-term strategic direction as part of the company's shift toward a more specialized organizational model. This leadership position aims to deepen the platform's connection with global customers through dedicated category management.",
-      "fetched_at": "2026-10-27T13:47:10.625391+00:00"
-    },
-    {
-      "id": "26faa66643e044de724b9382",
-      "source": "Grist",
-      "category": "Climate",
-      "title": "As extreme heat worsens, renters are gaining a ‘right to cooling’",
-      "url": "https://grist.org/extreme-heat/as-extreme-heat-worsens-renters-are-gaining-a-right-to-cooling/",
-      "summary": "",
-      "fetched_at": "2026-10-27T13:47:15.358854+00:00"
-    },
-    {
-      "id": "a9fc08366096fcb517f9926b",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "'Nocturne' Review: Apple’s Answer to 'The Silence of the Lambs' Is a Massive Failure",
-      "url": "https://www.polygon.com/nocturne-review-apple-tv/",
-      "summary": "Apple's adaptation of 'Nocturne' fundamentally misunderstands what made Lars Kepler's thriller 'The Sandman' so gripping.",
-      "fetched_at": "2026-10-27T13:47:20.006788+00:00"
-    },
-    {
-      "id": "12af4234c0322658b98d2d0f",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "A bigger-than-expected win for Democrats in the midterms could deliver ‘short-lived weakness’ for stocks, strategists say",
-      "url": "https://www.marketwatch.com/story/this-surprise-election-result-could-deliver-short-lived-weakness-for-stocks-strategists-say-2278a22e?mod=mw_rss_topstories",
-      "summary": "A divided federal government is expected after the midterms, but the size of the congressional majorities could really matter to markets.",
-      "fetched_at": "2026-10-27T13:47:24.614042+00:00"
-    },
-    {
-      "id": "2bc708e7df4fa0a7ca7559fc",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "The secret to slower aging may be hiding in your gut",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261026225620.htm",
-      "summary": "The secret to aging more slowly may be hiding in your gut. Scientists discovered that certain gut bacteria are strongly linked to how quickly the body ages, with microbial differences accounting for about 15% of the vari...",
-      "fetched_at": "2026-10-27T13:47:25.195445+00:00"
-    },
-    {
-      "id": "b47353572ebbec175dec52fe",
-      "source": "TechCrunch Startups",
-      "category": "Startups",
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
-      "fetched_at": "2026-10-27T13:47:25.195468+00:00"
-    },
-    {
-      "id": "a315d84db8c2bbc72544e919",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "Live updates: Bitcoin holds below $80,000 as AI buildout draws investor attention and capital",
-      "url": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
-      "summary": "",
-      "fetched_at": "2026-10-27T13:47:25.195474+00:00"
-    },
-    {
-      "id": "40278a1b3715ceb013c74d5c",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "Coinbase: Broker Dealer Operations, Associate",
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-broker-dealer-operations-associate",
-      "summary": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At&nbsp; Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we li...",
-      "fetched_at": "2026-10-27T13:47:25.195481+00:00"
-    },
-    {
-      "id": "6f1b052d2070aad18fd83c84",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "22 Years Ago, TV’s Best Sci-Fi Show Proved It Was About More Than the Mystery",
-      "url": "https://www.polygon.com/lost-house-of-the-rising-sun-retrospective/",
-      "summary": "Lost's \"House of the Rising Sun\" captures the emotional revelations and tantalizing mysteries that made the series so addictive in 2004.",
-      "fetched_at": "2026-10-27T13:47:25.195493+00:00"
-    },
-    {
-      "id": "15f5938f62b786aeec329646",
-      "source": "ScienceDaily Health",
-      "category": "Health",
-      "title": "Common drugs may help dangerous viruses spread through the body",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm",
-      "summary": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and ot...",
-      "fetched_at": "2026-10-27T13:47:25.195506+00:00"
-    },
-    {
-      "id": "bbffecabd32247a6a4f68e1d",
-      "source": "TechCrunch",
-      "category": "AI & Tech",
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-      "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-      "fetched_at": "2026-10-27T13:47:25.195512+00:00"
-    },
-    {
-      "id": "8c8c571e8721cb96c657d360",
-      "source": "CoinDesk",
-      "category": "Crypto",
-      "title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
-      "url": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
-      "summary": "",
-      "fetched_at": "2026-10-27T13:47:25.195519+00:00"
-    },
-    {
-      "id": "832534e6597654976bc1264c",
-      "source": "We Work Remotely",
-      "category": "Remote Work",
-      "title": "PlanetScale: Solutions Engineer",
-      "url": "https://weworkremotely.com/remote-jobs/planetscale-solutions-engineer",
-      "summary": "Headquarters: Remote - EMEA, Remote - NA PlanetScale is growing rapidly and reinventing the transactional database market. The PlanetScale platform offers both Postgres and Vitess clusters. Vitess, an open-source databas...",
-      "fetched_at": "2026-10-27T13:47:25.195525+00:00"
-    },
-    {
-      "id": "af96afce2c5cf2b9e52a1ab9",
-      "source": "Polygon",
-      "category": "Gaming",
-      "title": "Final Fantasy 7 Revelation Director Talks Deeper Narrative, Exploration, Combat, and Next Projects",
-      "url": "https://www.polygon.com/final-fantasy-7-revelation-hamaguchi-projects-narrative-exploration-combat-system/",
-      "summary": "From narrative details to a complex combat system, there's a lot to unpack in Hamaguchi's latest interview about Final Fantasy 7 Revelation.",
-      "fetched_at": "2026-10-27T13:47:25.195535+00:00"
-    },
-    {
-      "id": "8cf3c106cb03456fff4a17da",
-      "source": "MarketWatch Top Stories",
-      "category": "Finance",
-      "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-      "url": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-      "summary": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
-      "fetched_at": "2026-10-27T13:47:25.195542+00:00"
-    },
-    {
-      "id": "d528338b4a5af2090a617189",
-      "source": "TechCrunch",
-      "category": "AI & Tech",
-      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-      "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
-      "fetched_at": "2026-10-27T13:47:25.195552+00:00"
     }
   ]
 }
